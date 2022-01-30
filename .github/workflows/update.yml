@@ -1,7 +1,7 @@
 name: Update
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '0 6 * * *'
   workflow_dispatch:
 jobs:
   update:
@@ -18,9 +18,16 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r update/requirements.txt
-      - name: run update script
+      - name: update catalogo
+        env:
+          BASE_URL: ${{ secrets.BASE_URL }}
         run: |
-          python3 update/update.py &&  jupyter nbconvert --to notebook --inplace --execute index.ipynb &&           ./update/publish.sh index.ipynb
+          python3 update/update.py $BASE_URL
+        id: update_catalogo
+      - name: update page
+        run: |
+         jupyter nbconvert --to notebook --inplace --execute index.ipynb
+         ./update/publish.sh index.ipynb 
       - name: commit
         run: |
           git config --global user.email ine-bot@example.com"
