@@ -1,7 +1,8 @@
 name: Update
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 4 * * *'
+  workflow_dispatch:
 jobs:
   update:
     name: check, update and commit
@@ -19,16 +20,10 @@ jobs:
           pip install -r update/requirements.txt
       - name: run update script
         run: |
-          bash update/update.sh
-      - name: git status
-        id: git-status
+          python3 update/update.py &&  jupyter nbconvert --to notebook --inplace --execute index.ipynb &&           ./update/publish.sh index.ipynb
+      - name: commit
         run: |
           git config --global user.email ine-bot@example.com"
           git config --global user.name ine-bot"
-          echo ::set-output name=result::$(git diff catalogo_ine.csv | wc -l)
-      - name: commit
-        if: steps.git-status.outputs.result != 0
-        run: |
           git add -A
-          git commit -m "[ci] actualización"
-          git push -q "https://$GH_TOKEN@github.com/mauforonda/catalogo-ine.git" master
+          git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] actualización"; git push -q "https://$GH_TOKEN@github.com/mauforonda/catalogo-ine.git" master)
