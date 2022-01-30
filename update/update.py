@@ -27,8 +27,8 @@ def update_catalogo(base):
         catdf = catdf[['modificado', 'nombre', 'tipo', 'kb', 'link']]
         old_historial = pd.read_csv('catalogo_ine.csv', parse_dates=['modificado'])
         catdf_historial = pd.concat([old_historial, catdf]).drop_duplicates(subset=['modificado', 'nombre', 'tipo', 'link'], keep='first')
-        catdf_historial.sort_values('modificado').to_csv('catalogo_ine_historial.csv', index=False, float_format="%.2f")
-        catdf.sort_values('modificado').to_csv('catalogo_ine.csv', index=False, float_format="%.2f")
+        catdf_historial.sort_values(['modificado', 'link']).to_csv('catalogo_ine_historial.csv', index=False, float_format="%.2f")
+        catdf.sort_values(['modificado', 'link']).to_csv('catalogo_ine.csv', index=False, float_format="%.2f")
 
 base = base_url()
 update_catalogo(base)
