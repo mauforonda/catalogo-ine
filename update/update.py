@@ -9,6 +9,9 @@ import pytz
 import locale
 import time
 
+SLEEP_T = 1
+TIMEOUT = 20
+
 def parse_page(page):
     """
     Recolecta enlaces a files en nube.ine.gob.bo del contenido de una página
@@ -31,8 +34,7 @@ def get_links(offset=0, per_page=20):
 
     while True:
         print('offset: {}'.format(offset))
-        time.sleep(.1)
-        r = requests.get(url.format(per_page, offset))
+        r = requests.get(url.format(per_page, offset), timeout=TIMEOUT)
         offset += per_page
         if r.status_code != 200:
             break
@@ -42,6 +44,7 @@ def get_links(offset=0, per_page=20):
                 sharelinks.extend(parse_page(page))
             if len(r) < per_page:
                 break
+            time.sleep(SLEEP_T)
 
 def format_sharelinks(sharelinks):
     """
@@ -60,8 +63,7 @@ def get_filemeta(share_token):
     """
     
     s = requests.Session()
-    s.auth = ('admin', 'admin')
-    r = s.request(method='PROPFIND', url='https://nube.ine.gob.bo/public.php/webdav', auth=(share_token, ''))
+    r = s.request(method='PROPFIND', url='https://nube.ine.gob.bo/public.php/webdav', auth=(share_token, ''), timeout=TIMEOUT)
     
     metadata = xmltodict.parse(r.text)
     if metadata.__contains__('d:multistatus'):
@@ -84,7 +86,7 @@ def catalogo_ine(sharedf, offset=0):
     print("Consultar metadatos de enlaces")
     for i, row in sharedfi.iterrows():
         print('{}/{}'.format(i, total))
-        time.sleep(0.1)
+        time.sleep(SLEEP_T)
         metadata = get_filemeta(row['token'])
         if metadata != None:
             catalogo.append({**row.to_dict(), **metadata})
