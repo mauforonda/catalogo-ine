@@ -14,12 +14,13 @@ jobs:
         uses: actions/setup-python@v1
         with:
           python-version: '3.6'
-      - name: setup python
+      - name: setup python and locale
         run: |
           python -m pip install --upgrade pip
           pip install -r update/requirements.txt
-          sudo locale-gen es_US.UTF8
-          sudo update-locale LANG=es_US.UTF8
+          locale -a
+          sudo locale-gen es_US.UTF-8
+          sudo update-locale LANG=es_US.UTF-8
       - name: update catalogo
         env:
           BASE_URL: ${{ secrets.BASE_URL }}
