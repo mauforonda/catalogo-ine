@@ -36,4 +36,4 @@ jobs:
           git config --global user.email "ine-bot@example.com"
           git config --global user.name "ine-bot"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] actualización"; git push -q "https://$GH_TOKEN@github.com/mauforonda/catalogo-ine.git" master)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] $(cat update_time)"; git push -q "https://$GH_TOKEN@github.com/mauforonda/catalogo-ine.git" master)
