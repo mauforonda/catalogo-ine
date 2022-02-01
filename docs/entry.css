@@ -373,7 +373,7 @@ color: #555966;
     border: 1px solid #dcdcdf !important;
 }
 
-td {
+td, th {
     text-align: left !important;
 }
 
