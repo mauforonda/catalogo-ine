@@ -20,7 +20,7 @@ def update_catalogo(base):
 
     with open('update_time', 'w+') as f:
         f.write(requests.get('{}/update_time'.format(base)).text)
-    catdf = pd.read_csv('../catalogo_ine.csv'.format(base), parse_dates=['modificado'])
+    catdf = pd.read_csv('{}/catalogo_ine.csv'.format(base), parse_dates=['modificado'])
     old = pd.read_csv('catalogo_ine.csv', parse_dates=['modificado'])
     newlines = len(pd.concat([df.sort_values(['link']) for df in [catdf, old]]).drop_duplicates(keep=False))
     if newlines > 0:
