@@ -1,7 +1,7 @@
 name: Update
 on:
   schedule:
-    - cron: '0 6 * * 6'
+    - cron: '0 6 * * 3'
   workflow_dispatch:
 jobs:
   update:
@@ -22,15 +22,14 @@ jobs:
           sudo locale-gen es_US.UTF-8
           sudo update-locale LANG=es_US.UTF-8
       - name: update catalogo
-        env:
-          BASE_URL: ${{ secrets.BASE_URL }}
         run: |
-          python3 update/update.py $BASE_URL
+          python3 update/update_data.py
         id: update_catalogo
       - name: update page
         run: |
-         jupyter nbconvert --to notebook --inplace --execute index.ipynb
-         ./update/publish.sh index.ipynb 
+          ./update/diff.sh > catalogo_diff.csv
+          jupyter nbconvert --to notebook --inplace --execute index.ipynb
+          ./update/publish.sh index.ipynb 
       - name: commit
         run: |
           git config --global user.email "ine-bot@example.com"
