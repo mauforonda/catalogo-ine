@@ -28,8 +28,8 @@ jobs:
       - name: update page
         run: |
           ./update/diff.sh > catalogo_diff.csv
-          jupyter nbconvert --to notebook --inplace --execute index.ipynb
-          ./update/publish.sh index.ipynb 
+          jupyter nbconvert --to notebook --inplace --execute catalogo_ine.ipynb
+          ./update/publish.sh catalogo_ine.ipynb
       - name: commit
         run: |
           git config --global user.email "ine-bot@example.com"
