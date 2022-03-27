@@ -25,17 +25,17 @@ def parse_page(page):
     content = BeautifulSoup(page['content']['rendered'], 'html.parser')
     return [{'pageid':pageid, 'pagecreated': created, 'pagemodified':modified, 'pagelink': link, 'pagetitle': title, 'link': a['href'], 'name': a.get_text()} for a in content.select('a') if a.has_attr('href') and 'nube.ine.gob.bo' in a['href']]
 
-def get_links(offset=0, per_page=20):
+def get_links(domain, offset=0, per_page=20):
     """
     Explora todas las páginas disponibles en ine.gob.bo y recolecta sus enlaces relevantes en la variable `sharelinks`
     """
 
     print("Recolectar enlaces")
-    url = 'https://www.ine.gob.bo/wp-json/wp/v2/pages?orderby=modified&per_page={}&offset={}'
+    url = 'https://{}/wp-json/wp/v2/pages?orderby=modified&per_page={}&offset={}'
 
     while True:
         print('offset: {}'.format(offset))
-        r = requests.get(url.format(per_page, offset), timeout=TIMEOUT)
+        r = requests.get(url.format(domain, per_page, offset), timeout=TIMEOUT)
         offset += per_page
         if r.status_code != 200:
             break
@@ -225,6 +225,7 @@ def merge_dfs(dfs):
     return pd.concat([df[columns] for df in dfs]).sort_values(['modificado', 'link'])
 
 extraurls = ['https://www.ine.gob.bo/wp-integrate/vitacora_es/', 'https://www.ine.gob.bo/wp-integrate/vitacora/']
+wordpress_domains = ['censo.ine.gob.bo', 'www.ine.gob.bo']
 
 old = pd.read_csv('catalogo_ine.csv', parse_dates=['modificado'])
 
@@ -233,7 +234,8 @@ extrafiles = get_extrafiles(extraurls)
 
 # Coleccionar enlaces a files
 sharelinks = []
-get_links()
+for domain in wordpress_domains:
+    get_links(domain)
 sharedf = format_sharelinks(sharelinks)
 
 # Consultar metadatos para cada file
