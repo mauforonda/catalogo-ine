@@ -9,6 +9,7 @@ import pytz
 import locale
 import time
 import re
+from tenacity import retry, wait_exponential
 
 SLEEP_T = .01
 TIMEOUT = 20
@@ -58,13 +59,16 @@ def format_sharelinks(sharelinks):
     sharedf = sharedf.sort_values('pagecreated').reset_index(drop=True)
     return sharedf
 
+@retry(wait=wait_exponential(multiplier=1, min=4, max=10))
+def request_retry(share_token):
+    return s.request(method='PROPFIND', url='https://nube.ine.gob.bo/public.php/webdav', auth=(share_token, ''), timeout=TIMEOUT)
+        
 def get_filemeta(share_token):
     """
     Consulta metadatos para un file en nube.ine.gob.bo según su token
     """
-    
-    s = requests.Session()
-    r = s.request(method='PROPFIND', url='https://nube.ine.gob.bo/public.php/webdav', auth=(share_token, ''), timeout=TIMEOUT)
+
+    r = request_retry(share_token)
     
     metadata = xmltodict.parse(r.text)
     if metadata.__contains__('d:multistatus'):
@@ -129,15 +133,6 @@ def save_catalogo(catdf):
     with open('update_time', 'w+') as f:
         f.write(dt.datetime.now(pytz.timezone('America/La_Paz')).strftime('%Y-%m-%d %H:%M'))
     
-    # old = pd.read_csv('catalogo_ine.csv', parse_dates=['modificado'])
-    # newlines = len(pd.concat([df.sort_values(['link']) for df in [catdf, old]]).drop_duplicates(keep=False))
-    # print("{} nuevas líneas".format(newlines))
-    # if newlines > 0:
-    #     catdf = catdf[['modificado', 'nombre', 'tipo', 'kb', 'link']]
-    #     catdf_historial = pd.concat([old, catdf]).drop_duplicates(subset=['modificado', 'nombre', 'tipo', 'link'], keep='first')
-    #     catdf_historial.sort_values('modificado').to_csv('catalogo_ine_historial.csv', index=False, float_format="%.2f")
-    #     catdf.sort_values('modificado').to_csv('catalogo_ine.csv', index=False, float_format="%.2f")
-
 def update_data():
     catdf = pd.read_csv('catalogo_ine.csv', parse_dates=['modificado'])
     newlines = len(pd.concat([df.sort_values(['link']) for df in [catdf, old]]).drop_duplicates(keep=False))
@@ -240,6 +235,7 @@ sharedf = format_sharelinks(sharelinks)
 
 # Consultar metadatos para cada file
 catalogo = []
+s = requests.Session()
 catalogo_ine(sharedf)
 catdf = format_catalogo(catalogo)
 catdf = merge_dfs([extrafiles, catdf])
