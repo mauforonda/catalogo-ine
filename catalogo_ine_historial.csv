@@ -1878,6 +1878,7 @@ modificado,nombre,tipo,kb,link
 2022-03-30 19:45:16-04:00,"Bolivia – Exportaciones según Departamento y Producto por Año y Mes, 2017 – 2022",spreadsheet,952.45,https://nube.ine.gob.bo/index.php/s/Z2K43QnfeGoT0we/download
 2022-03-30 19:45:16-04:00,"Bolivia – Comercio Exterior según Año y Trimestre, 1992 – 2022",spreadsheet,684.00,https://nube.ine.gob.bo/index.php/s/ZX8HAozjd8iJYbm/download
 2022-03-30 19:45:16-04:00,"Bolivia – Exportaciones según Actividad Económica y Producto por Año y Mes, 1992 – 20221",spreadsheet,1574.48,https://nube.ine.gob.bo/index.php/s/d3xJKC6n6xlDsjV/download
+2022-03-30 19:45:16-04:00,"Bolivia – Exportaciones según Actividad Económica y Producto por Año y Mes, 1992 – 2022",spreadsheet,1574.48,https://nube.ine.gob.bo/index.php/s/d3xJKC6n6xlDsjV/download
 2022-03-30 19:45:16-04:00,"Bolivia – Comercio Exterior según Grandes Categorías Económicas, 1992 – 2022",spreadsheet,1082.33,https://nube.ine.gob.bo/index.php/s/oXl98KJQsspLm0a/download
 2022-03-30 19:45:16-04:00,"Bolivia – Exportaciones según Grandes Categorías Económicas por Año y Mes, 1992 – 2022",spreadsheet,1014.13,https://nube.ine.gob.bo/index.php/s/xwkBkig3lAy9uMr/download
 2022-03-30 19:45:16-04:00,"Bolivia- Exportaciones según Productos Tradicionales y No Tradicionales por Año y Mes, 1992 – 2022",spreadsheet,1007.04,https://nube.ine.gob.bo/index.php/s/zUQc65wIGkw1KUy/download
@@ -2011,6 +2012,7 @@ modificado,nombre,tipo,kb,link
 2022-04-01 14:16:51-04:00,"Bolivia – Salario Medio Real del Sector Privado segun Actividad Economica, 1996 – 2021",spreadsheet,217.62,https://nube.ine.gob.bo/index.php/s/Zw0HBiJ61moLE4h/download
 2022-04-01 14:17:33-04:00,"Bolivia – Salario Medio Real por Genero del Sector Privado por Grupo Ocupacional, 2004 – 2021",spreadsheet,1749.01,https://nube.ine.gob.bo/index.php/s/e7khhohclQ4kMua/download
 2022-04-01 14:33:12-04:00,"BOLIVIA – SALARIO MÍNIMO NACIONAL, 1991 – 2021",spreadsheet,60.05,https://nube.ine.gob.bo/index.php/s/uuDs3huAIOAF38K/download
+2022-04-04 16:55:28-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDAD CAPITAL, SEGÚN AÑO Y MES, 1990 – 2022",spreadsheet,62.25,https://nube.ine.gob.bo/index.php/s/PDY4fnsFeSYKtRi/download
 2022-04-05 10:52:34-04:00,Precios Promedio,spreadsheet,1198.04,https://nube.ine.gob.bo/index.php/s/paTMJoctWdeTMjP/download
 2022-04-05 11:36:31-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,375.69,https://nube.ine.gob.bo/index.php/s/yShHtkGbDI8FqKL/download
 2022-04-05 11:43:08-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,364.11,https://nube.ine.gob.bo/index.php/s/eT9zD72ifMxFaa9/download
@@ -2033,3 +2035,10 @@ modificado,nombre,tipo,kb,link
 2022-04-05 12:15:49-04:00,Índices a nivel producto,spreadsheet,1478.10,https://nube.ine.gob.bo/index.php/s/08ci0ilP5fn6BPK/download
 2022-04-05 12:16:06-04:00,Ponderaciones a nivel producto,spreadsheet,318.88,https://nube.ine.gob.bo/index.php/s/EQMuvl6gPWS7nM8/download
 2022-04-05 12:16:22-04:00,Ponderación a nivel de Ciudades Capitales y Conurbaciones,spreadsheet,177.14,https://nube.ine.gob.bo/index.php/s/V4DKX8sqLbxHG0L/download
+2022-04-06 10:31:31-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES CAPITALES, SEGÚN AÑO Y MES 2005 – 2022",spreadsheet,55.74,https://nube.ine.gob.bo/index.php/s/xfTj0OL9ecYJX3b/download
+2022-04-06 12:34:40-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDAD CAPITAL, SEGÚN AÑO Y MES, 1990 – 2022",spreadsheet,61.49,https://nube.ine.gob.bo/index.php/s/16Yi6GEtEgCY7XV/download
+2022-04-06 12:35:10-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2022",spreadsheet,50.40,https://nube.ine.gob.bo/index.php/s/2AbCGeqlzv1jJeB/download
+2022-04-07 18:29:58-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses",spreadsheet,283.46,https://nube.ine.gob.bo/index.php/s/8WADtR77KueGdX0/download
+2022-04-07 19:04:02-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Origen y Grupo",spreadsheet,216.15,https://nube.ine.gob.bo/index.php/s/Q0c1qM3oDcJ49lu/download
+2022-04-08 15:33:56-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Nacional",spreadsheet,704.75,https://nube.ine.gob.bo/index.php/s/3ZvP9M3dtgAj69y/download
+2022-04-08 15:33:56-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Importado",spreadsheet,704.57,https://nube.ine.gob.bo/index.php/s/8DlU1moySW76wqe/download
