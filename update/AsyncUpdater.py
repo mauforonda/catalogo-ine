@@ -23,7 +23,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import datetime as dt
 import xmltodict
-from pylogs.logging import new_logger, LogFile
 
 MAX_PAGES = 1000
 TIMEOUT = 20
@@ -40,8 +39,6 @@ TIPO_MAP = {
 
 class AsyncUpdater:
     loop: asyncio.AbstractEventLoop
-    log: LogFile
-    log_level: str = "INFO"
     client: httpx.AsyncClient
     url: Union[HttpUrl, AnyHttpUrl]
     domain: Union[HttpUrl, AnyHttpUrl]
@@ -62,13 +59,10 @@ class AsyncUpdater:
             d,
             w,
             du,
-            log_level="INFO",
             time_zone="America/La_Paz",
             csv_file="catalogo_ine.csv"
     ) -> None:
         self.loop = asyncio.new_event_loop()
-        self.log_level = log_level
-        self.log = new_logger("AsyncUpdater", log_level=self.log_level, type="JSON")
         self.url = u
         self.domain = d
         self.webdav_url = w
@@ -155,18 +149,14 @@ class AsyncUpdater:
         """
         Explora asincronamente la página solicitada y devuelve el json
         """
-        self.log.info(f"Starting to get links offset {offset}")
         r = await self.client.get(self.url.format(per_page, offset))
         await asyncio.sleep(random.random())
-        self.log.info(f"Recolectamos enlaces del offset {offset}")
         if r.status_code != 200:
             err = f"Offset {offset} failed to download with code {r.status_code}"
-            self.log.warning(err)
             raise Exception(err)
             # we could raise an Exception for gather
         r = r.json()
         if not r or len(r) < per_page:
-            self.log.info(f"Fetched {len(r)} results at offset {offset}!")
             return offset, None
         return offset, r
 
@@ -201,8 +191,6 @@ class AsyncUpdater:
             metadata['getetag'] = metadata['getetag'].replace('"', '')
             row = {**frame.iloc[0].to_dict(), **metadata}
             self.catalog.append(row)
-            self.log.info(f"Built frame {task_num} in offset {offset}")
-            self.log.debug(row)
         if bool(random.getrandbits(1)):
             await asyncio.sleep(random.random())
 
@@ -215,7 +203,6 @@ class AsyncUpdater:
 
         for outcome in await asyncio.gather(*self.get_tasks, return_exceptions=True):
             if isinstance(outcome, Exception):
-                self.log.info(f"Exception in get task {outcome}")
                 continue
             offset, result = outcome
             if result is None:
@@ -227,7 +214,6 @@ class AsyncUpdater:
             rows = len(frame.index)
             for i in range(rows):
                 task_num = f"{i}/{rows}"
-                self.log.info(f"Added meta task for {task_num} in offset {offset}")
                 self.meta_tasks.append(asyncio.create_task(self.get_file_meta(frame.iloc[[i]], offset, task_num)))
             await asyncio.gather(*self.meta_tasks, return_exceptions=True)
             self.format_catalog()
@@ -241,7 +227,7 @@ def main():
     webdav_url = 'https://nube.ine.gob.bo/public.php/webdav'
     download_url = 'https://nube.ine.gob.bo/index.php/s/{}/download'
     domain = 'nube.ine.gob.bo'
-    ine_files = AsyncUpdater(url, domain, webdav_url, download_url, log_level="INFO")
+    ine_files = AsyncUpdater(url, domain, webdav_url, download_url)
     ine_files.run_loop()
     ine_files.save_csv()
 
