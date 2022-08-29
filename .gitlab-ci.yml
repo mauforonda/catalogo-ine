@@ -19,7 +19,7 @@ pages:
     - git remote set-url --push origin git@gitlab.com:mauforonda/ine.git
     - git remote show origin
     - git pull origin master
-    - python update/update.py
+    - python update/AsyncUpdater.py
     - git status
     - git add -A
     - git commit -m "[skip ci] update"
