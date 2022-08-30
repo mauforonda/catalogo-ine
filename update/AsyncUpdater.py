@@ -122,7 +122,7 @@ class AsyncUpdater:
             catdf_historial.sort_values('modificado').to_csv(
                 '_'.join([file[:file.index('.')], 'historial']) + '.csv',
                 index=False, float_format="%.2f")
-        catalog.sort_values('modificado').to_csv(file, index=False, float_format="%.2f")
+        catalog.sort_values(['modificado', 'link']).to_csv(file, index=False, float_format="%.2f")
 
     def parse_pages(self, pages: Dict) -> Union[List[Dict], None]:
         """
