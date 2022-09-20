@@ -1,3 +1,3 @@
 A catalog of documents published by Instituto Nacional de Estadística, Bolivia.
 
-[Terrible idea by me](https://github.com/mauforonda/catalogo-ine), [beautiful implementation by Eric Arellano](https://gist.github.com/edam-software/5776f7e7d31bb26f99595b633a41a4ad).
+[Terrible idea by me](https://github.com/mauforonda/catalogo-ine), [beautiful implementation by Eric Arellano](https://gist.github.com/edam-software/ee55e865f5f4a0615149b93da994ba46).
