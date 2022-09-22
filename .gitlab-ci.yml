@@ -22,8 +22,7 @@ pages:
     - python update/AsyncUpdaterRetriesWorkers.py 
     - git status
     - git add -A
-    - git commit -m "[skip ci] update"
-    - git push --force origin HEAD:$CI_COMMIT_REF_NAME
+    - git diff --quiet && git diff --staged --quiet || (git commit -m "[skip ci] update"; git push --force origin HEAD:$CI_COMMIT_REF_NAME)
     - ls -a
     - mkdir public
     - cp *.csv public/
