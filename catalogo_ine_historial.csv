@@ -715,8 +715,8 @@ modificado,nombre,tipo,kb,link
 2022-03-29 14:42:27-04:00,"BOLIVIA: PARTICIPACIÓN DE LA FORMACIÓN BRUTA DE CAPITAL FIJO A PRECIOS CORRIENTES SEGÚN PRODUCTO, 1988 – 2021",spreadsheet,52.02,https://nube.ine.gob.bo/index.php/s/QhvAKkBiiHpjUCr/download
 2022-03-29 14:42:45-04:00,"BOLIVIA: DEFLACTOR IMPLÍCITO DE LA FORMACIÓN BRUTA DE CAPITAL FIJO SEGÚN PRODUCTO, 1988 – 2021",spreadsheet,52.04,https://nube.ine.gob.bo/index.php/s/rcsK0IBR3Wk7piC/download
 2022-03-30 18:32:12-04:00,BOLETÍN ESTADÍSTICO COMEX FEBRERO 2022,pdf,6370.50,https://nube.ine.gob.bo/index.php/s/g0ayO4ZCFDNtIcd/download
-2022-03-31 16:45:00-04:00,SALARIOS Y REMUNERACIONES DEL SECTOR PRIVADO IV TRIMESTRE 2021,pdf,2807.49,https://nube.ine.gob.bo/index.php/s/kzZe4lMQtFI33bc/download
 2022-03-31 16:45:00-04:00,SALARIOS Y REMUNERACIONES DEL SECTOR PÚBLICO DICIEMBRE DE 2021,pdf,3854.13,https://nube.ine.gob.bo/index.php/s/XZ01uiKn068Ffqw/download
+2022-03-31 16:45:00-04:00,SALARIOS Y REMUNERACIONES DEL SECTOR PRIVADO IV TRIMESTRE 2021,pdf,2807.49,https://nube.ine.gob.bo/index.php/s/kzZe4lMQtFI33bc/download
 2022-04-01 14:33:12-04:00,"BOLIVIA – SALARIO MÍNIMO NACIONAL, 1991 – 2021",spreadsheet,60.05,https://nube.ine.gob.bo/index.php/s/uuDs3huAIOAF38K/download
 2022-04-04 11:25:30-04:00,"Bolivia Parque Automotor por Tipo De Servicio y Clase de Vehículo, 2003 – 2021",spreadsheet,37.42,https://nube.ine.gob.bo/index.php/s/NIlpzUKYIiieeAd/download
 2022-04-04 11:28:21-04:00,"Bolivia Parque Automotor, según Departamento y Tipo de Servicio, 2003 – 2021",spreadsheet,36.89,https://nube.ine.gob.bo/index.php/s/nIeN0Jg37budUt4/download
@@ -757,17 +757,17 @@ modificado,nombre,tipo,kb,link
 2022-05-09 09:41:40-04:00,"CHUQUISACA: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2021",spreadsheet,64.63,https://nube.ine.gob.bo/index.php/s/h1Tg8ga2FDD0DqZ/download
 2022-05-09 09:41:40-04:00,"BOLIVIA: PRODUCTO INTERNO BRUTO, SEGÚN DEPARTAMENTO, 1988 – 2021",spreadsheet,68.81,https://nube.ine.gob.bo/index.php/s/gYngDQAZz7QANop/download
 2022-05-09 09:41:40-04:00,"BOLIVIA: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO, SEGÚN DEPARTAMENTO, 1988 – 2021",spreadsheet,68.18,https://nube.ine.gob.bo/index.php/s/gFZ8WCmJA0QLXmt/download
-2022-05-09 09:41:40-04:00,"PANDO: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.72,https://nube.ine.gob.bo/index.php/s/cR0vnfwQMvNbTE6/download
 2022-05-09 09:41:40-04:00,"BENI: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,80.54,https://nube.ine.gob.bo/index.php/s/f5jJXWvS5DT3joh/download
-2022-05-09 09:41:40-04:00,"ORURO: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,79.24,https://nube.ine.gob.bo/index.php/s/j2az8k6SKotxpMF/download
+2022-05-09 09:41:40-04:00,"BENI: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.72,https://nube.ine.gob.bo/index.php/s/hwx1WCz3vwOBIAr/download
+2022-05-09 09:41:40-04:00,"PANDO: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.72,https://nube.ine.gob.bo/index.php/s/cR0vnfwQMvNbTE6/download
 2022-05-09 09:41:40-04:00,"POTOSÍ: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2021",spreadsheet,64.54,https://nube.ine.gob.bo/index.php/s/aPL4hvPoJKnW7T1/download
 2022-05-09 09:41:40-04:00,"PANDO: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.12,https://nube.ine.gob.bo/index.php/s/a6I3bgB5p9hZUSo/download
 2022-05-09 09:41:40-04:00,"PANDO: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.75,https://nube.ine.gob.bo/index.php/s/XfJF9Zv24VAg88d/download
 2022-05-09 09:41:40-04:00,"CHUQUISACA: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,78.91,https://nube.ine.gob.bo/index.php/s/fjrtQnTVWO37WXD/download
-2022-05-09 09:41:40-04:00,"TARIJA: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2021",spreadsheet,64.75,https://nube.ine.gob.bo/index.php/s/k3HXUaRwfPMYqFp/download
-2022-05-09 09:41:40-04:00,"SANTA CRUZ: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,79.31,https://nube.ine.gob.bo/index.php/s/ndDJuunchuF1MpK/download
+2022-05-09 09:41:40-04:00,"ORURO: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,79.24,https://nube.ine.gob.bo/index.php/s/j2az8k6SKotxpMF/download
 2022-05-09 09:41:40-04:00,"POTOSÍ: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,77.83,https://nube.ine.gob.bo/index.php/s/nVr49vWVKMWZX0f/download
 2022-05-09 09:41:40-04:00,"TARIJA: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,79.21,https://nube.ine.gob.bo/index.php/s/XFZtiPTrzqyCIaW/download
+2022-05-09 09:41:40-04:00,"SANTA CRUZ: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,79.31,https://nube.ine.gob.bo/index.php/s/ndDJuunchuF1MpK/download
 2022-05-09 09:41:40-04:00,"LA PAZ: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.68,https://nube.ine.gob.bo/index.php/s/nyW23XSTgZPgPkw/download
 2022-05-09 09:41:40-04:00,"BENI: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.79,https://nube.ine.gob.bo/index.php/s/oWBU7n0Alb79krY/download
 2022-05-09 09:41:40-04:00,"PANDO: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2021",spreadsheet,65.02,https://nube.ine.gob.bo/index.php/s/pKjJW71TwI9vzaV/download
@@ -780,16 +780,15 @@ modificado,nombre,tipo,kb,link
 2022-05-09 09:41:40-04:00,"BOLIVIA: PRODUCTO INTERNO BRUTO, SEGÚN DEPARTAMENTO, 1988 – 2021",spreadsheet,65.67,https://nube.ine.gob.bo/index.php/s/xIGHrQ5jDlaLkRc/download
 2022-05-09 09:41:40-04:00,"TARIJA: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.85,https://nube.ine.gob.bo/index.php/s/xg4O7NWgppCeKjN/download
 2022-05-09 09:41:40-04:00,"BOLIVIA: CRECIMIENTO DEL PRODUCTO INTERNO BRUTO, SEGÚN DEPARTAMENTO, 1989 – 2021",spreadsheet,68.65,https://nube.ine.gob.bo/index.php/s/ygA05qOqUF2T9q1/download
-2022-05-09 09:41:40-04:00,"CHUQUISACA: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.89,https://nube.ine.gob.bo/index.php/s/n2BL5kNrHB8vs6E/download
+2022-05-09 09:41:40-04:00,"TARIJA: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2021",spreadsheet,64.75,https://nube.ine.gob.bo/index.php/s/k3HXUaRwfPMYqFp/download
 2022-05-09 09:41:40-04:00,"SANTA CRUZ: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.84,https://nube.ine.gob.bo/index.php/s/WFE06wQEezoctP5/download
-2022-05-09 09:41:40-04:00,"BENI: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.72,https://nube.ine.gob.bo/index.php/s/hwx1WCz3vwOBIAr/download
+2022-05-09 09:41:40-04:00,"CHUQUISACA: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.89,https://nube.ine.gob.bo/index.php/s/n2BL5kNrHB8vs6E/download
 2022-05-09 09:41:40-04:00,"LA PAZ: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,80.58,https://nube.ine.gob.bo/index.php/s/Vh2xuLSeb2HiFxX/download
 2022-05-09 09:41:40-04:00,"TARIJA: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.30,https://nube.ine.gob.bo/index.php/s/039xnQvDBgCjV3X/download
 2022-05-09 09:41:40-04:00,"COCHABAMBA: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,81.32,https://nube.ine.gob.bo/index.php/s/19qyMAKbnrGxBhC/download
 2022-05-09 09:41:40-04:00,"POTOSÍ: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,78.00,https://nube.ine.gob.bo/index.php/s/3YXR7szfR3Q7TFn/download
 2022-05-09 09:41:40-04:00,"BENI: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,78.83,https://nube.ine.gob.bo/index.php/s/50ckwLTrbNADm8k/download
-2022-05-09 09:41:40-04:00,"PRODUCTO INTERNO BRUTO PER CÁPITA A PRECIOS DE MERCADO EN BOLIVIANOS, SEGÚN DEPARTAMENTO, 1988 – 2021
-",spreadsheet,69.62,https://nube.ine.gob.bo/index.php/s/5iLdOjvtBAh67wo/download
+2022-05-09 09:41:40-04:00,"COCHABAMBA: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2021",spreadsheet,64.73,https://nube.ine.gob.bo/index.php/s/6AI46o1CpIPZCaf/download
 2022-05-09 09:41:40-04:00,"POTOSÍ: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.73,https://nube.ine.gob.bo/index.php/s/7SVR7AuX6H8l45H/download
 2022-05-09 09:41:40-04:00,"SANTA CRUZ: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.68,https://nube.ine.gob.bo/index.php/s/7zQF5y0oKhBHreg/download
 2022-05-09 09:41:40-04:00,"LA PAZ: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2021",spreadsheet,67.99,https://nube.ine.gob.bo/index.php/s/DTHT4alKY8sTqjJ/download
@@ -797,23 +796,24 @@ modificado,nombre,tipo,kb,link
 2022-05-09 09:41:40-04:00,"BENI: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2021",spreadsheet,64.62,https://nube.ine.gob.bo/index.php/s/E5PmsL8Xtd9LHiG/download
 2022-05-09 09:41:40-04:00,"SANTA CRUZ: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.54,https://nube.ine.gob.bo/index.php/s/EsenEoMg4j88jXD/download
 2022-05-09 09:41:40-04:00,"LA PAZ: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,78.57,https://nube.ine.gob.bo/index.php/s/FdvExIEZ27HNZTn/download
-2022-05-09 09:41:40-04:00,"COCHABAMBA: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,80.72,https://nube.ine.gob.bo/index.php/s/Ga8cEWN1Fl8dhnw/download
-2022-05-09 09:41:40-04:00,"TARIJA: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.14,https://nube.ine.gob.bo/index.php/s/HA5C4YZLhrJb3U7/download
-2022-05-09 09:41:40-04:00,"COCHABAMBA: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2021",spreadsheet,64.73,https://nube.ine.gob.bo/index.php/s/6AI46o1CpIPZCaf/download
 2022-05-09 09:41:40-04:00,"COCHABAMBA: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,80.51,https://nube.ine.gob.bo/index.php/s/VzNRxQGMTFKgB0Z/download
-2022-05-09 09:41:40-04:00,"LA PAZ: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.02,https://nube.ine.gob.bo/index.php/s/JGySvLfLxfxhIzb/download
-2022-05-09 09:41:40-04:00,"PANDO: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.96,https://nube.ine.gob.bo/index.php/s/K9n4oiVsQoPyBsu/download
-2022-05-09 09:41:40-04:00,"CHUQUISACA: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,80.47,https://nube.ine.gob.bo/index.php/s/LB1fJabf7mxQMdJ/download
-2022-05-09 09:41:40-04:00,"POTOSÍ: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.50,https://nube.ine.gob.bo/index.php/s/NkBlw9xk2zTIcFO/download
-2022-05-09 09:41:40-04:00,"SANTA CRUZ: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,80.15,https://nube.ine.gob.bo/index.php/s/ObyB7K4peHPfCCI/download
-2022-05-09 09:41:40-04:00,"BOLIVIA: PARTICIPACIÓN DEPARTAMENTAL EN EL PRODUCTO INTERNO BRUTO, SEGÚN DEPARTAMENTO, 1988 – 2021",spreadsheet,68.15,https://nube.ine.gob.bo/index.php/s/PEtIcuVdcCqsejn/download
-2022-05-09 09:41:40-04:00,"ORURO: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.10,https://nube.ine.gob.bo/index.php/s/PycgCZK6K6siAJc/download
+2022-05-09 09:41:40-04:00,"COCHABAMBA: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,80.72,https://nube.ine.gob.bo/index.php/s/Ga8cEWN1Fl8dhnw/download
+2022-05-09 09:41:40-04:00,"PRODUCTO INTERNO BRUTO PER CÁPITA A PRECIOS DE MERCADO EN BOLIVIANOS, SEGÚN DEPARTAMENTO, 1988 – 2021
+",spreadsheet,69.62,https://nube.ine.gob.bo/index.php/s/5iLdOjvtBAh67wo/download
 2022-05-09 09:41:40-04:00,"ORURO: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.37,https://nube.ine.gob.bo/index.php/s/J1Bt9MF6cxVWY0B/download
-2022-05-09 09:41:40-04:00,"PANDO: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,78.59,https://nube.ine.gob.bo/index.php/s/Pz4su0x9IRmGUZe/download
-2022-05-09 09:41:40-04:00,"SANTA CRUZ: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2021",spreadsheet,64.80,https://nube.ine.gob.bo/index.php/s/QQWrEzFn9ROA6X5/download
-2022-05-09 09:41:40-04:00,"BENI: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.17,https://nube.ine.gob.bo/index.php/s/RyU99oEj1nxHtfn/download
-2022-05-09 09:41:40-04:00,"COCHABAMBA: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,81.08,https://nube.ine.gob.bo/index.php/s/TPp9wVaoTi9eRxp/download
 2022-05-09 09:41:40-04:00,"ORURO: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.31,https://nube.ine.gob.bo/index.php/s/Tu4spsk5XiQwiMP/download
+2022-05-09 09:41:40-04:00,"COCHABAMBA: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,81.08,https://nube.ine.gob.bo/index.php/s/TPp9wVaoTi9eRxp/download
+2022-05-09 09:41:40-04:00,"BENI: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.17,https://nube.ine.gob.bo/index.php/s/RyU99oEj1nxHtfn/download
+2022-05-09 09:41:40-04:00,"SANTA CRUZ: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2021",spreadsheet,64.80,https://nube.ine.gob.bo/index.php/s/QQWrEzFn9ROA6X5/download
+2022-05-09 09:41:40-04:00,"TARIJA: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.14,https://nube.ine.gob.bo/index.php/s/HA5C4YZLhrJb3U7/download
+2022-05-09 09:41:40-04:00,"ORURO: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,79.10,https://nube.ine.gob.bo/index.php/s/PycgCZK6K6siAJc/download
+2022-05-09 09:41:40-04:00,"PANDO: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2021",spreadsheet,78.59,https://nube.ine.gob.bo/index.php/s/Pz4su0x9IRmGUZe/download
+2022-05-09 09:41:40-04:00,"SANTA CRUZ: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,80.15,https://nube.ine.gob.bo/index.php/s/ObyB7K4peHPfCCI/download
+2022-05-09 09:41:40-04:00,"POTOSÍ: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.50,https://nube.ine.gob.bo/index.php/s/NkBlw9xk2zTIcFO/download
+2022-05-09 09:41:40-04:00,"CHUQUISACA: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,80.47,https://nube.ine.gob.bo/index.php/s/LB1fJabf7mxQMdJ/download
+2022-05-09 09:41:40-04:00,"PANDO: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.96,https://nube.ine.gob.bo/index.php/s/K9n4oiVsQoPyBsu/download
+2022-05-09 09:41:40-04:00,"LA PAZ: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2021",spreadsheet,78.02,https://nube.ine.gob.bo/index.php/s/JGySvLfLxfxhIzb/download
+2022-05-09 09:41:40-04:00,"BOLIVIA: PARTICIPACIÓN DEPARTAMENTAL EN EL PRODUCTO INTERNO BRUTO, SEGÚN DEPARTAMENTO, 1988 – 2021",spreadsheet,68.15,https://nube.ine.gob.bo/index.php/s/PEtIcuVdcCqsejn/download
 2022-05-12 10:02:26-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES ABRIL DE 2022,pdf,7661.82,https://nube.ine.gob.bo/index.php/s/8AJsbafx3AVj6xP/download
 2022-05-12 12:09:51-04:00,"Bolivia-Gasto Turístico de Visitantes Nacionales En el Exterior, Según Tipo De Gasto Por Año, 2008 – 2021",excel,742.50,https://nube.ine.gob.bo/index.php/s/Fi1tyPWK035tOHy/download
 2022-05-12 12:14:45-04:00,"Bolivia-Llegada de Viajeros Internacionales, Según Modo de Transporte y Tipo de Viajero Por Año, 2008-2021",excel,735.50,https://nube.ine.gob.bo/index.php/s/UQU3H4MBlWjELHj/download
@@ -908,8 +908,8 @@ modificado,nombre,tipo,kb,link
 2022-05-20 11:43:01-04:00,"BOLIVIA: HOGARES POR SEXO DEL JEFE DE HOGAR, SEGÚN DEPARTAMENTO Y TIPO DE HOGAR, 2011-2021",spreadsheet,91.46,https://nube.ine.gob.bo/index.php/s/xGGJCpyGiQnwqu6/download
 2022-05-20 11:43:12-04:00,"BOLIVIA: POBLACIÓN DE 4 AÑOS O MÁS DE EDAD POR SEXO, SEGÚN ÁREA E IDIOMA MATERNO, 2011-2021",spreadsheet,62.65,https://nube.ine.gob.bo/index.php/s/MqhyryBUJ8vclRG/download
 2022-05-20 11:43:23-04:00,"BOLIVIA: POBLACIÓN DE 4 AÑOS O MÁS DE EDAD POR SEXO, SEGÚN DEPARTAMENTO E IDIOMA MATERNO, 2011-2021",spreadsheet,86.28,https://nube.ine.gob.bo/index.php/s/MA6YqDdDfuYfhxC/download
-2022-05-20 12:10:38-04:00,"Bolivia – Índice de volumen físico de la Industria Manufacturera, 1990 – 2019",excel,94.50,https://nube.ine.gob.bo/index.php/s/wonbtDIhs4yKGp2/download
 2022-05-20 12:10:38-04:00,"Bolivia – Índice de volumen de ventas de la Industria Manufacturera, 1990 – 2019",excel,95.00,https://nube.ine.gob.bo/index.php/s/mz7t2mfF0UVQcGu/download
+2022-05-20 12:10:38-04:00,"Bolivia – Índice de volumen físico de la Industria Manufacturera, 1990 – 2019",excel,94.50,https://nube.ine.gob.bo/index.php/s/wonbtDIhs4yKGp2/download
 2022-05-20 15:51:09-04:00,Bolivia – Longitud de Aeropuertos por Tipo de Uso 2021,spreadsheet,53.38,https://nube.ine.gob.bo/index.php/s/5MzXfnusCOb0j65/download
 2022-05-20 16:03:24-04:00,"Bolivia – Infraestructura Aeroportuaria según Departamento, 2005 – 2021",spreadsheet,59.96,https://nube.ine.gob.bo/index.php/s/5tkefV3joKNJfc5/download
 2022-05-20 16:29:41-04:00,"BOLIVIA:INDICADORES DE POBREZA EXTREMA(1), SEGÚN ÁREA, 2016-2021",spreadsheet,278.64,https://nube.ine.gob.bo/index.php/s/pXqRJfiYICkmrzh/download
@@ -991,16 +991,16 @@ modificado,nombre,tipo,kb,link
 2022-09-19 11:44:48-04:00,"Bolivia – Superficie Bajo Plan General de Manejo Forestal Aprobado, Departamento 1998-2021",spreadsheet,36.70,https://nube.ine.gob.bo/index.php/s/byoNEQsUbPTTJHv/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTO, POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO DEL RECIÉN NACIDO, 2010-2021",spreadsheet,71.41,https://nube.ine.gob.bo/index.php/s/yMXnjiMDv2a2LtG/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DIVORCIOS POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y CATEGORÍA DEL DIVORCIO, 2010-2021",spreadsheet,44.84,https://nube.ine.gob.bo/index.php/s/tXRslp46papEOtW/download
-2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DEFUNCIONES DE MENORES DE UN AÑO, POR AÑO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO DEL FALLECIDO, 2010-2021",spreadsheet,41.98,https://nube.ine.gob.bo/index.php/s/eYtoatL8YAghXQ7/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE RECONOCIMIENTOS Y ADOPCIONES POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO, 2010-2021",spreadsheet,44.28,https://nube.ine.gob.bo/index.php/s/YKiYvoaa92LPitB/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE MATRIMONIO REGISTRADOS POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO, ESTADO CIVIL PREVIO AL MATRIMONIO Y SEXO, 2010-2021",spreadsheet,51.52,https://nube.ine.gob.bo/index.php/s/WfWAHWiQF71Bnss/download
-2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DEFUNCIONES POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO DEL FALLECIDO, 2010-2021",spreadsheet,45.30,https://nube.ine.gob.bo/index.php/s/JQq7fcjxZ3DL4dM/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTO DE MENORES DE UN AÑO, POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO DEL RECIÉN NACIDO, 2010-2021",spreadsheet,44.24,https://nube.ine.gob.bo/index.php/s/SdI1xgT2xGzalN1/download
+2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DEFUNCIONES POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO DEL FALLECIDO, 2010-2021",spreadsheet,45.30,https://nube.ine.gob.bo/index.php/s/JQq7fcjxZ3DL4dM/download
+2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DEFUNCIONES DE MENORES DE UN AÑO, POR AÑO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO DEL FALLECIDO, 2010-2021",spreadsheet,41.98,https://nube.ine.gob.bo/index.php/s/eYtoatL8YAghXQ7/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE UNIONES LIBRES POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO, 2016-2021",spreadsheet,41.91,https://nube.ine.gob.bo/index.php/s/I21r9NeYfsjjKng/download
-2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTOS POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y ESTADO CIVIL DEL PADRE, 2010-2021",spreadsheet,47.80,https://nube.ine.gob.bo/index.php/s/IOifHaitweZDegF/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE MATRIMONIO REGISTRADOS POR AÑO, SEGÚN DEPARTAMENTO, GRUPO DE EDAD Y SEXO DE LOS CONTRAYENTES, 2010-2021",spreadsheet,58.28,https://nube.ine.gob.bo/index.php/s/GliEYFJnagaXOSl/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DEFUNCIONES POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO Y GRUPO DE EDAD DEL FALLECIDO, 2010-2021",spreadsheet,50.04,https://nube.ine.gob.bo/index.php/s/9rm4WA41iwzzcft/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTO INSCRITOS, POR AÑO DE REGISTRO, SEGÚN GRUPO DE EDAD, 2010-2021",spreadsheet,46.62,https://nube.ine.gob.bo/index.php/s/9r7keoK4J7l7YCj/download
+2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTOS POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y ESTADO CIVIL DEL PADRE, 2010-2021",spreadsheet,47.80,https://nube.ine.gob.bo/index.php/s/IOifHaitweZDegF/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE MATRIMONIO REGISTRADOS POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO, 2010-2021",spreadsheet,42.01,https://nube.ine.gob.bo/index.php/s/9DlvVokIT9HFx6P/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTO POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y ESTADO CIVIL DE LA MADRE, 2010-2021",spreadsheet,47.86,https://nube.ine.gob.bo/index.php/s/6Fz5M1w8FpbEquM/download
 2022-09-22 11:15:34-04:00,"BOLIVIA: CÉDULAS DE IDENTIDAD DE EXTRANJERO OTORGADAS POR GESTIÓN Y TIPO, SEGÚN LUGAR DE EMISIÓN Y SEXO, 2015 – 2021(p)",spreadsheet,70.71,https://nube.ine.gob.bo/index.php/s/zjZqJOZt6vtURLV/download
@@ -1138,16 +1138,16 @@ modificado,nombre,tipo,kb,link
 2022-09-30 09:22:52-04:00,"BOLIVIA: ATENCIÓN DE PARTO Y POSTPARTO, SEGÚN DEPARTAMENTO, 1997 – 2021",excel,87.50,https://nube.ine.gob.bo/index.php/s/opToOzY16tSy9PY/download
 2022-09-30 09:22:52-04:00,"BOLIVIA: ESTABLECIMIENTOS DE SALUD, SEGÚN DEPARTAMENTO Y TIPO DE ESTABLECIMIENTO, 1997 – 2021",spreadsheet,49.10,https://nube.ine.gob.bo/index.php/s/m3tHd1Haz1FZBNQ/download
 2022-09-30 09:22:52-04:00,"BOLIVIA: APLICACIONES DE VACUNA ANTISARAMPIONOSA A NIÑOS Y NIÑAS DE 1 AÑO, SEGÚN DEPARTAMENTO Y NÚMERO DE DOSIS, 2005 – 2021",excel,63.50,https://nube.ine.gob.bo/index.php/s/elCrJwpHaxFOAbv/download
-2022-09-30 09:22:52-04:00,"BOLIVIA: NACIMIENTOS CON BAJO PESO Y PORCENTAJE DE BAJO PESO AL NACER, SEGÚN DEPARTAMENTO, 1997 – 2021",excel,73.00,https://nube.ine.gob.bo/index.php/s/V9SKtFmCo3wd2A9/download
 2022-09-30 09:22:52-04:00,"BOLIVIA: HABITANTES POR ESTABLECIMIENTOS DE SALUD, SEGÚN DEPARTAMENTO, 1997 – 2021",spreadsheet,49.97,https://nube.ine.gob.bo/index.php/s/dvp2F2eRjzKjGPn/download
+2022-09-30 09:22:52-04:00,"BOLIVIA: NACIMIENTOS CON BAJO PESO Y PORCENTAJE DE BAJO PESO AL NACER, SEGÚN DEPARTAMENTO, 1997 – 2021",excel,73.00,https://nube.ine.gob.bo/index.php/s/V9SKtFmCo3wd2A9/download
+2022-09-30 09:22:52-04:00,"BOLIVIA: VITAMINA “A” APLICADA A MENORES DE 5 AÑOS, SEGÚN DEPARTAMENTO, GRUPO DE EDAD Y NÚMERO DE DOSIS, 2005 – 2021",excel,92.50,https://nube.ine.gob.bo/index.php/s/HMUAvAbqd4ZjOmC/download
 2022-09-30 09:22:52-04:00,"BOLIVIA: CONTROL DE CRECIMIENTO A NIÑOS MENORES DE 5 AÑOS, NUEVO Y REPETIDO, SEGÚN DEPARTAMENTO,  2007 – 2021",excel,75.00,https://nube.ine.gob.bo/index.php/s/R1p5bESgM0ES31Z/download
 2022-09-30 09:22:52-04:00,"BOLIVIA: DOSIS DE VACUNAS APLICADAS EN MENORES DE 1 AÑO, SEGÚN DEPARTAMENTO Y TIPO DE VACUNA, 2005 – 2021",excel,108.00,https://nube.ine.gob.bo/index.php/s/MAtVWaYpgn9VLa8/download
 2022-09-30 09:22:52-04:00,"BOLIVIA: DOSIS DE VITAMINA “A” APLICADAS A NIÑOS Y NIÑAS DE 1 A 4 AÑOS, SEGÚN DEPARTAMENTO Y NÚMERO DE DOSIS, 1997 – 2021",excel,85.50,https://nube.ine.gob.bo/index.php/s/HPkOTo7cNFwio9v/download
-2022-09-30 09:22:52-04:00,"BOLIVIA: VITAMINA “A” APLICADA A MENORES DE 5 AÑOS, SEGÚN DEPARTAMENTO, GRUPO DE EDAD Y NÚMERO DE DOSIS, 2005 – 2021",excel,92.50,https://nube.ine.gob.bo/index.php/s/HMUAvAbqd4ZjOmC/download
+2022-09-30 09:22:52-04:00,"BOLIVIA: CAMAS, SEGÚN DEPARTAMENTO Y TIPO DE ESTABLECIMIENTO, 2005 – 2021",excel,69.50,https://nube.ine.gob.bo/index.php/s/TWZsbLJCyGidFhR/download
 2022-09-30 09:22:52-04:00,"BOLIVIA: ESTUDIOS CITOLÓGICOS VAGINALES (PAP) EN MUJERES EN EDAD FÉRTIL, SEGÚN DEPARTAMENTO, 1997 – 2021",excel,173.50,https://nube.ine.gob.bo/index.php/s/Dwmdh0IJEQwrhmG/download
 2022-09-30 09:22:52-04:00,"BOLIVIA: CONSULTA EXTERNA DE LA POBLACIÓN DE 5 AÑOS O MÁS DE EDAD, SEGÚN DEPARTAMENTO Y TIPO DE CONSULTA, 1997 – 2021",excel,73.00,https://nube.ine.gob.bo/index.php/s/5wg4Qw1zj5HD1i1/download
 2022-09-30 09:22:52-04:00,"BOLIVIA: CAMAS HOSPITALARIAS Y HABITANTES POR CAMAS HOSPITALARIAS, SEGÚN DEPARTAMENTO, 2005 – 2021",excel,66.00,https://nube.ine.gob.bo/index.php/s/26Rv6tWsxuczIeF/download
-2022-09-30 09:22:52-04:00,"BOLIVIA: CAMAS, SEGÚN DEPARTAMENTO Y TIPO DE ESTABLECIMIENTO, 2005 – 2021",excel,69.50,https://nube.ine.gob.bo/index.php/s/TWZsbLJCyGidFhR/download
 2022-09-30 10:35:03-04:00,"Bolivia – Remuneracion Media Nominal del Sector Publico por Grupo Ocupacional, 1996 – 2022",spreadsheet,69.80,https://nube.ine.gob.bo/index.php/s/2DAbIXdWEm1pU81/download
 2022-09-30 10:36:08-04:00,"Bolivia – Remuneracion Media Real del Sector Publico por Grupo Ocupacional, 1996 – 2022",spreadsheet,68.23,https://nube.ine.gob.bo/index.php/s/IE7znteZaTUrxyy/download
 2022-09-30 10:40:11-04:00,"Bolivia – Remuneracion Media Nominal del Sector Publico según Grupo Institucional, 1996 – 2022",spreadsheet,83.57,https://nube.ine.gob.bo/index.php/s/9zGYNS4QbfYU8sy/download
@@ -1156,40 +1156,40 @@ modificado,nombre,tipo,kb,link
 2022-09-30 10:47:57-04:00,"Bolivia – Salario Medio Real del Sector Público por Grupo Ocupacional, 1996 – 2022",spreadsheet,69.15,https://nube.ine.gob.bo/index.php/s/ey5696U2m9JebpJ/download
 2022-09-30 11:03:07-04:00,"Bolivia – Salario Medio Nominal del Sector Público según Grupo Institucional, 1996 – 2022",spreadsheet,78.39,https://nube.ine.gob.bo/index.php/s/jGVB8ORa7Fv8oGq/download
 2022-09-30 11:06:11-04:00,"Bolivia – Salario Medio Real del Sector Público según Grupo Institucional, 1996 – 2022",spreadsheet,79.38,https://nube.ine.gob.bo/index.php/s/l2gHvrnN2iZGbkF/download
+2022-09-30 11:08:00-04:00,"BOLIVIA – SUSCRIPCION A TELEVISION POR CABLE POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 2017 – 2022",spreadsheet,32.08,https://nube.ine.gob.bo/index.php/s/sNlQqM8WvHKnxHM/download
+2022-09-30 11:08:00-04:00,"BOLIVIA – CONEXIONES AL SERVICIO DE ACCESO A INTERNET POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 2012 – 2022",spreadsheet,33.82,https://nube.ine.gob.bo/index.php/s/m9WC8zxx3cYAZHe/download
 2022-09-30 11:08:00-04:00,"BOLIVIA – CONEXIONES AL SERVICIO DE ACCESO A INTERNET POR TIPO DE TECNOLOGÍA, SEGÚN AÑO Y TRIMESTRE, 2012 – 2022",spreadsheet,31.24,https://nube.ine.gob.bo/index.php/s/5YtTzBZdottRwAd/download
 2022-09-30 11:08:00-04:00,"BOLIVIA – LINEAS FIJAS POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 1996 – 2022",spreadsheet,35.40,https://nube.ine.gob.bo/index.php/s/Kbq5Vt601T8LnOr/download
 2022-09-30 11:08:00-04:00,"BOLIVIA – LINEAS MÓVILES POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 1996 – 2022",spreadsheet,35.82,https://nube.ine.gob.bo/index.php/s/OKkdDpbfoQVSJX4/download
-2022-09-30 11:08:00-04:00,"BOLIVIA – CONEXIONES AL SERVICIO DE ACCESO A INTERNET POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 2012 – 2022",spreadsheet,33.82,https://nube.ine.gob.bo/index.php/s/m9WC8zxx3cYAZHe/download
-2022-09-30 11:08:00-04:00,"BOLIVIA – SUSCRIPCION A TELEVISION POR CABLE POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 2017 – 2022",spreadsheet,32.08,https://nube.ine.gob.bo/index.php/s/sNlQqM8WvHKnxHM/download
 2022-09-30 14:28:22-04:00,"BOLIVIA: CASOS POR JUBILACIÓN EN EL SEGURO SOCIAL OBLIGATORIO POR SEXO Y MODALIDAD DE PENSIÓN, SEGÚN GRUPO DE EDAD, 2008 – 2021",spreadsheet,55.34,https://nube.ine.gob.bo/index.php/s/zR8PYcgqNrcUDTl/download
-2022-09-30 14:28:22-04:00,"BOLIVIA: BENEFICIARIOS DE LA RENTA DIGNIDAD POR TIPO, SEGÚN DEPARTAMENTO, 2008 – 2021",spreadsheet,42.58,https://nube.ine.gob.bo/index.php/s/tgNcG5H13rOfPFo/download
 2022-09-30 14:28:22-04:00,"BOLIVIA: AFILIADOS REGISTRADOS EN EL SEGURO SOCIAL OBLIGATORIO POR SEXO, SEGÚN GRUPO DE EDAD, 2003 – 2021",spreadsheet,55.18,https://nube.ine.gob.bo/index.php/s/YGuIGunhYNH8vLb/download
 2022-09-30 14:28:22-04:00,"BOLIVIA: CASOS E IMPORTE CANCELADO POR PENSIONES DE INVALIDEZ, MUERTE Y PAGOS GLOBALES DE RIESGO PROFESIONAL DEL SEGURO SOCIAL OBLIGATORIO, SEGÚN DEPARTAMENTO, 1998 – 2015, 2018 – 2021",spreadsheet,54.33,https://nube.ine.gob.bo/index.php/s/Xtcq64Z9VoDnFNO/download
-2022-09-30 14:28:22-04:00,"BOLIVIA: AFILIADOS A LAS ADMINISTRADORAS DE FONDOS DE PENSIONES POR DEPARTAMENTO, SEGÚN SECTOR, 1998 – 2021",spreadsheet,46.52,https://nube.ine.gob.bo/index.php/s/RHLA447RKA3gWAs/download
+2022-09-30 14:28:22-04:00,"BOLIVIA: BENEFICIARIOS DE LA RENTA DIGNIDAD POR TIPO, SEGÚN DEPARTAMENTO, 2008 – 2021",spreadsheet,42.58,https://nube.ine.gob.bo/index.php/s/tgNcG5H13rOfPFo/download
 2022-09-30 14:28:22-04:00,"BOLIVIA: PENSIONES DE JUBILACIÓN DEL SEGURO SOCIAL OBLIGATORIO POR SEXO Y MODALIDAD DE PENSIÓN, SEGÚN DEPARTAMENTO, 2003 – 2021",spreadsheet,69.03,https://nube.ine.gob.bo/index.php/s/M9tAuYzhm1HYxR1/download
 2022-09-30 14:28:22-04:00,"BOLIVIA: PENSIÓN PROMEDIO DE JUBILACIÓN EN EL SSO(1) POR MODALIDAD Y SEXO, SEGÚN DEPARTAMENTO, 2003 – 2021",spreadsheet,75.73,https://nube.ine.gob.bo/index.php/s/H4fsM0QtVHKA4CT/download
 2022-09-30 14:28:22-04:00,"BOLIVIA: CASOS E IMPORTES PAGADOS POR PENSIONES DE INVALIDEZ Y MUERTE DE RIESGO COMÚN DEL SEGURO SOCIAL OBLIGATORIO, SEGÚN DEPARTAMENTO, 1998 – 2015, 2018 – 2021",spreadsheet,58.42,https://nube.ine.gob.bo/index.php/s/A54UiXZ8kMDnm0v/download
+2022-09-30 14:28:22-04:00,"BOLIVIA: AFILIADOS A LAS ADMINISTRADORAS DE FONDOS DE PENSIONES POR DEPARTAMENTO, SEGÚN SECTOR, 1998 – 2021",spreadsheet,46.52,https://nube.ine.gob.bo/index.php/s/RHLA447RKA3gWAs/download
 2022-09-30 16:10:36-04:00,EXPORTACIONES ENE A AGO 2022p,spreadsheet,1945.15,https://nube.ine.gob.bo/index.php/s/PU25nLzJX0jAVr3/download
 2022-09-30 16:10:36-04:00,EXPORTACIONES RITEX ENE A AGO 2022p,spreadsheet,26.66,https://nube.ine.gob.bo/index.php/s/e7Tz8mvYO6u9Nte/download
 2022-09-30 16:10:36-04:00,IMPORTACIONES RITEX ENERO A  AGOSTO 2022p,spreadsheet,50.28,https://nube.ine.gob.bo/index.php/s/i0xDZ7oHcstrqol/download
 2022-09-30 16:10:40-04:00,IMPORTACIONES ENE A AGO – 2022p,spreadsheet,41895.71,https://nube.ine.gob.bo/index.php/s/Z7ZVc1FohGhx0MB/download
 2022-09-30 21:14:46-04:00,BOLETÍN ESTADÍSTICO COMEX AGOSTO 2022,pdf,6289.89,https://nube.ine.gob.bo/index.php/s/CsV3zxp8fXR2b17/download
-2022-10-01 02:21:12-04:00,"Bolivia – Exportaciones según Actividad Económica y Producto por Año y Mes, 1992 – 2022",spreadsheet,1549.25,https://nube.ine.gob.bo/index.php/s/yJT9Q8KKyvhG4pi/download
 2022-10-01 02:21:12-04:00,"Bolivia – Exportaciones según Grandes Categorías Económicas por Año y Mes, 1992 – 2022",spreadsheet,1045.85,https://nube.ine.gob.bo/index.php/s/xwkBkig3lAy9uMr/download
 2022-10-01 02:21:12-04:00,"Bolivia – Exportaciones según Departamento y Producto por Año y Mes, 2017 – 2022",spreadsheet,1363.39,https://nube.ine.gob.bo/index.php/s/Z2K43QnfeGoT0we/download
-2022-10-01 02:21:12-04:00,"Bolivia – Exportaciones según Clasificación Uniforme para el Comercio Internacional por Año y Mes, 1992 – 2022",spreadsheet,1458.53,https://nube.ine.gob.bo/index.php/s/CpA4Ifn970h32Wp/download
+2022-10-01 02:21:12-04:00,"Bolivia – Exportaciones según Actividad Económica y Producto por Año y Mes, 1992 – 2022",spreadsheet,1549.25,https://nube.ine.gob.bo/index.php/s/yJT9Q8KKyvhG4pi/download
 2022-10-01 02:21:12-04:00,"Bolivia – Exportaciones según País de Destino por Año y Mes, 1992 – 2022",spreadsheet,1552.17,https://nube.ine.gob.bo/index.php/s/S01Wuf1I35GbFDA/download
+2022-10-01 02:21:12-04:00,"Bolivia – Exportaciones según Clasificación Uniforme para el Comercio Internacional por Año y Mes, 1992 – 2022",spreadsheet,1458.53,https://nube.ine.gob.bo/index.php/s/CpA4Ifn970h32Wp/download
 2022-10-01 02:21:12-04:00,"Bolivia – Exportaciones según Departamento y Producto por Año, 2010 – 2022",spreadsheet,702.45,https://nube.ine.gob.bo/index.php/s/WZY6zSwUD3XV1sc/download
 2022-10-01 02:21:14-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año, 2010 – 2022",spreadsheet,1537.11,https://nube.ine.gob.bo/index.php/s/UM0CTaUNXnPUSX4/download
 2022-10-01 02:21:16-04:00,"Bolivia – Importaciones Agregadas según Clasificación Uso o Destino Económico por Año y Mes, 1992 – 2022",spreadsheet,850.61,https://nube.ine.gob.bo/index.php/s/3MDafqtdVNXRwmU/download
 2022-10-01 02:21:16-04:00,"Bolivia- Exportaciones según Productos Tradicionales y No Tradicionales por Año y Mes, 1992 – 2022",spreadsheet,999.92,https://nube.ine.gob.bo/index.php/s/zUQc65wIGkw1KUy/download
 2022-10-01 02:21:18-04:00,Bolivia – Importaciones por Año y Mes 1992 – 2022,spreadsheet,695.64,https://nube.ine.gob.bo/index.php/s/jYn9F8zMaAiAj3C/download
+2022-10-01 02:21:20-04:00,Bolivia – Importaciones según Clasificación Internacional Industrial Uniforme por Año y Mes 1992 – 2022,spreadsheet,1015.01,https://nube.ine.gob.bo/index.php/s/JqbOsowvzhvzt4E/download
 2022-10-01 02:21:20-04:00,Bolivia – Importaciones según Clasificación Uniforme para el Comercio Internacional por Año y Mes 1992 – 2022,spreadsheet,1337.90,https://nube.ine.gob.bo/index.php/s/sK59y78md8YZKSn/download
 2022-10-01 02:21:20-04:00,Bolivia – Importaciones según Clasificación Uso o Destino Económico por Año y Mes 1992 – 2022,spreadsheet,1119.96,https://nube.ine.gob.bo/index.php/s/uVLkFa0Hr1vtlSb/download
-2022-10-01 02:21:20-04:00,Bolivia – Importaciones según Clasificación Internacional Industrial Uniforme por Año y Mes 1992 – 2022,spreadsheet,1015.01,https://nube.ine.gob.bo/index.php/s/JqbOsowvzhvzt4E/download
 2022-10-01 02:21:22-04:00,Bolivia – Importaciones según Grandes Categorías Económicas por Año y Mes 1992 – 2022,spreadsheet,911.81,https://nube.ine.gob.bo/index.php/s/PeKYjrquj8UOjyA/download
-2022-10-01 02:21:24-04:00,Bolivia – Importaciones según País de Origen por Año y Mes 1992 – 2022,spreadsheet,1825.02,https://nube.ine.gob.bo/index.php/s/PIKeAYbOtD47sAY/download
 2022-10-01 02:21:24-04:00,"Bolivia – Comercio Exterior según Año y Mes, 1992 – 2022",spreadsheet,698.15,https://nube.ine.gob.bo/index.php/s/YmNagUYOHcty0fZ/download
+2022-10-01 02:21:24-04:00,Bolivia – Importaciones según País de Origen por Año y Mes 1992 – 2022,spreadsheet,1825.02,https://nube.ine.gob.bo/index.php/s/PIKeAYbOtD47sAY/download
 2022-10-01 02:21:26-04:00,"Bolivia – Comercio Exterior según Año, 1992 – 2022",spreadsheet,678.09,https://nube.ine.gob.bo/index.php/s/EOI5jIJq4mUSx8E/download
 2022-10-01 02:21:26-04:00,"Bolivia – Comercio Exterior según Año y Trimestre, 1992 – 2022",spreadsheet,684.00,https://nube.ine.gob.bo/index.php/s/OrjIqBzdZMJOTbu/download
 2022-10-01 02:21:28-04:00,"Bolivia – Comercio Exterior según Grandes Categorías Económicas, 1992 – 2022",spreadsheet,1061.43,https://nube.ine.gob.bo/index.php/s/oXl98KJQsspLm0a/download
@@ -1307,13 +1307,13 @@ modificado,nombre,tipo,kb,link
 2022-10-13 15:31:26-04:00,"Bolivia – Índice de Volumen de Transporte por Hidrocarburos por Ductos, por Mercado según Año y Mes, 1990 – 2022",spreadsheet,94.00,https://nube.ine.gob.bo/index.php/s/P6ZxRldYIzwhtv5/download
 2022-10-13 15:34:37-04:00,"Bolivia – Índice de Volumen de Transporte por Hidrocarburos por Ductos por Tipo Ductos y Mercado según Año y Mes, 1990 – 2022",spreadsheet,115.84,https://nube.ine.gob.bo/index.php/s/bkiOsqtNFsRsEde/download
 2022-10-17 12:27:50-04:00,BOLIVIA – ÍNDICE GENERAL DE CONSUMO DE SERVICIOS BASICOS POR TIPO DE SERVICIO SEGÚN AÑO Y MES 1990 – 2022,spreadsheet,160.15,https://nube.ine.gob.bo/index.php/s/Y3qWmKzJadFhVe9/download
-2022-10-18 10:05:22-04:00,Bolivia – Número de Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2022,excel,85.00,https://nube.ine.gob.bo/index.php/s/jLb5wFW0JvKCqtR/download
 2022-10-18 10:05:22-04:00,Bolivia – Superficie registrada en Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2022,excel,91.00,https://nube.ine.gob.bo/index.php/s/Ys6tEPQpLWYR4ba/download
+2022-10-18 10:05:22-04:00,Bolivia – Número de Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2022,excel,85.00,https://nube.ine.gob.bo/index.php/s/jLb5wFW0JvKCqtR/download
 2022-10-18 13:49:41-04:00,BOLIVIA – INGRESO DE VIAJEROS A ESTABLECIMIENTOS DE HOSPEDAJE POR AÑO Y MES SEGÚN CIUDAD Y TIPO DE VIAJERO 2008 – 2022,excel,755.00,https://nube.ine.gob.bo/index.php/s/dkdC85uMr8pMFS3/download
 2022-10-18 13:49:51-04:00,BOLIVIA – PERNOCTACIÓN DE VIAJEROS EN ESTABLECIMIENTOS DE HOSPEDAJE POR AÑO Y MES SEGÚN CIUDAD Y TIPO DE VIAJERO 2008 – 2022,excel,759.00,https://nube.ine.gob.bo/index.php/s/FeV66WvMcxGfpJ1/download
+2022-10-18 18:56:30-04:00,Cuestionario v8,pdf,1258.07,https://nube.ine.gob.bo/index.php/s/zHFP0acdQMyIjqR/download
 2022-10-18 18:56:30-04:00,ECE_1T_2022,rar,8683.90,https://nube.ine.gob.bo/index.php/s/M8qOYiapQJuOEUu/download
 2022-10-18 18:56:30-04:00,ECE_1T_2022 RUR,rar,1097.72,https://nube.ine.gob.bo/index.php/s/eykEAs0OG6xiIMl/download
-2022-10-18 18:56:30-04:00,Cuestionario v8,pdf,1258.07,https://nube.ine.gob.bo/index.php/s/zHFP0acdQMyIjqR/download
 2022-10-18 18:56:32-04:00,ECE_1T_2022 URB,rar,7612.05,https://nube.ine.gob.bo/index.php/s/IJ9VJp8AaM8OCtg/download
 2022-10-18 18:56:52-04:00,Sintaxis para cálculo de estadísticas e indicadores,rar,2.96,https://nube.ine.gob.bo/index.php/s/0JOgrpj5094RkHb/download
 2022-10-18 18:56:52-04:00,Sintaxis para consolidación de bases de datos trimestrales,rar,8.31,https://nube.ine.gob.bo/index.php/s/M3ceQdSMLqvJHa7/download
@@ -1389,12 +1389,12 @@ modificado,nombre,tipo,kb,link
 2022-10-25 16:51:26-04:00,"Bolivia – Programas de Prevención, según sector 2006-2021",spreadsheet,49.97,https://nube.ine.gob.bo/index.php/s/ikT2brJV5sOib7H/download
 2022-10-26 09:38:05-04:00,Bolivia – Producción de Carne de Ganado Bovino según Año y Mes por Ciudad 2005 – 2022,spreadsheet,62.66,https://nube.ine.gob.bo/index.php/s/CZpZYZCInKu1WOT/download
 2022-10-26 09:38:17-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado Bovino según Año y Mes por Ciudad 2005 – 2022,spreadsheet,55.12,https://nube.ine.gob.bo/index.php/s/x7GKEKCxGq5S0hB/download
+2022-10-28 17:10:48-04:00,Bolivia -Producción de Carne de pollos parrilleros de granjas registradas por deprtamento según Año y Mes 2019 – 2022 ,spreadsheet,41.22,https://nube.ine.gob.bo/index.php/s/u7hsvGg1wbJjsFb/download
+2022-10-28 17:10:48-04:00,Bolivia – Cargas de Pollitos BB A Granjas registradas por departamento según Año y Mes 2019 – 2022,spreadsheet,38.68,https://nube.ine.gob.bo/index.php/s/sKcI87HYqzloEfP/download
+2022-10-28 17:10:48-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado porcino según Año y Mes 2018 – 2022,spreadsheet,37.04,https://nube.ine.gob.bo/index.php/s/SnEP96sFE812suO/download
 2022-10-28 17:10:48-04:00,Bolivia – Acopio de leche según Año y Mes 2018 – 2022,spreadsheet,40.33,https://nube.ine.gob.bo/index.php/s/FRNjtawST5OEvAK/download
 2022-10-28 17:10:48-04:00,"Bolivia – Número de pollos parrilleros faenados de Granjas Registradas por departamento, según Año y Mes 2019 – 2022",spreadsheet,38.70,https://nube.ine.gob.bo/index.php/s/HEAHvzF668cOO4x/download
 2022-10-28 17:10:48-04:00,Bolivia – Producción de Carne de Ganado porcino según Año y Mes por Ciudad 2018 – 2022,spreadsheet,40.91,https://nube.ine.gob.bo/index.php/s/I6QMG1tRFWiA3f0/download
-2022-10-28 17:10:48-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado porcino según Año y Mes 2018 – 2022,spreadsheet,37.04,https://nube.ine.gob.bo/index.php/s/SnEP96sFE812suO/download
-2022-10-28 17:10:48-04:00,Bolivia – Cargas de Pollitos BB A Granjas registradas por departamento según Año y Mes 2019 – 2022,spreadsheet,38.68,https://nube.ine.gob.bo/index.php/s/sKcI87HYqzloEfP/download
-2022-10-28 17:10:48-04:00,Bolivia -Producción de Carne de pollos parrilleros de granjas registradas por deprtamento según Año y Mes 2019 – 2022 ,spreadsheet,41.22,https://nube.ine.gob.bo/index.php/s/u7hsvGg1wbJjsFb/download
 2022-10-31 15:25:12-04:00,MATRIZ DE PRODUCCION (EN MILES DE BOLIVIANOS DE 1990) ( 2013),pdf,180.82,https://nube.ine.gob.bo/index.php/s/kDHPiEeUI5pgqGx/download
 2022-10-31 15:25:59-04:00,MATRIZ DE PRODUCCION (EN MILES DE BOLIVIANOS DE 1990) ( 2014),pdf,185.47,https://nube.ine.gob.bo/index.php/s/cVSIdY6dI0MwhHG/download
 2022-11-04 10:25:43-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,375.80,https://nube.ine.gob.bo/index.php/s/RrZN79HPSmE4Zew/download
@@ -1407,6 +1407,8 @@ modificado,nombre,tipo,kb,link
 2022-11-04 11:05:54-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,274.59,https://nube.ine.gob.bo/index.php/s/XycaoJG2wD8qdiX/download
 2022-11-04 11:07:57-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,743.88,https://nube.ine.gob.bo/index.php/s/bGPyN1ePFvGJuQA/download
 2022-11-04 11:08:24-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,743.74,https://nube.ine.gob.bo/index.php/s/K7b6u4RKTMOf7dg/download
+2022-11-04 11:13:14-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2022",spreadsheet,61.81,https://nube.ine.gob.bo/index.php/s/Xc0cRqStcxoQt6D/download
+2022-11-04 11:18:28-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2022",spreadsheet,62.54,https://nube.ine.gob.bo/index.php/s/yHHoY2ASxkiDuHx/download
 2022-11-04 11:27:10-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,2041.89,https://nube.ine.gob.bo/index.php/s/qzKN5WxYYYeSjkH/download
 2022-11-04 11:29:42-04:00,Índice a nivel Productos,spreadsheet,471.07,https://nube.ine.gob.bo/index.php/s/AMkYCMW1qfk38yi/download
 2022-11-04 11:29:54-04:00,Ponderaciones  a nivel Productos,spreadsheet,196.65,https://nube.ine.gob.bo/index.php/s/rqv6wKorg0Mawxb/download
@@ -1418,4 +1420,6 @@ modificado,nombre,tipo,kb,link
 2022-11-04 11:35:45-04:00,Ponderaciones a nivel producto,spreadsheet,319.16,https://nube.ine.gob.bo/index.php/s/NEu00t9XQ81WmgQ/download
 2022-11-04 11:35:59-04:00,Ponderación a nivel de Ciudades Capitales y Conurbaciones,spreadsheet,177.13,https://nube.ine.gob.bo/index.php/s/epbxwU8wNmlDUCD/download
 2022-11-04 11:36:06-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,326.84,https://nube.ine.gob.bo/index.php/s/H0g82KIU1seuYas/download
+2022-11-04 15:48:30-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2022",spreadsheet,56.66,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
+2022-11-04 15:48:45-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2022",spreadsheet,50.93,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
 2022-11-04 17:57:24-04:00,Precios Promedio,spreadsheet,1229.85,https://nube.ine.gob.bo/index.php/s/y5EJFSJhBp0AW4b/download
