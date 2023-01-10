@@ -1149,10 +1149,6 @@ modificado,nombre,tipo,kb,link
 2022-11-30 20:43:44-04:00,IMPORTACIONES RITEX 2020,spreadsheet,56.93,https://nube.ine.gob.bo/index.php/s/rzKXtsYeV2ZBXfH/download
 2022-11-30 20:43:44-04:00,IMPORTACIONES RITEX 2019,spreadsheet,65.64,https://nube.ine.gob.bo/index.php/s/x60Z6gWzbn5A7SO/download
 2022-12-02 12:10:53-04:00,BOLETÍN ESTADÍSTICO COMEX OCTUBRE 2022,pdf,6636.86,https://nube.ine.gob.bo/index.php/s/mY8jt0lEzzhhafy/download
-2022-12-06 12:29:47-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2022",spreadsheet,56.80,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
-2022-12-06 12:33:32-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2022",spreadsheet,51.05,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
-2022-12-06 14:24:50-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2022",spreadsheet,61.91,https://nube.ine.gob.bo/index.php/s/Xc0cRqStcxoQt6D/download
-2022-12-06 14:26:12-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2022",spreadsheet,62.53,https://nube.ine.gob.bo/index.php/s/yHHoY2ASxkiDuHx/download
 2022-12-06 15:59:04-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Tipo de Servicio según Año y Mes, 1990 – 2022",spreadsheet,145.20,https://nube.ine.gob.bo/index.php/s/MdGrkyKcz2j4E7b/download
 2022-12-06 16:02:51-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Red según Año y Mes, 1990 – 2022",spreadsheet,126.27,https://nube.ine.gob.bo/index.php/s/HZFs6GQX8ruw9Rq/download
 2022-12-06 16:06:13-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Tipo de Servicio y Red según Año y Mes, 1990 – 2022",spreadsheet,165.18,https://nube.ine.gob.bo/index.php/s/gZp78h5YhiEl8fY/download
@@ -1455,3 +1451,7 @@ modificado,nombre,tipo,kb,link
 2023-01-06 10:06:18-04:00,"Bolivia – Indice de Salario Medio Nominal del Sector Público según Grupo Institucional, 1996 – 2022",spreadsheet,105.21,https://nube.ine.gob.bo/index.php/s/3Snvnwx3W3q9DAl/download
 2023-01-06 10:06:27-04:00,"Bolivia – Indice de Salario Medio Real del Sector Público según Grupo Institucional, 1996 – 2022",spreadsheet,105.93,https://nube.ine.gob.bo/index.php/s/Okm4klA9sfkZsuU/download
 2023-01-06 10:06:44-04:00,"Bolivia – Indice de Salario Medio Real del Sector Público por Grupo Ocupacional, 1996 – 2022",spreadsheet,90.40,https://nube.ine.gob.bo/index.php/s/nkib3loKikol9CZ/download
+2023-01-06 17:09:20-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2022",spreadsheet,61.98,https://nube.ine.gob.bo/index.php/s/Xc0cRqStcxoQt6D/download
+2023-01-06 17:10:26-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2022",spreadsheet,62.63,https://nube.ine.gob.bo/index.php/s/yHHoY2ASxkiDuHx/download
+2023-01-06 17:11:51-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2022",spreadsheet,56.91,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
+2023-01-06 17:12:44-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2022",spreadsheet,51.14,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
