@@ -342,7 +342,6 @@ modificado,nombre,tipo,kb,link
 2021-08-30 19:03:07-04:00,BOLETÍN ESTADÍSTICO COMEX JULIO 2021,pdf,5470.68,https://nube.ine.gob.bo/index.php/s/Ub6tq73DOnb6xTj/download
 2021-09-13 16:44:32-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES AGOSTO 2021,pdf,11755.56,https://nube.ine.gob.bo/index.php/s/Ej4oEklHokG3B7g/download
 2021-09-15 08:48:19-04:00,Manual de Procesos y Procedimientos de la elaboración de Estadísticas e Indicadores Sociales,zip,1765.23,https://nube.ine.gob.bo/index.php/s/GLYHvMy7X8Fiazu/download
-2021-09-15 09:17:12-04:00,Manual de Procesos y Procedimientos (MPP) Elaboración de diseños Muestrales y Codificación,pdf,7424.54,https://nube.ine.gob.bo/index.php/s/iOjzsaqrNAHBvRJ/download
 2021-09-15 12:27:33-04:00,Manual de Procesos y Procedimientos – Diseño e Implementación de Operativos de Campo de Censos y Encuestas del Área Económica,zip,23968.86,https://nube.ine.gob.bo/index.php/s/ZAuOxTInkzI6jfB/download
 2021-09-22 12:26:45-04:00,Manual de Procesos y Procedimientos – Diseño Implementación Operativos de Campo Área Social,zip,32010.19,https://nube.ine.gob.bo/index.php/s/LN7MwVvnEntCAqs/download
 2021-09-28 09:31:26-04:00,BOLETÍN ESTADÍSTICO COMEX AGOSTO 2021,pdf,7472.41,https://nube.ine.gob.bo/index.php/s/33VfWg5IngvtTPn/download
@@ -1213,26 +1212,6 @@ modificado,nombre,tipo,kb,link
 2023-01-26 09:01:45-04:00,"Santa Cruz: Distribución porcentual de la población de 14 años o más de edad en la ocupación principal por trimestre, según sexo y categoría en el empleo, 2015 – 2022",spreadsheet,82.22,https://nube.ine.gob.bo/index.php/s/cHH577xMWBcAvDj/download
 2023-01-26 09:22:24-04:00,"Cochabamba – Área urbana: Distribución porcentual de la población de 14 años o más de edad en la ocupación principal por trimestre, según actividad económica, 2015 – 2022",spreadsheet,80.50,https://nube.ine.gob.bo/index.php/s/SeqvxqQcKa5UInV/download
 2023-01-26 09:26:49-04:00,"Santa Cruz – Área urbana: Distribución porcentual de la población de 14 años o más de edad en la ocupación principal por trimestre, según actividad económica, 2015 – 2022",spreadsheet,80.51,https://nube.ine.gob.bo/index.php/s/Hfr83y8ijYkJr7H/download
-2023-01-26 11:26:21-04:00,Bolivia – Producción de Petróleo y Gas Natural según Año y Mes 1990 – 2022,spreadsheet,71.99,https://nube.ine.gob.bo/index.php/s/RAWRXqnQACXWE1N/download
-2023-01-26 11:30:14-04:00,Bolivia – Producción Refinados de Petróleo según Año y Mes 1990 – 2022,spreadsheet,111.50,https://nube.ine.gob.bo/index.php/s/IywJkvdSgI0FDB0/download
-2023-01-26 11:37:43-04:00,Bolivia – Producción de Petroleó Condensado según Departamento según Año y Mes 2001 – 2022,spreadsheet,75.93,https://nube.ine.gob.bo/index.php/s/i2K1sNYdA1bixCT/download
-2023-01-26 11:41:20-04:00,Bolivia – Producción de Gas Natural por Departamento según Año y Mes 2001 – 2022,spreadsheet,76.18,https://nube.ine.gob.bo/index.php/s/ertqz4LreJbi1MN/download
-2023-01-26 12:06:44-04:00,Bolivia – Volumen Comercializado de Gas Natural según Red de Distribución según Año y Mes 2006 – 2022,spreadsheet,74.28,https://nube.ine.gob.bo/index.php/s/OgjvPwug4mWPxPx/download
-2023-01-26 12:12:10-04:00,Bolivia – Volumen Comercializado de Gas Natural Vehicular según Departamento según Año y Mes 2010 – 2022,spreadsheet,75.13,https://nube.ine.gob.bo/index.php/s/w4X41irwkrOcjMo/download
-2023-01-26 12:15:33-04:00,Bolivia – Índice de Cantidad y Variaciones de Extracción de Petróleo y Gas Natural según Año y Mes 1990 – 2022,spreadsheet,180.23,https://nube.ine.gob.bo/index.php/s/7xFRrazPDcASn67/download
-2023-01-26 12:15:38-04:00,Bolivia – Índice de Cantidad de Productos Refinados de Petróleo según Año y Mes 1990 – 2022,spreadsheet,80.69,https://nube.ine.gob.bo/index.php/s/9fjAMwbOrNUfzxp/download
-2023-01-26 12:36:12-04:00,Bolivia – Volumen Comercializado de Refinados al Mercado Interno por Producto según Año y Mes 1990 – 2022,spreadsheet,85.26,https://nube.ine.gob.bo/index.php/s/1MLO7HNS44lvY0o/download
-2023-01-26 13:00:23-04:00,Bolivia – Producción Nacional de Minerales por Tipo de Mineral según Año y Mes 1990 – 2022,spreadsheet,108.77,https://nube.ine.gob.bo/index.php/s/f8Iw1MPCtTcpFT1/download
-2023-01-26 13:02:08-04:00,Bolivia – Producción de Minerales del Sector Estatal por Tipo de Mineral según Año y Mes 1990 – 2022,spreadsheet,74.51,https://nube.ine.gob.bo/index.php/s/C99kGj6LuCTbS9j/download
-2023-01-26 13:04:45-04:00,"Bolivia – Producción de Minerales del Sector de la Minería Mediana por Tipo de Mineral según Año y Mes, 1990 – 2022",spreadsheet,106.28,https://nube.ine.gob.bo/index.php/s/WO2MHHWtN7id1E4/download
-2023-01-26 13:06:21-04:00,Bolivia – Producción de Minerales del Sector de la Minería Chica y Cooperativas por Tipo de Mineral según Año y Mes 1990 – 2022,spreadsheet,101.59,https://nube.ine.gob.bo/index.php/s/ZtgpSrxiRjnSOcQ/download
-2023-01-26 13:11:36-04:00,"Bolivia – Índice de Cantidad de Producción de Minerales por Subsector de la Minería Estatal y Tipo de Mineral según Año y Mes, 2000 – 2022",spreadsheet,97.91,https://nube.ine.gob.bo/index.php/s/btpeCq1tWSUBatH/download
-2023-01-26 13:19:36-04:00,"Bolivia – Índice de Cantidad de Producción de Minerales por Subsector de la Minería Mediana y Tipo de Mineral según Año y Mes, 2000 – 2022",spreadsheet,178.81,https://nube.ine.gob.bo/index.php/s/FUqbPprRqwTati8/download
-2023-01-26 13:24:45-04:00,"Bolivia – Índice de Cantidad de Producción de Minerales por Subsector de la Minería Chica y Cooperativas y Tipo de Mineral, 2000 – 2022",spreadsheet,201.24,https://nube.ine.gob.bo/index.php/s/FgTXSAt5PRhMUBE/download
-2023-01-26 13:25:04-04:00,Bolivia – Cotización Oficial de Minerales por Tipo de Mineral según Año y Mes 1990 – 2022,spreadsheet,88.87,https://nube.ine.gob.bo/index.php/s/cprWi3i7sX6VmMS/download
-2023-01-26 13:27:56-04:00,Bolivia – Índice de Cantidad de Producción de Minerales por Tipo de Mineral según Año y Mes 1990 – 2022,spreadsheet,286.84,https://nube.ine.gob.bo/index.php/s/CfuZBNOT31HcAof/download
-2023-01-26 14:04:25-04:00,Bolivia – Producción de Cemento por Departamento según Año y Mes 1991 – 2022,spreadsheet,82.55,https://nube.ine.gob.bo/index.php/s/e4KGjnr2j1LPdi0/download
-2023-01-26 14:08:25-04:00,Bolivia – Ventas de Cemento por Departamento según Año y Mes 1991 – 2022,spreadsheet,82.90,https://nube.ine.gob.bo/index.php/s/fuNPG6ZmsyVVljU/download
 2023-01-27 12:04:30-04:00,"Bolivia – Área urbana: Tasa de desocupación desestacionalizada por mes, según sexo, 2015 – 2022",spreadsheet,98.40,https://nube.ine.gob.bo/index.php/s/5TvMscznkP1SxvQ/download
 2023-01-27 12:06:35-04:00,"Bolivia – Área urbana: Distribución porcentual de la población de 14 años o más de edad en la ocupación principal por mes, según sexo y categoría en el empleo, 2015 – 2022",spreadsheet,113.13,https://nube.ine.gob.bo/index.php/s/0eP5Gwuv3hihYVU/download
 2023-01-27 12:07:06-04:00,"Bolivia: Distribución Porcentual de la población de 14 años o más de edad en la ocupación principal por mes, según actividad económica, 2015 – 2022",spreadsheet,107.25,https://nube.ine.gob.bo/index.php/s/lECrE3Cqk8unb0w/download
@@ -1294,15 +1273,6 @@ modificado,nombre,tipo,kb,link
 2023-01-27 13:45:08-04:00,"Santa Cruz: Principales indicadores de empleo por trimestre, según sexo, 2015 – 2022",spreadsheet,76.42,https://nube.ine.gob.bo/index.php/s/SxtIofw9oo9EHYU/download
 2023-01-27 13:45:41-04:00,"Chuquisaca, Oruro, Potosí, Tarija, Beni y Pando: Principales indicadores de empleo por trimestre, según sexo, 2015 – 2022",spreadsheet,76.48,https://nube.ine.gob.bo/index.php/s/ybZJ8wf1N1eoMaC/download
 2023-01-27 13:45:59-04:00,"La Paz – Área urbana: Principales indicadores de empleo por trimestre, según sexo, 2015 – 2022",spreadsheet,77.64,https://nube.ine.gob.bo/index.php/s/uCWkDKixEkKSVgy/download
-2023-01-30 10:05:52-04:00,"Bolivia – Índice de Cantidad, Precio y Valor de Ventas de Productos Refinados según Año y Mes 1990 – 2022",spreadsheet,72.04,https://nube.ine.gob.bo/index.php/s/V1jz6mt4sFb0ShQ/download
-2023-01-30 10:32:27-04:00,Bolivia -Producción de Carne de pollos parrilleros de granjas registradas por deprtamento según Año y Mes 2019 – 2022 ,spreadsheet,41.58,https://nube.ine.gob.bo/index.php/s/u7hsvGg1wbJjsFb/download
-2023-01-30 10:33:31-04:00,Bolivia – Cargas de Pollitos BB A Granjas registradas por departamento según Año y Mes 2019 – 2022,spreadsheet,39.97,https://nube.ine.gob.bo/index.php/s/sKcI87HYqzloEfP/download
-2023-01-30 10:34:00-04:00,"Bolivia – Número de pollos parrilleros faenados de Granjas Registradas por departamento, según Año y Mes 2019 – 2022",spreadsheet,39.17,https://nube.ine.gob.bo/index.php/s/HEAHvzF668cOO4x/download
-2023-01-30 10:41:20-04:00,Bolivia – Producción de Carne de Ganado porcino según Año y Mes por Ciudad 2018 – 2022,spreadsheet,41.35,https://nube.ine.gob.bo/index.php/s/I6QMG1tRFWiA3f0/download
-2023-01-30 10:42:09-04:00,Bolivia – Acopio de leche según Año y Mes 2018 – 2022,spreadsheet,40.71,https://nube.ine.gob.bo/index.php/s/FRNjtawST5OEvAK/download
-2023-01-30 10:45:37-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado porcino según Año y Mes 2018 – 2022,spreadsheet,37.44,https://nube.ine.gob.bo/index.php/s/SnEP96sFE812suO/download
-2023-01-30 10:46:14-04:00,Bolivia – Producción de Carne de Ganado Bovino según Año y Mes por Ciudad 2005 – 2022,spreadsheet,63.01,https://nube.ine.gob.bo/index.php/s/CZpZYZCInKu1WOT/download
-2023-01-30 10:48:51-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado Bovino según Año y Mes por Ciudad 2005 – 2022,spreadsheet,55.74,https://nube.ine.gob.bo/index.php/s/x7GKEKCxGq5S0hB/download
 2023-01-30 12:31:45-04:00,"Bolivia – Índice De Volumen De Importaciones, Según La Clasificación De Uso o Destino Económico (CUODE) 2016 – 2022-2",spreadsheet,106.68,https://nube.ine.gob.bo/index.php/s/jvXGmBXqvjbUDPE/download
 2023-01-30 12:32:02-04:00,"Bolivia – Índice De Volumen De Importaciones, Según Grandes Categorías Económicas 2016 – 2022-2",spreadsheet,108.56,https://nube.ine.gob.bo/index.php/s/5Y6XnHJvrtG89GJ/download
 2023-01-30 12:32:26-04:00,"Bolivia – Índice De Volumen De Importaciones, Según Clasificación Uniforme para el Comercio Internacional 2016 – 2022-2",spreadsheet,98.70,https://nube.ine.gob.bo/index.php/s/1puW2H0hN49mX83/download
@@ -1322,7 +1292,6 @@ modificado,nombre,tipo,kb,link
 2023-01-30 13:51:42-04:00,"Bolivia – Índice De Valor Unitario De Exportaciones, Según Clasificación Uniforme para el Comercio Internacional 2016 – 2022-2",spreadsheet,102.25,https://nube.ine.gob.bo/index.php/s/uezBTW11tSyb2v9/download
 2023-01-30 13:51:54-04:00,"Bolivia – Índice De Valor De Exportaciones, Según Productos Tradicionales y No Tradicionales 2016 – 2022-2",spreadsheet,127.04,https://nube.ine.gob.bo/index.php/s/cb2JM2yroEUmDNs/download
 2023-01-30 14:02:42-04:00,"Bolivia – Índice de Términos de Intercambio, 2016 – 2022",spreadsheet,89.55,https://nube.ine.gob.bo/index.php/s/ja6PWco2LQCZxfl/download
-2023-01-31 09:57:19-04:00,Bolivia – Índice de Cantidad Comercializada de Refinados al Mercado Interno por Producto según Año y Mes 1990 – 2022,spreadsheet,215.28,https://nube.ine.gob.bo/index.php/s/He26qQwt72JGSTN/download
 2023-01-31 15:26:28-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año y Mes, 2017 – 2022",spreadsheet,969.68,https://nube.ine.gob.bo/index.php/s/0ToRunCr9uUpLOH/download
 2023-01-31 15:26:28-04:00,"Bolivia – Importaciones Agregadas según Clasificación Uso o Destino Económico por Año y Mes, 1992 – 2022",spreadsheet,852.32,https://nube.ine.gob.bo/index.php/s/3MDafqtdVNXRwmU/download
 2023-01-31 15:26:28-04:00,"Bolivia – Exportaciones según Clasificación Uniforme para el Comercio Internacional por Año y Mes, 1992 – 2022",spreadsheet,1305.30,https://nube.ine.gob.bo/index.php/s/CpA4Ifn970h32Wp/download
@@ -1460,3 +1429,34 @@ modificado,nombre,tipo,kb,link
 2023-02-17 13:50:50-04:00,PRECIOS INTERNACIONALES DE PRINCIPALES PRODUCTOS DEL COMERCIO MUNDIAL (COMMODITIES) 1980 – 2023,spreadsheet,1186.14,https://nube.ine.gob.bo/index.php/s/hIGMhepChowCFCp/download
 2023-02-17 17:05:42-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Grandes Grupos – Nacional",spreadsheet,269.71,https://nube.ine.gob.bo/index.php/s/zSGwCXQD0xxrh2f/download
 2023-02-22 14:44:31-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses – Nacional",spreadsheet,331.33,https://nube.ine.gob.bo/index.php/s/zUeUfqp0GhqxDYT/download
+2023-02-28 08:48:25-04:00,Bolivia – Producción de Petróleo y Gas Natural según Año y Mes 1990 – 2022,spreadsheet,72.08,https://nube.ine.gob.bo/index.php/s/RAWRXqnQACXWE1N/download
+2023-02-28 08:54:07-04:00,Bolivia – Producción de Gas Natural por Departamento según Año y Mes 2001 – 2022,spreadsheet,75.47,https://nube.ine.gob.bo/index.php/s/ertqz4LreJbi1MN/download
+2023-02-28 08:55:05-04:00,Bolivia – Producción de Petroleó Condensado según Departamento según Año y Mes 2001 – 2022,spreadsheet,75.95,https://nube.ine.gob.bo/index.php/s/i2K1sNYdA1bixCT/download
+2023-02-28 08:58:03-04:00,Bolivia – Producción Refinados de Petróleo según Año y Mes 1990 – 2022,spreadsheet,111.65,https://nube.ine.gob.bo/index.php/s/IywJkvdSgI0FDB0/download
+2023-02-28 09:01:06-04:00,Bolivia – Volumen Comercializado de Gas Natural según Red de Distribución según Año y Mes 2006 – 2022,spreadsheet,74.48,https://nube.ine.gob.bo/index.php/s/OgjvPwug4mWPxPx/download
+2023-02-28 09:07:26-04:00,Bolivia – Volumen Comercializado de Gas Natural Vehicular según Departamento según Año y Mes 2010 – 2022,spreadsheet,75.23,https://nube.ine.gob.bo/index.php/s/w4X41irwkrOcjMo/download
+2023-02-28 09:09:51-04:00,Bolivia – Volumen Comercializado de Refinados al Mercado Interno por Producto según Año y Mes 1990 – 2022,spreadsheet,85.36,https://nube.ine.gob.bo/index.php/s/1MLO7HNS44lvY0o/download
+2023-02-28 09:10:48-04:00,Bolivia – Índice de Cantidad y Variaciones de Extracción de Petróleo y Gas Natural según Año y Mes 1990 – 2022,spreadsheet,180.58,https://nube.ine.gob.bo/index.php/s/7xFRrazPDcASn67/download
+2023-02-28 09:11:05-04:00,Bolivia – Índice de Cantidad de Productos Refinados de Petróleo según Año y Mes 1990 – 2022,spreadsheet,80.83,https://nube.ine.gob.bo/index.php/s/9fjAMwbOrNUfzxp/download
+2023-02-28 09:21:10-04:00,"Bolivia – Índice de Cantidad, Precio y Valor de Ventas de Productos Refinados según Año y Mes 1990 – 2022",spreadsheet,72.19,https://nube.ine.gob.bo/index.php/s/V1jz6mt4sFb0ShQ/download
+2023-02-28 09:21:18-04:00,Bolivia – Índice de Cantidad Comercializada de Refinados al Mercado Interno por Producto según Año y Mes 1990 – 2022,spreadsheet,216.06,https://nube.ine.gob.bo/index.php/s/He26qQwt72JGSTN/download
+2023-02-28 09:34:03-04:00,Bolivia – Producción Nacional de Minerales por Tipo de Mineral según Año y Mes 1990 – 2022,spreadsheet,109.68,https://nube.ine.gob.bo/index.php/s/f8Iw1MPCtTcpFT1/download
+2023-02-28 09:38:11-04:00,Bolivia – Producción de Minerales del Sector Estatal por Tipo de Mineral según Año y Mes 1990 – 2022,spreadsheet,74.60,https://nube.ine.gob.bo/index.php/s/C99kGj6LuCTbS9j/download
+2023-02-28 09:39:18-04:00,"Bolivia – Producción de Minerales del Sector de la Minería Mediana por Tipo de Mineral según Año y Mes, 1990 – 2022",spreadsheet,106.40,https://nube.ine.gob.bo/index.php/s/WO2MHHWtN7id1E4/download
+2023-02-28 09:44:38-04:00,Bolivia – Producción de Minerales del Sector de la Minería Chica y Cooperativas por Tipo de Mineral según Año y Mes 1990 – 2022,spreadsheet,100.51,https://nube.ine.gob.bo/index.php/s/ZtgpSrxiRjnSOcQ/download
+2023-02-28 09:44:57-04:00,Bolivia – Índice de Cantidad de Producción de Minerales por Tipo de Mineral según Año y Mes 1990 – 2022,spreadsheet,287.32,https://nube.ine.gob.bo/index.php/s/CfuZBNOT31HcAof/download
+2023-02-28 09:54:06-04:00,"Bolivia – Índice de Cantidad de Producción de Minerales por Subsector de la Minería Estatal y Tipo de Mineral según Año y Mes, 2000 – 2022",spreadsheet,98.28,https://nube.ine.gob.bo/index.php/s/btpeCq1tWSUBatH/download
+2023-02-28 09:54:53-04:00,Bolivia – Cargas de Pollitos BB A Granjas registradas por departamento según Año y Mes 2019 – 2023,spreadsheet,40.99,https://nube.ine.gob.bo/index.php/s/sKcI87HYqzloEfP/download
+2023-02-28 09:55:36-04:00,"Bolivia – Número de pollos parrilleros faenados de Granjas Registradas por departamento, según Año y Mes 2019 – 2023",spreadsheet,40.12,https://nube.ine.gob.bo/index.php/s/HEAHvzF668cOO4x/download
+2023-02-28 09:56:10-04:00,Bolivia -Producción de Carne de pollos parrilleros de granjas registradas por deprtamento según Año y Mes 2019 – 2023,spreadsheet,43.13,https://nube.ine.gob.bo/index.php/s/u7hsvGg1wbJjsFb/download
+2023-02-28 09:59:10-04:00,"Bolivia – Índice de Cantidad de Producción de Minerales por Subsector de la Minería Mediana y Tipo de Mineral según Año y Mes, 2000 – 2022",spreadsheet,179.69,https://nube.ine.gob.bo/index.php/s/FUqbPprRqwTati8/download
+2023-02-28 10:03:21-04:00,"Bolivia – Índice de Cantidad de Producción de Minerales por Subsector de la Minería Chica y Cooperativas y Tipo de Mineral, 2000 – 2022",spreadsheet,201.99,https://nube.ine.gob.bo/index.php/s/FgTXSAt5PRhMUBE/download
+2023-02-28 10:04:46-04:00,Bolivia – Producción de Carne de Ganado Bovino según Año y Mes por Ciudad 2005 – 2023,spreadsheet,64.13,https://nube.ine.gob.bo/index.php/s/CZpZYZCInKu1WOT/download
+2023-02-28 10:04:47-04:00,Bolivia – Cotización Oficial de Minerales por Tipo de Mineral según Año y Mes 1990 – 2022,spreadsheet,88.98,https://nube.ine.gob.bo/index.php/s/cprWi3i7sX6VmMS/download
+2023-02-28 10:05:16-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado Bovino según Año y Mes por Ciudad 2005 – 2023,spreadsheet,56.00,https://nube.ine.gob.bo/index.php/s/x7GKEKCxGq5S0hB/download
+2023-02-28 10:05:42-04:00,Bolivia – Acopio de leche según Año y Mes 2018 – 2023,spreadsheet,40.94,https://nube.ine.gob.bo/index.php/s/FRNjtawST5OEvAK/download
+2023-02-28 10:07:09-04:00,Bolivia – Producción de Carne de Ganado porcino según Año y Mes por Ciudad 2018 – 2023,spreadsheet,42.55,https://nube.ine.gob.bo/index.php/s/I6QMG1tRFWiA3f0/download
+2023-02-28 10:07:27-04:00,Bolivia – Ventas de Cemento por Departamento según Año y Mes 1991 – 2022,spreadsheet,82.99,https://nube.ine.gob.bo/index.php/s/fuNPG6ZmsyVVljU/download
+2023-02-28 10:07:33-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado porcino según Año y Mes 2018 – 2023,spreadsheet,37.67,https://nube.ine.gob.bo/index.php/s/SnEP96sFE812suO/download
+2023-02-28 10:09:13-04:00,Bolivia – Producción de Cemento por Departamento según Año y Mes 1991 – 2022,spreadsheet,82.76,https://nube.ine.gob.bo/index.php/s/e4KGjnr2j1LPdi0/download
+2023-02-28 13:26:24-04:00,"Manual de Procesos y Procedimientos (MPP) Elaboración de diseños Muestrales, Codificación y Logística",zip,16125.91,https://nube.ine.gob.bo/index.php/s/wR7IZSL9wLrqQ2H/download
