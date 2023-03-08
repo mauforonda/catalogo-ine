@@ -1345,10 +1345,6 @@ modificado,nombre,tipo,kb,link
 2023-02-03 12:48:59-04:00,"BOLIVIA: VARIACIÓN ACUMULADA DEL IGAE, POR MES 2008-2022",spreadsheet,122.57,https://nube.ine.gob.bo/index.php/s/qNQexpgoZroGCYG/download
 2023-02-03 12:49:16-04:00,"BOLIVIA: VARIACIÓN A SIMILAR PERIODO DEL IGAE, POR MES 2008-2022",spreadsheet,90.46,https://nube.ine.gob.bo/index.php/s/vsfGqiIoEXGddwJ/download
 2023-02-03 12:49:33-04:00,"BOLIVIA: VARIACIÓN A 12 MESES DEL IGAE, POR MES 2008-2022",spreadsheet,89.92,https://nube.ine.gob.bo/index.php/s/k0bRzzNhBXb7Ae2/download
-2023-02-06 13:27:15-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2023",spreadsheet,62.16,https://nube.ine.gob.bo/index.php/s/ItGu4xC8l8VMb96/download
-2023-02-06 13:28:25-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2023",spreadsheet,62.83,https://nube.ine.gob.bo/index.php/s/VGXL4vgllkzp7a3/download
-2023-02-06 13:33:10-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2022",spreadsheet,57.00,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
-2023-02-06 13:33:52-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2022",spreadsheet,51.21,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
 2023-02-07 11:14:55-04:00,BOLETÍN ESTADÍSTICO COMEX DICIEMBRE 2022,pdf,6468.35,https://nube.ine.gob.bo/index.php/s/OIy6QN5VwW8sL7n/download
 2023-02-07 12:55:37-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Tipo de Servicio según Año y Mes, 1990 – 2022",spreadsheet,145.78,https://nube.ine.gob.bo/index.php/s/MdGrkyKcz2j4E7b/download
 2023-02-07 13:00:25-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Red según Año y Mes, 1990 – 2022",spreadsheet,126.73,https://nube.ine.gob.bo/index.php/s/HZFs6GQX8ruw9Rq/download
@@ -1375,7 +1371,6 @@ modificado,nombre,tipo,kb,link
 2023-02-08 16:43:09-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Nacional",spreadsheet,705.29,https://nube.ine.gob.bo/index.php/s/Dh0dOpAnrSOixwx/download
 2023-02-09 13:50:28-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Importado",spreadsheet,705.24,https://nube.ine.gob.bo/index.php/s/X9VidQxRrFP185I/download
 2023-02-13 09:21:17-04:00,"Bolivia – Superficie Año Agrícola por Departamento, 1984 – 2021",spreadsheet,1595.49,https://nube.ine.gob.bo/index.php/s/PnEqp7IopHEJDBu/download
-2023-02-13 14:32:19-04:00,Reporte 2023,spreadsheet,51.91,https://nube.ine.gob.bo/index.php/s/Ds1LPkmZstp2z2D/download
 2023-02-14 14:54:41-04:00,"BOLIVIA – ÍNDICE DE CONSUMO DE ENERGIA ELECTRICA POR TIPO DE USUARIO SEGÚN AÑO Y MES, 1990 – 2022",spreadsheet,403.61,https://nube.ine.gob.bo/index.php/s/YjA7ClnBp3KxZM0/download
 2023-02-14 15:05:38-04:00,BOLIVIA – ÍNDICE DE CONSUMO DE AGUA POTABLE POR CATEGORIA SEGÚN AÑO Y MES 1990 – 2022,spreadsheet,181.42,https://nube.ine.gob.bo/index.php/s/pcJIE4X3gGOTbua/download
 2023-02-15 16:33:32-04:00,BOLIVIA – ÍNDICE GENERAL DE CONSUMO DE SERVICIOS BASICOS POR TIPO DE SERVICIO SEGÚN AÑO Y MES 1990 – 2022,spreadsheet,161.52,https://nube.ine.gob.bo/index.php/s/Y3qWmKzJadFhVe9/download
@@ -1460,3 +1455,8 @@ modificado,nombre,tipo,kb,link
 2023-03-03 14:31:17-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos por Ciudad",spreadsheet,821.14,https://nube.ine.gob.bo/index.php/s/3ZGyr1lTkNlBy2T/download
 2023-03-03 14:37:45-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,255.27,https://nube.ine.gob.bo/index.php/s/uaVG8ITFYtTZ64n/download
 2023-03-03 15:02:53-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,1210.45,https://nube.ine.gob.bo/index.php/s/k7DkHS3ViZx3Ugr/download
+2023-03-06 18:54:28-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2023",spreadsheet,62.29,https://nube.ine.gob.bo/index.php/s/ItGu4xC8l8VMb96/download
+2023-03-06 19:01:14-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2023",spreadsheet,63.01,https://nube.ine.gob.bo/index.php/s/VGXL4vgllkzp7a3/download
+2023-03-07 14:35:51-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2023",spreadsheet,51.32,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
+2023-03-07 14:39:22-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2023",spreadsheet,57.25,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
+2023-03-07 15:56:03-04:00,Reporte 2023,spreadsheet,55.27,https://nube.ine.gob.bo/index.php/s/Ds1LPkmZstp2z2D/download
