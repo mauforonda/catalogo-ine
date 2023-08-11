@@ -1141,7 +1141,6 @@ modificado,nombre,tipo,kb,link
 2023-05-24 17:03:28-04:00,Documento segunda Expresión de Interés,pdf,829.20,https://nube.ine.gob.bo/index.php/s/idD49knYefRnimV/download
 2023-05-25 10:27:20-04:00,"Bolivia-Llegada de Viajeros Internacionales, Según Modo de Transporte y Tipo de Viajero Por Año, 2008-2022",excel,163.50,https://nube.ine.gob.bo/index.php/s/pd2yNSu5ShVSZQD/download
 2023-05-25 10:34:33-04:00,"Bolivia-Salida de Viajeros Internacionales, Según Modo de Transporte y Tipo de Viajero Por Año, 2008-2022",excel,161.50,https://nube.ine.gob.bo/index.php/s/0tckX7AkajImAre/download
-2023-05-25 12:10:30-04:00,"Bolivia-Llegada de Viajeros Internacionales Vía Aérea, Según Aeropuerto y Tipo de Viajero Por Año, 2008-2022",excel,157.00,https://nube.ine.gob.bo/index.php/s/WZugAtE1pC0qZAd/download
 2023-05-25 12:24:15-04:00,"Bolivia-Salida de Viajeros Internacionales Vía Aérea, Según Aeropuerto y Tipo de Viajero Por Año, 2008-2022",excel,158.00,https://nube.ine.gob.bo/index.php/s/alpVCPhnBQYZhPr/download
 2023-05-26 09:43:40-04:00,"Bolivia – Área urbana: Tasa de desocupación desestacionalizada por mes, según sexo, 2015 – 2023",spreadsheet,136.30,https://nube.ine.gob.bo/index.php/s/5TvMscznkP1SxvQ/download
 2023-05-29 11:44:40-04:00,"Bolivia – Producción de Huevo de Aves Postura por Departamento, según Años, 1984 – 2022",excel,144.00,https://nube.ine.gob.bo/index.php/s/pwhDOcBbs8iA2KF/download
@@ -1372,10 +1371,6 @@ modificado,nombre,tipo,kb,link
 2023-07-10 17:56:50-04:00,"Bolivia-Salida de Viajeros Internacionales Vía Aérea, Según Nacionalidad, Por Año y Mes 2008 – 2023",spreadsheet,210.60,https://nube.ine.gob.bo/index.php/s/C1y6pjB7L36WMlH/download
 2023-07-10 18:08:10-04:00,"Bolivia-Llegada de Viajeros Internacionales Vía Carretera, Según Nacionalidad, Por Año y Mes 2008 – 2023",spreadsheet,212.60,https://nube.ine.gob.bo/index.php/s/tnYRxhxultQqgMM/download
 2023-07-10 19:08:54-04:00,"Bolivia-Salida de Viajeros Internacionales Vía Carretera, Según Nacionalidad, Por Año y Mes 2008 – 2023",spreadsheet,209.07,https://nube.ine.gob.bo/index.php/s/2l5zlD7ua3pDqEJ/download
-2023-07-12 10:17:16-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses",spreadsheet,339.47,https://nube.ine.gob.bo/index.php/s/mTsY0mN1IfF9teO/download
-2023-07-12 10:17:31-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Nacional",spreadsheet,761.14,https://nube.ine.gob.bo/index.php/s/pdo6DYpSPw48o0B/download
-2023-07-12 10:17:51-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Importado",spreadsheet,761.07,https://nube.ine.gob.bo/index.php/s/WFGdbekTBNFITVc/download
-2023-07-12 10:18:10-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Origen y Grupo",spreadsheet,277.73,https://nube.ine.gob.bo/index.php/s/AL0ax8UC7A0UVAe/download
 2023-07-13 09:40:23-04:00,"Bolivia-Oferta Hotelera Según Categoría Hotelera, 2008 – 2022",spreadsheet,144.03,https://nube.ine.gob.bo/index.php/s/WsaB8FgaeiRLSxV/download
 2023-07-13 18:48:17-04:00,"BOLIVIA – ÍNDICE DE CONSUMO DE ENERGIA ELECTRICA POR TIPO DE USUARIO SEGÚN AÑO Y MES, 1990 – 2023",spreadsheet,531.59,https://nube.ine.gob.bo/index.php/s/YjA7ClnBp3KxZM0/download
 2023-07-13 18:57:27-04:00,BOLIVIA – ÍNDICE DE CONSUMO DE AGUA POTABLE POR CATEGORIA SEGÚN AÑO Y MES 1990 – 2023,spreadsheet,214.82,https://nube.ine.gob.bo/index.php/s/pcJIE4X3gGOTbua/download
@@ -1499,3 +1494,8 @@ modificado,nombre,tipo,kb,link
 2023-08-06 16:02:07-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2023",spreadsheet,143.28,https://nube.ine.gob.bo/index.php/s/ItGu4xC8l8VMb96/download
 2023-08-06 16:08:51-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2023",spreadsheet,163.09,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
 2023-08-06 16:14:27-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2023",spreadsheet,157.18,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
+2023-08-09 16:12:08-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Nacional",spreadsheet,761.18,https://nube.ine.gob.bo/index.php/s/rxYSpha1h66Ren7/download
+2023-08-09 16:12:48-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses",spreadsheet,339.45,https://nube.ine.gob.bo/index.php/s/l4iJxtq5xrBlbWR/download
+2023-08-09 16:14:10-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Importado",spreadsheet,761.10,https://nube.ine.gob.bo/index.php/s/b2mXrr9d7J3vrR6/download
+2023-08-09 16:16:11-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Origen y Grupo",spreadsheet,278.18,https://nube.ine.gob.bo/index.php/s/WMJixTngFsjpVOm/download
+2023-08-10 17:31:13-04:00,"Bolivia-Llegada de Viajeros Internacionales Vía Aérea, Según Aeropuerto y Tipo de Viajero Por Año, 2008-2022",excel,157.50,https://nube.ine.gob.bo/index.php/s/WZugAtE1pC0qZAd/download
