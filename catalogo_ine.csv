@@ -1358,10 +1358,6 @@ modificado,nombre,tipo,kb,link
 2023-08-03 17:22:41-04:00,Índice a nivel Productos,spreadsheet,570.01,https://nube.ine.gob.bo/index.php/s/41oB32NM9qgwcHO/download
 2023-08-03 17:35:21-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,2272.17,https://nube.ine.gob.bo/index.php/s/7XmvNqhCEbBrf61/download
 2023-08-03 18:45:53-04:00,Precios Promedio,spreadsheet,1432.23,https://nube.ine.gob.bo/index.php/s/JGQVwEhCE9BGKxo/download
-2023-08-06 15:54:49-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2023",spreadsheet,168.80,https://nube.ine.gob.bo/index.php/s/VGXL4vgllkzp7a3/download
-2023-08-06 16:02:07-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2023",spreadsheet,143.28,https://nube.ine.gob.bo/index.php/s/ItGu4xC8l8VMb96/download
-2023-08-06 16:08:51-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2023",spreadsheet,163.09,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
-2023-08-06 16:14:27-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2023",spreadsheet,157.18,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
 2023-08-08 17:01:41-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Tipo de Servicio según Año y Mes, 1990 – 2023",spreadsheet,184.77,https://nube.ine.gob.bo/index.php/s/MdGrkyKcz2j4E7b/download
 2023-08-08 17:04:31-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Red según Año y Mes, 1990 – 2023",spreadsheet,166.44,https://nube.ine.gob.bo/index.php/s/HZFs6GQX8ruw9Rq/download
 2023-08-08 17:14:04-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Tipo de Servicio y Red según Año y Mes, 1990 – 2023",spreadsheet,204.50,https://nube.ine.gob.bo/index.php/s/gZp78h5YhiEl8fY/download
@@ -1504,3 +1500,7 @@ modificado,nombre,tipo,kb,link
 2023-08-28 11:53:05-04:00,Bolivia – Índice de Cantidad y Variaciones de Extracción de Petróleo y Gas Natural según Año y Mes 1990 – 2023,spreadsheet,165.94,https://nube.ine.gob.bo/index.php/s/7xFRrazPDcASn67/download
 2023-08-28 12:19:55-04:00,"Bolivia – Índice de Volumen de Producción de Minerales por Subsector de la Minería Chica y Cooperativas y Tipo de Mineral, 2000 – 2023",spreadsheet,267.52,https://nube.ine.gob.bo/index.php/s/FgTXSAt5PRhMUBE/download
 2023-08-28 12:20:27-04:00,"Bolivia – Índice de Volumen de Producción de Minerales por Subsector de la Minería Mediana y Tipo de Mineral según Año y Mes, 2000 – 2023",spreadsheet,198.61,https://nube.ine.gob.bo/index.php/s/FUqbPprRqwTati8/download
+2023-09-06 15:19:12-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2023",spreadsheet,163.18,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
+2023-09-07 09:22:40-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2023",spreadsheet,157.27,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
+2023-09-07 10:38:22-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2023",spreadsheet,143.86,https://nube.ine.gob.bo/index.php/s/ItGu4xC8l8VMb96/download
+2023-09-07 10:39:09-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2023",spreadsheet,169.45,https://nube.ine.gob.bo/index.php/s/VGXL4vgllkzp7a3/download
