@@ -936,10 +936,7 @@ modificado,nombre,tipo,kb,link
 2023-05-30 17:16:34-04:00,"Bolivia-Salida de Viajeros Internacionales Vía Aérea, Según Nacionalidad Por Año, 2008-2022",excel,169.50,https://nube.ine.gob.bo/index.php/s/5umOsL384h0C9UN/download
 2023-05-30 18:00:45-04:00,"Bolivia-Llegada de Viajeros Internacionales Vía Carretera, Según Nacionalidad Por Año, 2008-2022",excel,164.50,https://nube.ine.gob.bo/index.php/s/sPzUe5jaslkrlMD/download
 2023-05-30 18:08:55-04:00,"Bolivia-Salida de Viajeros Internacionales Vía Carretera, Según Nacionalidad Por Año, 2008-2022",excel,169.50,https://nube.ine.gob.bo/index.php/s/e943sN1hESjeXF1/download
-2023-06-02 15:11:54-04:00,Sintaxis para cálculo de estadísticas e indicadores,rar,2.95,https://nube.ine.gob.bo/index.php/s/nsWAI8koEvwcDqR/download
-2023-06-02 15:12:11-04:00,Sintaxis para consolidación de bases de datos trimestrales,rar,8.44,https://nube.ine.gob.bo/index.php/s/A0fNEF0HdtOAuDI/download
 2023-06-02 15:13:00-04:00,ECE_4T_2022,rar,8954.40,https://nube.ine.gob.bo/index.php/s/cE3jMOi2SmkZg5e/download
-2023-06-02 15:13:07-04:00,ECE 4T15 4T22,rar,270086.46,https://nube.ine.gob.bo/index.php/s/OXqy6d3y5HnNOGY/download
 2023-06-02 15:13:13-04:00,ECE_4T_2022 RUR,rar,1152.50,https://nube.ine.gob.bo/index.php/s/T59IoKwaaePrzK4/download
 2023-06-02 15:13:31-04:00,ECE_4T_2022 URB,rar,7816.13,https://nube.ine.gob.bo/index.php/s/dewANnr6S1oBhEl/download
 2023-06-05 19:32:44-04:00,BOLETÍN ESTADÍSTICO COMEX ABRIL 2023,pdf,5125.99,https://nube.ine.gob.bo/index.php/s/FStpBKkl54TNYap/download
@@ -1397,6 +1394,9 @@ modificado,nombre,tipo,kb,link
 2023-10-09 12:27:12-04:00,"Bolivia – Índice de Volumen de Transporte Carretero por Tipo de Servicio y Flujo según Año y Mes, 1992 – 2023",spreadsheet,225.79,https://nube.ine.gob.bo/index.php/s/wRsuLXTHK1zxWMs/download
 2023-10-09 12:29:24-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo por Tipo de Servicio según Año y Mes, 1990 – 2023",spreadsheet,168.51,https://nube.ine.gob.bo/index.php/s/LNFY4xyFTWAau7r/download
 2023-10-09 12:31:39-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo por Ruta Nacional y Internacional según Año y Mes, 1990 – 2023",spreadsheet,165.55,https://nube.ine.gob.bo/index.php/s/9Rjn3JIfFF0HUuF/download
+2023-10-09 13:59:04-04:00,ECE_1T_2023,rar,8827.70,https://nube.ine.gob.bo/index.php/s/zxgkAOzAKHmnpFM/download
+2023-10-09 13:59:41-04:00,ECE_1T_2023RUR,rar,1155.95,https://nube.ine.gob.bo/index.php/s/TYYEYDt06Qibvbt/download
+2023-10-09 14:00:00-04:00,ECE_1T_2023 URB,rar,7689.24,https://nube.ine.gob.bo/index.php/s/qMWIrYHfWPzpZ0H/download
 2023-10-09 15:06:48-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo por Ruta y Tipo de Servicio Nacional según Año y Mes, 1990 – 2023",spreadsheet,321.70,https://nube.ine.gob.bo/index.php/s/yw1bM0W7cxgfRFO/download
 2023-10-09 15:10:12-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo Internacional por Tipo de Servicio y Flujo según Año y Mes, 1990 – 2023",spreadsheet,282.97,https://nube.ine.gob.bo/index.php/s/mieC8armFhwSQDk/download
 2023-10-09 15:16:48-04:00,"Bolivia – Índice de Volumen de Transporte por Hidrocarburos por Ductos por Tipo Ductos, según Año y Mes, 1990 – 2023",spreadsheet,148.77,https://nube.ine.gob.bo/index.php/s/mlZR1U2lNm9plFX/download
@@ -1408,6 +1408,9 @@ modificado,nombre,tipo,kb,link
 2023-10-09 15:34:14-04:00,"Bolivia – Flujo del Transporte Aéreo de Pasajeros por Flujo y Ruta según Año y Mes, 2009 – 2023",spreadsheet,84.84,https://nube.ine.gob.bo/index.php/s/GUwyjrMe1WKDB2f/download
 2023-10-09 15:34:50-04:00,"La Paz – Numero de Pasajeros Transportados por Cable, según Mes, 2014 – 2023",excel,82.00,https://nube.ine.gob.bo/index.php/s/otwlELD2kVvCDO2/download
 2023-10-09 15:36:18-04:00,"Oruro – Numero de Pasajeros Transportados por Cable, según Mes, 2018 – 2023",spreadsheet,65.58,https://nube.ine.gob.bo/index.php/s/W2QOGSJ2tYL5CZa/download
+2023-10-09 16:16:19-04:00,ECE 4T15 1T23,rar,212178.01,https://nube.ine.gob.bo/index.php/s/snDEg2hU7o6qHUq/download
+2023-10-10 11:17:30-04:00,Sintaxis para consolidación de bases de datos trimestrales,rar,8.50,https://nube.ine.gob.bo/index.php/s/4RP0hqtlKlyvlrj/download
+2023-10-10 11:17:30-04:00,Sintaxis para cálculo de estadísticas e indicadores,rar,2.94,https://nube.ine.gob.bo/index.php/s/KFnCb476dho3WI8/download
 2023-10-12 18:07:27-04:00,"BOLIVIA: DENUNCIAS DE CASOS DE DELITOS NO CONSUMADOS, SEGÚN DEPARTAMENTO Y TIPO DE DELITO, 2007- 2022",excel,139.00,https://nube.ine.gob.bo/index.php/s/oZCIhgqNiKP2uG9/download
 2023-10-12 18:08:16-04:00,"BOLIVIA: NÚMERO DE DENUNCIAS DE CASOS DE TRATA Y TRÁFICO DE PERSONAS, SEGÚN DEPARTAMENTO Y TIPO DE DELITO, 2012 – 2022",excel,164.00,https://nube.ine.gob.bo/index.php/s/kiZLYMgXH4dTZPm/download
 2023-10-12 18:09:02-04:00,"BOLIVIA: FALTAS Y CONTRAVENCIONES REGISTRADAS, SEGÚN DEPARTAMENTO Y TIPO DE FALTAS, 2006 – 2020",spreadsheet,209.98,https://nube.ine.gob.bo/index.php/s/FeK6OrcOb8Zwkse/download
