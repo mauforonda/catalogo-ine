@@ -527,8 +527,8 @@ modificado,nombre,tipo,kb,link
 2022-02-10 12:19:04-04:00,IMPORTACIONES 1999,spreadsheet,16021.25,https://nube.ine.gob.bo/index.php/s/WBVTCmtLRAHGJqw/download
 2022-02-10 12:19:07-04:00,IMPORTACIONES 1998,spreadsheet,15118.21,https://nube.ine.gob.bo/index.php/s/ycRtFAfpLlOuTyx/download
 2022-02-10 12:19:09-04:00,IMPORTACIONES 1992,spreadsheet,11707.47,https://nube.ine.gob.bo/index.php/s/iQ6fw5LktsPFNwd/download
-2022-02-10 12:19:09-04:00,IMPORTACIONES 1997,spreadsheet,13425.62,https://nube.ine.gob.bo/index.php/s/i6Q3u7PLjelScDs/download
 2022-02-10 12:19:09-04:00,IMPORTACIONES 1996,spreadsheet,12423.70,https://nube.ine.gob.bo/index.php/s/UUJvjhrDWXK3Sxr/download
+2022-02-10 12:19:09-04:00,IMPORTACIONES 1997,spreadsheet,13425.62,https://nube.ine.gob.bo/index.php/s/i6Q3u7PLjelScDs/download
 2022-02-10 12:19:11-04:00,IMPORTACIONES 1995,spreadsheet,13655.50,https://nube.ine.gob.bo/index.php/s/F1bmhxkid2QxL6s/download
 2022-02-10 12:19:11-04:00,IMPORTACIONES 1993,spreadsheet,12446.37,https://nube.ine.gob.bo/index.php/s/oUvq81WCWkbcxzB/download
 2022-02-10 12:19:11-04:00,IMPORTACIONES 1994,spreadsheet,14448.32,https://nube.ine.gob.bo/index.php/s/uGTgqIqEb7vcqts/download
@@ -682,20 +682,20 @@ modificado,nombre,tipo,kb,link
 2022-08-29 20:53:48-04:00,BOLETÍN ESTADÍSTICO COMEX JULIO 2022,pdf,6551.20,https://nube.ine.gob.bo/index.php/s/gs7pgDEANXyCKC3/download
 2022-09-01 08:36:08-04:00,"Detalle de secciones, variables y categorías por censo, 1900 – 2012 y preguntas del Cuestionario Censal preliminar",pdf,1454.05,https://nube.ine.gob.bo/index.php/s/dr6i0RSBK0ohbdu/download
 2022-09-12 09:56:28-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES AGOSTO DE 2022,pdf,7826.21,https://nube.ine.gob.bo/index.php/s/3wembTeVDR1OR7X/download
-2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DIVORCIOS POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y CATEGORÍA DEL DIVORCIO, 2010-2021",spreadsheet,44.84,https://nube.ine.gob.bo/index.php/s/tXRslp46papEOtW/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DEFUNCIONES DE MENORES DE UN AÑO, POR AÑO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO DEL FALLECIDO, 2010-2021",spreadsheet,41.98,https://nube.ine.gob.bo/index.php/s/eYtoatL8YAghXQ7/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE RECONOCIMIENTOS Y ADOPCIONES POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO, 2010-2021",spreadsheet,44.28,https://nube.ine.gob.bo/index.php/s/YKiYvoaa92LPitB/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE MATRIMONIO REGISTRADOS POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO, ESTADO CIVIL PREVIO AL MATRIMONIO Y SEXO, 2010-2021",spreadsheet,51.52,https://nube.ine.gob.bo/index.php/s/WfWAHWiQF71Bnss/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTO DE MENORES DE UN AÑO, POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO DEL RECIÉN NACIDO, 2010-2021",spreadsheet,44.24,https://nube.ine.gob.bo/index.php/s/SdI1xgT2xGzalN1/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DEFUNCIONES POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO DEL FALLECIDO, 2010-2021",spreadsheet,45.30,https://nube.ine.gob.bo/index.php/s/JQq7fcjxZ3DL4dM/download
-2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DEFUNCIONES POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO Y GRUPO DE EDAD DEL FALLECIDO, 2010-2021",spreadsheet,50.04,https://nube.ine.gob.bo/index.php/s/9rm4WA41iwzzcft/download
-2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE UNIONES LIBRES POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO, 2016-2021",spreadsheet,41.91,https://nube.ine.gob.bo/index.php/s/I21r9NeYfsjjKng/download
-2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE MATRIMONIO REGISTRADOS POR AÑO, SEGÚN DEPARTAMENTO, GRUPO DE EDAD Y SEXO DE LOS CONTRAYENTES, 2010-2021",spreadsheet,58.28,https://nube.ine.gob.bo/index.php/s/GliEYFJnagaXOSl/download
-2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTO, POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO DEL RECIÉN NACIDO, 2010-2021",spreadsheet,71.41,https://nube.ine.gob.bo/index.php/s/yMXnjiMDv2a2LtG/download
+2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTOS POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y ESTADO CIVIL DEL PADRE, 2010-2021",spreadsheet,47.80,https://nube.ine.gob.bo/index.php/s/IOifHaitweZDegF/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTO INSCRITOS, POR AÑO DE REGISTRO, SEGÚN GRUPO DE EDAD, 2010-2021",spreadsheet,46.62,https://nube.ine.gob.bo/index.php/s/9r7keoK4J7l7YCj/download
+2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE MATRIMONIO REGISTRADOS POR AÑO, SEGÚN DEPARTAMENTO, GRUPO DE EDAD Y SEXO DE LOS CONTRAYENTES, 2010-2021",spreadsheet,58.28,https://nube.ine.gob.bo/index.php/s/GliEYFJnagaXOSl/download
+2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DEFUNCIONES POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO Y GRUPO DE EDAD DEL FALLECIDO, 2010-2021",spreadsheet,50.04,https://nube.ine.gob.bo/index.php/s/9rm4WA41iwzzcft/download
+2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE DIVORCIOS POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y CATEGORÍA DEL DIVORCIO, 2010-2021",spreadsheet,44.84,https://nube.ine.gob.bo/index.php/s/tXRslp46papEOtW/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE MATRIMONIO REGISTRADOS POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO, 2010-2021",spreadsheet,42.01,https://nube.ine.gob.bo/index.php/s/9DlvVokIT9HFx6P/download
 2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTO POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y ESTADO CIVIL DE LA MADRE, 2010-2021",spreadsheet,47.86,https://nube.ine.gob.bo/index.php/s/6Fz5M1w8FpbEquM/download
-2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTOS POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y ESTADO CIVIL DEL PADRE, 2010-2021",spreadsheet,47.80,https://nube.ine.gob.bo/index.php/s/IOifHaitweZDegF/download
+2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE UNIONES LIBRES POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO, 2016-2021",spreadsheet,41.91,https://nube.ine.gob.bo/index.php/s/I21r9NeYfsjjKng/download
+2022-09-22 10:34:20-04:00,"BOLIVIA: NÚMERO DE PARTIDAS DE NACIMIENTO, POR AÑO DE REGISTRO, SEGÚN DEPARTAMENTO DE REGISTRO Y SEXO DEL RECIÉN NACIDO, 2010-2021",spreadsheet,71.41,https://nube.ine.gob.bo/index.php/s/yMXnjiMDv2a2LtG/download
 2022-09-30 19:22:02-04:00,SALARIOS Y REMUNERACIONES DEL SECTOR PÚBLICO JUNIO DE 2022,pdf,3474.47,https://nube.ine.gob.bo/index.php/s/oNVNMEXdOUsDGZe/download
 2022-09-30 21:14:46-04:00,BOLETÍN ESTADÍSTICO COMEX AGOSTO 2022,pdf,6289.89,https://nube.ine.gob.bo/index.php/s/CsV3zxp8fXR2b17/download
 2022-10-06 10:46:30-04:00,"BOLIVIA: LÍNEAS DE POBREZA Y POBREZA EXTREMA EN BOLIVIANOS POR PERSONA AL MES, SEGÚN ÁREA Y CIUDAD 2016 – 2021",spreadsheet,283.28,https://nube.ine.gob.bo/index.php/s/5gP6tzFpJJcrS3i/download
@@ -708,8 +708,8 @@ modificado,nombre,tipo,kb,link
 2022-10-31 15:25:59-04:00,MATRIZ DE PRODUCCION (EN MILES DE BOLIVIANOS DE 1990) ( 2014),pdf,185.47,https://nube.ine.gob.bo/index.php/s/cVSIdY6dI0MwhHG/download
 2022-11-08 16:25:18-04:00,BOLETÍN ESTADÍSTICO ENCUESTA CONTINUA DE EMPLEO ECE 3T-2022,pdf,4759.27,https://nube.ine.gob.bo/index.php/s/mhMIWqHoDO7cYoe/download
 2022-11-08 16:25:34-04:00,BOLETÍN ESTADÍSTICO COMEX SEPTIEMBRE 2022,pdf,6591.98,https://nube.ine.gob.bo/index.php/s/5SHHxbcb9NWVnyi/download
-2022-11-08 20:01:56-04:00,EXPORTACIONES RITEX 2020,spreadsheet,35.82,https://nube.ine.gob.bo/index.php/s/vXSvsGIIMqoA1FY/download
 2022-11-08 20:01:56-04:00,EXPORTACIONES 2020,spreadsheet,4156.27,https://nube.ine.gob.bo/index.php/s/LkvusI5cnCIsBtE/download
+2022-11-08 20:01:56-04:00,EXPORTACIONES RITEX 2020,spreadsheet,35.82,https://nube.ine.gob.bo/index.php/s/vXSvsGIIMqoA1FY/download
 2022-11-08 20:02:02-04:00,IMPORTACIONES 2020,spreadsheet,54762.35,https://nube.ine.gob.bo/index.php/s/JuvhMH4gAswGivq/download
 2022-11-09 08:32:10-04:00,Resultados expresiones de interés,pdf,649.80,https://nube.ine.gob.bo/index.php/s/5vOOsobtRIU5GuX/download
 2022-11-14 15:59:29-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES OCTUBRE DE 2022,pdf,7872.53,https://nube.ine.gob.bo/index.php/s/KSWwCH9QPZrUi2w/download
@@ -1215,7 +1215,6 @@ modificado,nombre,tipo,kb,link
 2023-10-16 11:16:29-04:00,"Bolivia-Llegada de Viajeros Internacionales Vía Aérea, Por Aeropuerto y Tipo de Viajero Según Año y Mes 2008 – 2023",spreadsheet,155.31,https://nube.ine.gob.bo/index.php/s/nddfulKMiqf6Xqi/download
 2023-10-16 11:27:59-04:00,"Bolivia-Salida de Viajeros Internacionales Vía Aérea, Por Aeropuerto y Tipo de Viajero Según Año y Mes 2008 – 2023",spreadsheet,156.29,https://nube.ine.gob.bo/index.php/s/2sbeNGWaGN511kk/download
 2023-10-16 12:30:00-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES SEPTIEMBRE DE 2023,pdf,8857.23,https://nube.ine.gob.bo/index.php/s/pmiEKCYIhLkY2PX/download
-2023-10-16 15:43:00-04:00,PRECIOS INTERNACIONALES DE PRINCIPALES PRODUCTOS DEL COMERCIO MUNDIAL (COMMODITIES) 1980 – 2023,spreadsheet,1062.51,https://nube.ine.gob.bo/index.php/s/hIGMhepChowCFCp/download
 2023-10-17 18:31:28-04:00,"Bolivia-Llegada de Viajeros Internacionales Vía Aérea, Según Nacionalidad, Por Año y Mes 2008 – 2023",spreadsheet,212.38,https://nube.ine.gob.bo/index.php/s/Y5dXLFWkzZCDCdf/download
 2023-10-18 11:50:57-04:00,"Bolivia-Llegada de Visitantes Internacionales Vía Aérea, Por Aeropuerto y Tipo de Visitante, Según Año y Mes 2008 – 2023",spreadsheet,156.78,https://nube.ine.gob.bo/index.php/s/jhxyjklvDl1gkEk/download
 2023-10-18 15:54:26-04:00,"Bolivia-Salida de Visitantes Internacionales Vía Aérea, Según Nacionalidad, Por Año y Mes 2008 – 2023",spreadsheet,211.29,https://nube.ine.gob.bo/index.php/s/YX6SKYfGXayt8Cd/download
