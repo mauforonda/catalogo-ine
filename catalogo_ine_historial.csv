@@ -711,9 +711,9 @@ modificado,nombre,tipo,kb,link
 2022-09-30 21:14:46-04:00,BOLETÍN ESTADÍSTICO COMEX AGOSTO 2022,pdf,6289.89,https://nube.ine.gob.bo/index.php/s/CsV3zxp8fXR2b17/download
 2022-10-06 10:46:30-04:00,"BOLIVIA: LÍNEAS DE POBREZA Y POBREZA EXTREMA EN BOLIVIANOS POR PERSONA AL MES, SEGÚN ÁREA Y CIUDAD 2016 – 2021",spreadsheet,283.28,https://nube.ine.gob.bo/index.php/s/5gP6tzFpJJcrS3i/download
 2022-10-12 12:01:01-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES SEPTIEMBRE DE 2022,pdf,7848.21,https://nube.ine.gob.bo/index.php/s/kPHKIa6C8a9pByD/download
-2022-10-18 18:56:30-04:00,ECE_1T_2022,rar,8683.90,https://nube.ine.gob.bo/index.php/s/M8qOYiapQJuOEUu/download
 2022-10-18 18:56:30-04:00,ECE_1T_2022 RUR,rar,1097.72,https://nube.ine.gob.bo/index.php/s/eykEAs0OG6xiIMl/download
 2022-10-18 18:56:30-04:00,Cuestionario v8,pdf,1258.07,https://nube.ine.gob.bo/index.php/s/zHFP0acdQMyIjqR/download
+2022-10-18 18:56:30-04:00,ECE_1T_2022,rar,8683.90,https://nube.ine.gob.bo/index.php/s/M8qOYiapQJuOEUu/download
 2022-10-18 18:56:32-04:00,ECE_1T_2022 URB,rar,7612.05,https://nube.ine.gob.bo/index.php/s/IJ9VJp8AaM8OCtg/download
 2022-10-31 15:25:12-04:00,MATRIZ DE PRODUCCION (EN MILES DE BOLIVIANOS DE 1990) ( 2013),pdf,180.82,https://nube.ine.gob.bo/index.php/s/kDHPiEeUI5pgqGx/download
 2022-10-31 15:25:59-04:00,MATRIZ DE PRODUCCION (EN MILES DE BOLIVIANOS DE 1990) ( 2014),pdf,185.47,https://nube.ine.gob.bo/index.php/s/cVSIdY6dI0MwhHG/download
@@ -725,10 +725,10 @@ modificado,nombre,tipo,kb,link
 2022-11-09 08:32:10-04:00,Resultados expresiones de interés,pdf,649.80,https://nube.ine.gob.bo/index.php/s/5vOOsobtRIU5GuX/download
 2022-11-14 15:59:29-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES OCTUBRE DE 2022,pdf,7872.53,https://nube.ine.gob.bo/index.php/s/KSWwCH9QPZrUi2w/download
 2022-11-28 15:31:49-04:00,Resultados expresiones de interés,pdf,107.60,https://nube.ine.gob.bo/index.php/s/1lItI2OFUTDpQNu/download
-2022-11-30 20:43:44-04:00,IMPORTACIONES RITEX 2019,spreadsheet,65.64,https://nube.ine.gob.bo/index.php/s/x60Z6gWzbn5A7SO/download
-2022-11-30 20:43:44-04:00,IMPORTACIONES RITEX 2020,spreadsheet,56.93,https://nube.ine.gob.bo/index.php/s/rzKXtsYeV2ZBXfH/download
 2022-11-30 20:43:44-04:00,IMPORTACIONES RITEX 2018,spreadsheet,66.88,https://nube.ine.gob.bo/index.php/s/ayqstdwpc83uEXp/download
 2022-11-30 20:43:44-04:00,IMPORTACIONES RITEX 2017,spreadsheet,90.94,https://nube.ine.gob.bo/index.php/s/okLqyzFXFmLk1a6/download
+2022-11-30 20:43:44-04:00,IMPORTACIONES RITEX 2020,spreadsheet,56.93,https://nube.ine.gob.bo/index.php/s/rzKXtsYeV2ZBXfH/download
+2022-11-30 20:43:44-04:00,IMPORTACIONES RITEX 2019,spreadsheet,65.64,https://nube.ine.gob.bo/index.php/s/x60Z6gWzbn5A7SO/download
 2022-12-02 12:10:53-04:00,BOLETÍN ESTADÍSTICO COMEX OCTUBRE 2022,pdf,6636.86,https://nube.ine.gob.bo/index.php/s/mY8jt0lEzzhhafy/download
 2022-12-12 14:59:31-04:00,ECE_2T_2022 URB,rar,8018.96,https://nube.ine.gob.bo/index.php/s/JuLkayJlZOdMTYT/download
 2022-12-12 14:59:47-04:00,ECE_2T_2022 RUR,rar,1165.35,https://nube.ine.gob.bo/index.php/s/1yHBCJ2uxGc4Ctq/download
@@ -1150,14 +1150,14 @@ modificado,nombre,tipo,kb,link
 2023-10-27 09:45:00-04:00,"BOLIVIA: CONSULTA EXTERNA EN LA POBLACIÓN MENOR DE 5 AÑOS, SEGÚN DEPARTAMENTO Y TIPO DE CONSULTA, 1997 – 2022",excel,104.00,https://nube.ine.gob.bo/index.php/s/sjc4IYIHKJd1fl9/download
 2023-10-27 09:45:00-04:00,"BOLIVIA: COBERTURAS DE CONTROL PRENATAL, SEGÚN DEPARTAMENTO Y TIPO DE CONTROL PRENATAL, 1997 – 2022",excel,121.50,https://nube.ine.gob.bo/index.php/s/q0qrOPoApbhKEnX/download
 2023-10-27 09:45:00-04:00,"BOLIVIA: ATENCIÓN DE PARTO Y POSTPARTO, SEGÚN DEPARTAMENTO, 1997 – 2022",excel,117.00,https://nube.ine.gob.bo/index.php/s/opToOzY16tSy9PY/download
-2023-10-27 09:45:00-04:00,"BOLIVIA: APLICACIONES DE VACUNA ANTISARAMPIONOSA A NIÑOS Y NIÑAS DE 1 AÑO, SEGÚN DEPARTAMENTO Y NÚMERO DE DOSIS, 2005 – 2022",excel,93.50,https://nube.ine.gob.bo/index.php/s/elCrJwpHaxFOAbv/download
+2023-10-27 09:45:00-04:00,"BOLIVIA: ESTABLECIMIENTOS DE SALUD, SEGÚN DEPARTAMENTO Y TIPO DE ESTABLECIMIENTO, 1997 – 2022",spreadsheet,82.23,https://nube.ine.gob.bo/index.php/s/m3tHd1Haz1FZBNQ/download
 2023-10-27 09:45:00-04:00,"BOLIVIA: HABITANTES POR ESTABLECIMIENTOS DE SALUD, SEGÚN DEPARTAMENTO, 1997 – 2022",spreadsheet,83.06,https://nube.ine.gob.bo/index.php/s/dvp2F2eRjzKjGPn/download
 2023-10-27 09:45:00-04:00,"BOLIVIA: NACIMIENTOS CON BAJO PESO Y PORCENTAJE DE BAJO PESO AL NACER, SEGÚN DEPARTAMENTO, 1997 – 2022",excel,103.00,https://nube.ine.gob.bo/index.php/s/V9SKtFmCo3wd2A9/download
-2023-10-27 09:45:00-04:00,"BOLIVIA: ESTABLECIMIENTOS DE SALUD, SEGÚN DEPARTAMENTO Y TIPO DE ESTABLECIMIENTO, 1997 – 2022",spreadsheet,82.23,https://nube.ine.gob.bo/index.php/s/m3tHd1Haz1FZBNQ/download
+2023-10-27 09:45:00-04:00,"BOLIVIA: APLICACIONES DE VACUNA ANTISARAMPIONOSA A NIÑOS Y NIÑAS DE 1 AÑO, SEGÚN DEPARTAMENTO Y NÚMERO DE DOSIS, 2005 – 2022",excel,93.50,https://nube.ine.gob.bo/index.php/s/elCrJwpHaxFOAbv/download
 2023-10-27 09:45:00-04:00,"BOLIVIA: CONTROL DE CRECIMIENTO A NIÑOS MENORES DE 5 AÑOS, NUEVO Y REPETIDO, SEGÚN DEPARTAMENTO,  2007 – 2022",excel,105.50,https://nube.ine.gob.bo/index.php/s/R1p5bESgM0ES31Z/download
 2023-10-27 09:45:00-04:00,"BOLIVIA: DOSIS DE VACUNAS APLICADAS EN MENORES DE 1 AÑO, SEGÚN DEPARTAMENTO Y TIPO DE VACUNA, 2005 – 2022",excel,138.50,https://nube.ine.gob.bo/index.php/s/MAtVWaYpgn9VLa8/download
-2023-10-27 09:45:00-04:00,"BOLIVIA: DOSIS DE VITAMINA “A” APLICADAS A NIÑOS Y NIÑAS DE 1 A 4 AÑOS, SEGÚN DEPARTAMENTO Y NÚMERO DE DOSIS, 1997 – 2022",excel,115.00,https://nube.ine.gob.bo/index.php/s/HPkOTo7cNFwio9v/download
 2023-10-27 09:45:00-04:00,"BOLIVIA: CAMAS, SEGÚN DEPARTAMENTO Y TIPO DE ESTABLECIMIENTO, 2005 – 2022",excel,103.00,https://nube.ine.gob.bo/index.php/s/TWZsbLJCyGidFhR/download
+2023-10-27 09:45:00-04:00,"BOLIVIA: DOSIS DE VITAMINA “A” APLICADAS A NIÑOS Y NIÑAS DE 1 A 4 AÑOS, SEGÚN DEPARTAMENTO Y NÚMERO DE DOSIS, 1997 – 2022",excel,115.00,https://nube.ine.gob.bo/index.php/s/HPkOTo7cNFwio9v/download
 2023-10-27 09:45:00-04:00,"BOLIVIA: VITAMINA “A” APLICADA A MENORES DE 5 AÑOS, SEGÚN DEPARTAMENTO, GRUPO DE EDAD Y NÚMERO DE DOSIS, 2005 – 2022",excel,122.00,https://nube.ine.gob.bo/index.php/s/HMUAvAbqd4ZjOmC/download
 2023-10-27 09:45:00-04:00,"BOLIVIA: ESTUDIOS CITOLÓGICOS VAGINALES (PAP) EN MUJERES EN EDAD FÉRTIL, SEGÚN DEPARTAMENTO, 1997 – 2022",excel,203.50,https://nube.ine.gob.bo/index.php/s/Dwmdh0IJEQwrhmG/download
 2023-10-27 09:45:00-04:00,"BOLIVIA: CONSULTA EXTERNA DE LA POBLACIÓN DE 5 AÑOS O MÁS DE EDAD, SEGÚN DEPARTAMENTO Y TIPO DE CONSULTA, 1997 – 2022",excel,102.50,https://nube.ine.gob.bo/index.php/s/5wg4Qw1zj5HD1i1/download
@@ -1326,8 +1326,8 @@ modificado,nombre,tipo,kb,link
 2023-12-15 18:30:35-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES NOVIEMBRE DE 2023,pdf,8916.26,https://nube.ine.gob.bo/index.php/s/1MmBdOyzdrHpcMw/download
 2023-12-15 20:58:29-04:00,BOLETÍN ESTADÍSTICO COMEX OCTUBRE 2023,pdf,7043.55,https://nube.ine.gob.bo/index.php/s/DZumANbrw3Zg76O/download
 2023-12-16 09:32:00-04:00,IMPORTACIONES RITEX ENE – OCT 2023p,spreadsheet,60.30,https://nube.ine.gob.bo/index.php/s/0YmqMbxVzHssVj0/download
-2023-12-16 13:03:42-04:00,EXPORTACIONES ENE – OCT 2023,spreadsheet,2236.51,https://nube.ine.gob.bo/index.php/s/VwXZVo3D2pFxLTp/download
 2023-12-16 13:03:42-04:00,EXPORTACIONES RITEX ENE – OCT 2023p,spreadsheet,36.36,https://nube.ine.gob.bo/index.php/s/2MoSWuqpvwDiXFs/download
+2023-12-16 13:03:42-04:00,EXPORTACIONES ENE – OCT 2023,spreadsheet,2236.51,https://nube.ine.gob.bo/index.php/s/VwXZVo3D2pFxLTp/download
 2023-12-16 13:03:46-04:00,IMPORTACIONES ENE – OCT 2023p,spreadsheet,49279.95,https://nube.ine.gob.bo/index.php/s/Wrt1KUf0R9WsUIv/download
 2023-12-16 13:03:48-04:00,"Bolivia – Exportaciones según Clasificación Uniforme para el Comercio Internacional por Año y Mes, 1992 – 2023",spreadsheet,1192.54,https://nube.ine.gob.bo/index.php/s/CpA4Ifn970h32Wp/download
 2023-12-16 13:03:48-04:00,"Bolivia – Exportaciones según Grandes Categorías Económicas por Año y Mes, 1992 – 2023",spreadsheet,837.84,https://nube.ine.gob.bo/index.php/s/xwkBkig3lAy9uMr/download
@@ -1335,22 +1335,22 @@ modificado,nombre,tipo,kb,link
 2023-12-16 13:03:50-04:00,"Bolivia – Exportaciones según Actividad Económica y Producto por Año y Mes, 1992 – 2023",spreadsheet,1251.47,https://nube.ine.gob.bo/index.php/s/yJT9Q8KKyvhG4pi/download
 2023-12-16 13:03:50-04:00,Bolivia – Importaciones según Clasificación Uso o Destino Económico por Año y Mes 1992 – 2023,spreadsheet,1000.83,https://nube.ine.gob.bo/index.php/s/uVLkFa0Hr1vtlSb/download
 2023-12-16 13:03:50-04:00,Bolivia – Importaciones según Clasificación Uniforme para el Comercio Internacional por Año y Mes 1992 – 2023,spreadsheet,1227.97,https://nube.ine.gob.bo/index.php/s/sK59y78md8YZKSn/download
-2023-12-16 13:03:50-04:00,Bolivia – Importaciones por Año y Mes 1992 – 2023,spreadsheet,558.67,https://nube.ine.gob.bo/index.php/s/jYn9F8zMaAiAj3C/download
+2023-12-16 13:03:50-04:00,"Bolivia – Comercio Exterior según Grandes Categorías Económicas, 1992 – 2023",spreadsheet,939.72,https://nube.ine.gob.bo/index.php/s/oXl98KJQsspLm0a/download
+2023-12-16 13:03:50-04:00,"Bolivia – Comercio Exterior según Año, 1992 – 2022",spreadsheet,540.33,https://nube.ine.gob.bo/index.php/s/nMPCP2wBQqnx7c1/download
 2023-12-16 13:03:50-04:00,"Bolivia – Comercio Exterior según Año y Mes, 1992 – 2023",spreadsheet,561.43,https://nube.ine.gob.bo/index.php/s/YmNagUYOHcty0fZ/download
 2023-12-16 13:03:50-04:00,"Bolivia – Exportaciones según País de Destino por Año y Mes, 1992 – 2023",spreadsheet,1434.12,https://nube.ine.gob.bo/index.php/s/S01Wuf1I35GbFDA/download
-2023-12-16 13:03:50-04:00,"Bolivia – Comercio Exterior según Grandes Categorías Económicas, 1992 – 2023",spreadsheet,939.72,https://nube.ine.gob.bo/index.php/s/oXl98KJQsspLm0a/download
+2023-12-16 13:03:50-04:00,Bolivia – Importaciones por Año y Mes 1992 – 2023,spreadsheet,558.67,https://nube.ine.gob.bo/index.php/s/jYn9F8zMaAiAj3C/download
 2023-12-16 13:03:50-04:00,Bolivia – Importaciones según País de Origen por Año y Mes 1992 – 2023,spreadsheet,1736.83,https://nube.ine.gob.bo/index.php/s/PIKeAYbOtD47sAY/download
 2023-12-16 13:03:50-04:00,Bolivia – Importaciones según Grandes Categorías Económicas por Año y Mes 1992 – 2023,spreadsheet,784.99,https://nube.ine.gob.bo/index.php/s/PeKYjrquj8UOjyA/download
-2023-12-16 13:03:50-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año y Mes, 2017 – 2023",spreadsheet,911.93,https://nube.ine.gob.bo/index.php/s/0ToRunCr9uUpLOH/download
-2023-12-16 13:03:50-04:00,"Bolivia – Comercio Exterior según Países, 1992 – 2023",spreadsheet,2477.30,https://nube.ine.gob.bo/index.php/s/0rN1yGRumyuIVHx/download
-2023-12-16 13:03:50-04:00,"Bolivia – Importaciones Agregadas según Clasificación Uso o Destino Económico por Año y Mes, 1992 – 2023",spreadsheet,719.34,https://nube.ine.gob.bo/index.php/s/3MDafqtdVNXRwmU/download
-2023-12-16 13:03:50-04:00,"Bolivia – Comercio Exterior según Año, 1992 – 2022",spreadsheet,540.33,https://nube.ine.gob.bo/index.php/s/nMPCP2wBQqnx7c1/download
-2023-12-16 13:03:50-04:00,Bolivia – Importaciones según Clasificación Internacional Industrial Uniforme por Año y Mes 1992 – 2023,spreadsheet,891.35,https://nube.ine.gob.bo/index.php/s/JqbOsowvzhvzt4E/download
 2023-12-16 13:03:50-04:00,"Bolivia – Comercio Exterior según Año y Trimestre, 1992 – 2022",spreadsheet,546.45,https://nube.ine.gob.bo/index.php/s/OrjIqBzdZMJOTbu/download
+2023-12-16 13:03:50-04:00,Bolivia – Importaciones según Clasificación Internacional Industrial Uniforme por Año y Mes 1992 – 2023,spreadsheet,891.35,https://nube.ine.gob.bo/index.php/s/JqbOsowvzhvzt4E/download
 2023-12-16 13:03:50-04:00,"Bolivia – Comercio Exterior según Clasificación Uniforme para el Comercio Internacional, 1992 – 2023",spreadsheet,1660.07,https://nube.ine.gob.bo/index.php/s/9Exzmw9AdYipqG9/download
+2023-12-16 13:03:50-04:00,"Bolivia – Importaciones Agregadas según Clasificación Uso o Destino Económico por Año y Mes, 1992 – 2023",spreadsheet,719.34,https://nube.ine.gob.bo/index.php/s/3MDafqtdVNXRwmU/download
+2023-12-16 13:03:50-04:00,"Bolivia – Comercio Exterior según Países, 1992 – 2023",spreadsheet,2477.30,https://nube.ine.gob.bo/index.php/s/0rN1yGRumyuIVHx/download
+2023-12-16 13:03:50-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año y Mes, 2017 – 2023",spreadsheet,911.93,https://nube.ine.gob.bo/index.php/s/0ToRunCr9uUpLOH/download
+2023-12-18 08:48:00-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año, 2010 – 2023",spreadsheet,1466.40,https://nube.ine.gob.bo/index.php/s/UM0CTaUNXnPUSX4/download
 2023-12-18 08:48:00-04:00,"Bolivia – Exportaciones según Departamento y Producto por Año, 2010 – 2023",spreadsheet,571.39,https://nube.ine.gob.bo/index.php/s/WZY6zSwUD3XV1sc/download
 2023-12-18 08:48:00-04:00,"Bolivia – Exportaciones según Departamento y Producto por Año y Mes, 2017 – 2023",spreadsheet,818.50,https://nube.ine.gob.bo/index.php/s/Z2K43QnfeGoT0we/download
-2023-12-18 08:48:00-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año, 2010 – 2023",spreadsheet,1466.40,https://nube.ine.gob.bo/index.php/s/UM0CTaUNXnPUSX4/download
 2023-12-18 12:03:53-04:00,Bolivia – Acopio de leche según Año y Mes 2018 – 2023,spreadsheet,128.10,https://nube.ine.gob.bo/index.php/s/FRNjtawST5OEvAK/download
 2023-12-18 12:29:42-04:00,Bolivia – Cargas de Pollitos BB A Granjas registradas por departamento según Año y Mes 2019 – 2023,spreadsheet,128.05,https://nube.ine.gob.bo/index.php/s/sKcI87HYqzloEfP/download
 2023-12-18 12:33:18-04:00,"Bolivia – Número de pollos parrilleros faenados de Granjas Registradas por departamento, según Año y Mes 2019 – 2023",spreadsheet,126.49,https://nube.ine.gob.bo/index.php/s/HEAHvzF668cOO4x/download
@@ -1367,7 +1367,6 @@ modificado,nombre,tipo,kb,link
 2023-12-19 16:40:38-04:00,Bolivia – Índice de Volumen de Producción de Minerales por Tipo de Mineral según Año y Mes 1990 – 2023,spreadsheet,335.09,https://nube.ine.gob.bo/index.php/s/CfuZBNOT31HcAof/download
 2023-12-19 16:41:03-04:00,Bolivia – Producción de Minerales del Sector de la Minería Chica y Cooperativas por Tipo de Mineral según Año y Mes 1990 – 2023,spreadsheet,112.00,https://nube.ine.gob.bo/index.php/s/ZtgpSrxiRjnSOcQ/download
 2023-12-19 16:41:25-04:00,Bolivia – Producción de Minerales del Sector Estatal por Tipo de Mineral según Año y Mes 1990 – 2023,spreadsheet,107.44,https://nube.ine.gob.bo/index.php/s/C99kGj6LuCTbS9j/download
-2023-12-20 17:47:00-04:00,Reporte 2023,spreadsheet,89.82,https://nube.ine.gob.bo/index.php/s/Ds1LPkmZstp2z2D/download
 2023-12-21 09:57:59-04:00,"Bolivia – Área urbana: Distribución porcentual de la población de 14 años o más de edad en la ocupación principal por mes, según actividad económica, 2015 – 2023",spreadsheet,137.07,https://nube.ine.gob.bo/index.php/s/iEgD0gCiaazjjLp/download
 2023-12-21 09:58:41-04:00,"Bolivia: Distribución Porcentual de la población de 14 años o más de edad en la ocupación principal por mes, según actividad económica, 2015 – 2023",spreadsheet,136.30,https://nube.ine.gob.bo/index.php/s/lECrE3Cqk8unb0w/download
 2023-12-21 09:59:14-04:00,"Bolivia – Área urbana: Distribución porcentual de la población de 14 años o más de edad en la ocupación principal por mes, según sexo y categoría en el empleo, 2015 – 2023",spreadsheet,142.70,https://nube.ine.gob.bo/index.php/s/0eP5Gwuv3hihYVU/download
@@ -1473,8 +1472,8 @@ modificado,nombre,tipo,kb,link
 2024-01-10 15:16:48-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Nacional",spreadsheet,761.40,https://nube.ine.gob.bo/index.php/s/hFMTSA4ZRiWLjEE/download
 2024-01-10 15:17:26-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Importado",spreadsheet,761.33,https://nube.ine.gob.bo/index.php/s/35MMaVfxEWyukgv/download
 2024-01-10 15:20:40-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Origen y Grupo",spreadsheet,280.54,https://nube.ine.gob.bo/index.php/s/dn9kS3xc6yx18HQ/download
-2024-01-10 21:01:04-04:00,ECE_2T_2023RUR,rar,1152.02,https://nube.ine.gob.bo/index.php/s/r4PvvU7MwlIR6Vf/download
 2024-01-10 21:01:04-04:00,ECE_2T_2023,rar,8832.89,https://nube.ine.gob.bo/index.php/s/5vUqQqyTTJJ00dE/download
+2024-01-10 21:01:04-04:00,ECE_2T_2023RUR,rar,1152.02,https://nube.ine.gob.bo/index.php/s/r4PvvU7MwlIR6Vf/download
 2024-01-10 21:01:06-04:00,ECE_2T_2023 URB,rar,7685.51,https://nube.ine.gob.bo/index.php/s/KxsTVP35BrOtQK0/download
 2024-01-10 21:01:30-04:00,Sintaxis para cálculo de estadísticas e indicadores,rar,2.95,https://nube.ine.gob.bo/index.php/s/bvwt95Id4ZhrvxF/download
 2024-01-10 21:01:30-04:00,ECE 4T15 2T23,rar,287450.54,https://nube.ine.gob.bo/index.php/s/mA56N4vOd4EznVF/download
