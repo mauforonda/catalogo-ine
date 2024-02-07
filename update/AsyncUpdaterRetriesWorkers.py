@@ -1,4 +1,4 @@
-#!/bin/env python3.10
+#!/bin/env python
 
 # Thanks to https://github.com/mauforonda/catalogo-ine
 # and https://github.com/talkpython/async-techniques-python-course
@@ -37,7 +37,7 @@ SLEEP_BACKOFF = 0.2
 # multiple of per_page
 MAX_PAGES = 360
 PER_PAGE = 30
-TIMEOUT = 20
+TIMEOUT = 30
 KEEPALIVES = 30
 MAX_CONNECTIONS = 100
 MAX_WRITES = 200
