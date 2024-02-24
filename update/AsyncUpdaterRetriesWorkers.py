@@ -32,14 +32,14 @@ import xmltodict
 
 # AsyncUpdater.workers should be a divisor of MAX_PAGES and per_page
 
-SLEEP_T = 0.001
+SLEEP_T = 0.1
 SLEEP_BACKOFF = 0.2
 # multiple of per_page
 MAX_PAGES = 360
 PER_PAGE = 30
-TIMEOUT = 30
+TIMEOUT = 60
 KEEPALIVES = 30
-MAX_CONNECTIONS = 100
+MAX_CONNECTIONS = 50
 MAX_WRITES = 200
 TIPO_MAP = {
     'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet': 'spreadsheet',
@@ -90,6 +90,7 @@ class AsyncUpdater:
         self.count_pages = 0
         self.count_writes = 0
         self.error_404 = 0
+        self.error_401 = 0
         self.error_429 = 0
         self.error_no_metastatus = 0
         self.error_request = 0
@@ -242,10 +243,12 @@ class AsyncUpdater:
 
     async def get_request(self, offset: int, worker: int) -> Tuple[Optional[httpx.Response], int]:
         resp = await self.http_request(method="GET", item=offset, tries=2, worker=worker)
+        print(f"offset: {offset}")
         return resp, offset
 
     async def meta_request(self, token: str, worker: int) -> Optional[httpx.Response]:
         resp = await self.http_request(method="PROPFIND", item=token, tries=2, worker=worker)
+        print(f"meta: {token}")
         return resp
 
     @staticmethod
