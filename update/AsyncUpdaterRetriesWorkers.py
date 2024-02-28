@@ -369,17 +369,20 @@ class AsyncUpdater:
 
 
 def main():
-    url = 'https://www.ine.gob.bo/wp-json/wp/v2/pages?orderby=modified&per_page={}&offset={}'
     webdav_url = 'https://nube.ine.gob.bo/public.php/webdav'
     download_url = 'https://nube.ine.gob.bo/index.php/s/{}/download'
     domain = 'https://nube.ine.gob.bo'
-    ine_config = UpdaterConfig(url_domain=domain,
-                               url_json=url,
-                               url_download=download_url,
-                               url_webdav=webdav_url,
-                               log_level="INFO")
-    ine_files = AsyncUpdater(ine_config, workers=2)
-    ine_files.run_loop()
+    for url_base in ['censo.ine.gob.bo', 'www.ine.gob.bo']:
+        url = "https://" + url_base + "/wp-json/wp/v2/pages?orderby=modified&per_page={}&offset={}"
+        print(url)
+        ine_config = UpdaterConfig(
+            url_domain=domain,
+            url_json=url,
+            url_download=download_url,
+            url_webdav=webdav_url,
+            log_level="INFO")
+        ine_files = AsyncUpdater(ine_config, workers=2)
+        ine_files.run_loop()
 
 
 if __name__ == '__main__':
