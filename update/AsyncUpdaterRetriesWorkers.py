@@ -71,6 +71,19 @@ class UpdaterConfig(BaseModel):
     url_json: HttpUrl
     url_webdav: HttpUrl
 
+def save_csv(df, file: str = None) -> None:
+    """
+    Guarda resultados
+    """
+    catalog = df[['modificado', 'nombre', 'tipo', 'kb', 'link']]
+    if os.path.exists(file):
+        old = pd.read_csv(file, parse_dates=['modificado'])
+        catdf_historial = pd.concat([old, catalog]).drop_duplicates(subset=['modificado', 'nombre', 'tipo', 'link'],
+                                                                    keep='first')
+        catdf_historial.sort_values('modificado').to_csv(
+            '_'.join([file[:file.index('.')], 'historial']) + '.csv',
+            index=False, float_format="%.2f")
+    catalog.sort_values(['modificado', 'link']).to_csv(file, index=False, float_format="%.2f")
 
 class AsyncUpdater:
 
@@ -91,6 +104,7 @@ class AsyncUpdater:
         self.count_writes = 0
         self.error_404 = 0
         self.error_401 = 0
+        self.error_403 = 0
         self.error_429 = 0
         self.error_no_metastatus = 0
         self.error_request = 0
@@ -148,25 +162,6 @@ class AsyncUpdater:
         self.df['modificado'] = self.df.set_index('modificado').tz_localize("UTC").index.tz_convert(self.conf.time_zone)
         self.df = self.df.sort_values('modificado', ascending=False)
         return
-
-    def save_csv(self, file_name: str = None) -> None:
-        """
-        Guarda resultados
-        """
-        if file_name:
-            file = file_name
-        else:
-            file = self.conf.csv_file
-
-        catalog = self.df[['modificado', 'nombre', 'tipo', 'kb', 'link']]
-        if os.path.exists(file):
-            old = pd.read_csv(file, parse_dates=['modificado'])
-            catdf_historial = pd.concat([old, catalog]).drop_duplicates(subset=['modificado', 'nombre', 'tipo', 'link'],
-                                                                        keep='first')
-            catdf_historial.sort_values('modificado').to_csv(
-                '_'.join([file[:file.index('.')], 'historial']) + '.csv',
-                index=False, float_format="%.2f")
-        catalog.sort_values(['modificado', 'link']).to_csv(file, index=False, float_format="%.2f")
 
     def parse_pages(self, pages: Dict) -> Optional[List[Dict]]:
         """
@@ -272,14 +267,32 @@ class AsyncUpdater:
 
     @staticmethod
     def process_file_meta(meta_text: str) -> Optional[Any]:
+
+        def process_prop(propstat):
+            
+            if type(propstat) == dict:
+                prop = propstat['d:prop']
+            else:
+                prop = propstat[0]['d:prop']
+                
+            metadata = {k.replace('d:', ''): prop[k] for k in prop.keys()}
+            if metadata.__contains__('getcontentlength'):
+                metadata['getlastmodified'] = dt.datetime.strptime(metadata['getlastmodified'], '%a, %d %b %Y %H:%M:%S %Z')
+                metadata['getcontentlength'] = int(metadata['getcontentlength'])
+                metadata['getetag'] = metadata['getetag'].replace('"', '')
+                return metadata
+            else:
+                return None
+
         meta_xml = xmltodict.parse(meta_text)
         if meta_xml.__contains__('d:multistatus'):
-            metadata = meta_xml['d:multistatus']['d:response']['d:propstat']['d:prop']
-            metadata = {k.replace('d:', ''): metadata[k] for k in metadata.keys()}
-            metadata['getlastmodified'] = dt.datetime.strptime(metadata['getlastmodified'], '%a, %d %b %Y %H:%M:%S %Z')
-            metadata['getcontentlength'] = int(metadata['getcontentlength'])
-            metadata['getetag'] = metadata['getetag'].replace('"', '')
-            return metadata
+            if type(meta_xml['d:multistatus']['d:response']) == dict:
+                return process_prop(meta_xml['d:multistatus']['d:response']['d:propstat'])
+            elif type(meta_xml['d:multistatus']['d:response']) == list:
+                metadata = [process_prop(response['d:propstat']) for response in meta_xml['d:multistatus']['d:response']]
+                return [m for m in metadata if m]
+            else:
+                return None
         return None
 
     async def build_catalog(self, offsets: range, worker: int) -> None:
@@ -331,7 +344,13 @@ class AsyncUpdater:
                     self.error_no_metastatus += 1
                     continue
                 self.count_meta += 1
-                self.catalog.append({**row.to_dict(), **processed_meta})
+                if type(processed_meta) == dict:
+                    self.catalog.append({**row.to_dict(), **processed_meta})
+                elif type(processed_meta) == list:
+                    for item in processed_meta:
+                        self.catalog.append({**row.to_dict(), **item})
+                else:
+                    continue
                 del row
                 del metadata
                 del meta_resp
@@ -363,18 +382,18 @@ class AsyncUpdater:
         self.loop.run_until_complete(self.close_clients())
         self.format_catalog()
         t1 = time.monotonic()
-        self.save_csv()
-        t2 = time.monotonic()
-        print(f"It took {t1 - t0}s to download and {t2 - t1}s to write")
-
+        # self.save_csv()
+        print(f"It took {t1 - t0}s to download")
+        return self.df
 
 def main():
     webdav_url = 'https://nube.ine.gob.bo/public.php/webdav'
     download_url = 'https://nube.ine.gob.bo/index.php/s/{}/download'
     domain = 'https://nube.ine.gob.bo'
-    for url_base in ['censo.ine.gob.bo', 'www.ine.gob.bo']:
+    data = []
+    for url_base in ['www.ine.gob.bo']:
         url = "https://" + url_base + "/wp-json/wp/v2/pages?orderby=modified&per_page={}&offset={}"
-        print(url)
+        print(url_base)
         ine_config = UpdaterConfig(
             url_domain=domain,
             url_json=url,
@@ -382,8 +401,8 @@ def main():
             url_webdav=webdav_url,
             log_level="INFO")
         ine_files = AsyncUpdater(ine_config, workers=2)
-        ine_files.run_loop()
-
+        data.append(ine_files.run_loop())
+    save_csv(pd.concat(data), "catalogo_ine.csv")
 
 if __name__ == '__main__':
     main()
