@@ -1239,7 +1239,6 @@ modificado,nombre,tipo,kb,link
 2024-01-03 11:28:44-04:00,"BOLIVIA: VARIACIÓN ACUMULADA DEL IGAE, POR MES 2008-2023",spreadsheet,110.58,https://nube.ine.gob.bo/index.php/s/qNQexpgoZroGCYG/download
 2024-01-03 11:28:57-04:00,"BOLIVIA: VARIACIÓN A SIMILAR PERIODO DEL IGAE, POR MES 2008-2023",spreadsheet,107.85,https://nube.ine.gob.bo/index.php/s/vsfGqiIoEXGddwJ/download
 2024-01-03 14:36:00-04:00,"BOLIVIA: VARIACIÓN A 12 MESES DEL IGAE, POR MES 2008-2023",spreadsheet,107.27,https://nube.ine.gob.bo/index.php/s/k0bRzzNhBXb7Ae2/download
-2024-01-08 15:00:39-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,166.44,https://nube.ine.gob.bo/index.php/s/VGXL4vgllkzp7a3/download
 2024-01-10 21:01:04-04:00,ECE_2T_2023,rar,8832.89,https://nube.ine.gob.bo/index.php/s/5vUqQqyTTJJ00dE/download
 2024-01-10 21:01:04-04:00,ECE_2T_2023RUR,rar,1152.02,https://nube.ine.gob.bo/index.php/s/r4PvvU7MwlIR6Vf/download
 2024-01-10 21:01:06-04:00,ECE_2T_2023 URB,rar,7685.51,https://nube.ine.gob.bo/index.php/s/KxsTVP35BrOtQK0/download
@@ -1370,9 +1369,6 @@ modificado,nombre,tipo,kb,link
 2024-01-31 12:02:47-04:00,"Bolivia – Índice De Valor De Importaciones, Según Grandes Categorías Económicas 2016 – 2023",spreadsheet,132.80,https://nube.ine.gob.bo/index.php/s/ZSmKw6jlNHlWri0/download
 2024-01-31 12:03:30-04:00,"Bolivia – Índice De Valor De Importaciones, Según Clasificación Uniforme para el Comercio Internacional 2016 – 2023",spreadsheet,144.20,https://nube.ine.gob.bo/index.php/s/dnhduUMdzVhnmsA/download
 2024-01-31 12:04:11-04:00,"Bolivia – Índice de Términos de Intercambio, 2016 – 2023",spreadsheet,104.50,https://nube.ine.gob.bo/index.php/s/ja6PWco2LQCZxfl/download
-2024-02-06 09:55:15-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,144.46,https://nube.ine.gob.bo/index.php/s/ItGu4xC8l8VMb96/download
-2024-02-06 11:52:27-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2023",spreadsheet,155.40,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
-2024-02-06 11:57:14-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2023",spreadsheet,146.39,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
 2024-02-07 18:30:05-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses",spreadsheet,339.96,https://nube.ine.gob.bo/index.php/s/h8Er7nH9Ou78wG4/download
 2024-02-07 18:30:41-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Nacional",spreadsheet,761.64,https://nube.ine.gob.bo/index.php/s/cjusI50Nil6a1sY/download
 2024-02-07 18:31:17-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Importado",spreadsheet,761.50,https://nube.ine.gob.bo/index.php/s/AlDz2FKVMuUOnL2/download
@@ -1483,3 +1479,7 @@ modificado,nombre,tipo,kb,link
 2024-03-04 12:09:36-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,1022.68,https://nube.ine.gob.bo/index.php/s/OmV82L4jK1a5WNO/download
 2024-03-05 08:40:26-04:00,Precios Promedio,spreadsheet,1593.31,https://nube.ine.gob.bo/index.php/s/JVfjfvOwhsdgq1E/download
 2024-03-05 12:06:00-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,1401.96,https://nube.ine.gob.bo/index.php/s/W5QvCPW4BmK6cP3/download
+2024-03-07 17:15:14-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,166.85,https://nube.ine.gob.bo/index.php/s/VGXL4vgllkzp7a3/download
+2024-03-07 17:15:53-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,144.66,https://nube.ine.gob.bo/index.php/s/ItGu4xC8l8VMb96/download
+2024-03-08 16:18:58-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2024",spreadsheet,155.64,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
+2024-03-08 16:20:12-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2024",spreadsheet,146.55,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
