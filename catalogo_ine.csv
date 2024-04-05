@@ -765,20 +765,6 @@ modificado,nombre,tipo,kb,link
 2023-03-31 20:42:13-04:00,SALARIOS Y REMUNERACIONES DEL SECTOR PÚBLICO DICIEMBRE DE 2022,pdf,2175.08,https://nube.ine.gob.bo/index.php/s/TRs6ezhZfkmZzI6/download
 2023-04-14 10:09:30-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES MARZO DE 2023,pdf,8193.15,https://nube.ine.gob.bo/index.php/s/lFZ2oZ4ESBj7wnt/download
 2023-04-14 15:28:49-04:00,EXPORTACIONES 2022p,spreadsheet,2902.18,https://nube.ine.gob.bo/index.php/s/95MY96hpRVESrUf/download
-2023-04-17 17:48:34-04:00,"Pando Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2022",spreadsheet,72.62,https://nube.ine.gob.bo/index.php/s/PSQFAV1LZPdP9OR/download
-2023-04-17 17:48:45-04:00,"Beni Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2022",spreadsheet,72.76,https://nube.ine.gob.bo/index.php/s/Y8kuTztCSTxdKzJ/download
-2023-04-17 17:48:55-04:00,"Santa Cruz Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2022",spreadsheet,73.76,https://nube.ine.gob.bo/index.php/s/v19CVwTZbfKXITP/download
-2023-04-17 17:49:07-04:00,"Tarija Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2022",spreadsheet,72.78,https://nube.ine.gob.bo/index.php/s/h1rxnvzVircoBPo/download
-2023-04-17 17:49:17-04:00,"Potosí Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2022",spreadsheet,73.16,https://nube.ine.gob.bo/index.php/s/5xOB0Vabz8Tmaqf/download
-2023-04-17 17:49:25-04:00,"Oruro Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2022",spreadsheet,73.20,https://nube.ine.gob.bo/index.php/s/8ABwn6qXsDxK3EK/download
-2023-04-17 17:49:35-04:00,"Cochabamba Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2022",spreadsheet,73.65,https://nube.ine.gob.bo/index.php/s/TtMYMhyo9Q6OuMI/download
-2023-04-17 17:49:43-04:00,"La Paz Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2022",spreadsheet,73.74,https://nube.ine.gob.bo/index.php/s/6jzZ5m6MhJQoHg1/download
-2023-04-17 17:49:53-04:00,"Chuquisaca Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2022",spreadsheet,73.19,https://nube.ine.gob.bo/index.php/s/rJFC6x5cctzfwcL/download
-2023-04-17 17:50:11-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Modelo, 2003 – 2022",spreadsheet,139.53,https://nube.ine.gob.bo/index.php/s/ANyWyfmJt4nFPMx/download
-2023-04-17 17:50:20-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Capacidad de Carga, 2003 – 2022",spreadsheet,112.14,https://nube.ine.gob.bo/index.php/s/3EJywhIAuZHRYUs/download
-2023-04-17 17:50:29-04:00,"Bolivia Parque Automotor por Tipo De Servicio y Clase de Vehículo, 2003 – 2022",spreadsheet,74.75,https://nube.ine.gob.bo/index.php/s/NIlpzUKYIiieeAd/download
-2023-04-17 17:51:21-04:00,"Bolivia Parque Automotor, según Departamento y Tipo de Servicio, 2003 – 2022",spreadsheet,73.81,https://nube.ine.gob.bo/index.php/s/nIeN0Jg37budUt4/download
-2023-04-17 17:51:29-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Cilindrada, 2003 – 2022",spreadsheet,100.06,https://nube.ine.gob.bo/index.php/s/6zye6hDqQr8D5DK/download
 2023-04-17 18:04:02-04:00,Bolivia – Navegación Fluvial según Sistema 2014 – 2022,spreadsheet,68.50,https://nube.ine.gob.bo/index.php/s/Xm31XZXtaNfWhPm/download
 2023-04-17 18:04:17-04:00,"Bolivia – Longitud Numero de Cabinas Numero de Torres, 2022",spreadsheet,68.62,https://nube.ine.gob.bo/index.php/s/vF7vm2DnHB3XrVR/download
 2023-04-17 18:04:32-04:00,Bolivia – Longitud Ferroviaria 2014 – 2022,spreadsheet,66.36,https://nube.ine.gob.bo/index.php/s/HuBl6LKLdo4orLD/download
@@ -1329,35 +1315,31 @@ modificado,nombre,tipo,kb,link
 2024-01-31 12:02:47-04:00,"Bolivia – Índice De Valor De Importaciones, Según Grandes Categorías Económicas 2016 – 2023",spreadsheet,132.80,https://nube.ine.gob.bo/index.php/s/ZSmKw6jlNHlWri0/download
 2024-01-31 12:03:30-04:00,"Bolivia – Índice De Valor De Importaciones, Según Clasificación Uniforme para el Comercio Internacional 2016 – 2023",spreadsheet,144.20,https://nube.ine.gob.bo/index.php/s/dnhduUMdzVhnmsA/download
 2024-01-31 12:04:11-04:00,"Bolivia – Índice de Términos de Intercambio, 2016 – 2023",spreadsheet,104.50,https://nube.ine.gob.bo/index.php/s/ja6PWco2LQCZxfl/download
+2024-02-07 10:38:38-04:00,Ponderaciones  a nivel Productos,spreadsheet,252.24,https://nube.ine.gob.bo/index.php/s/CiB0QViDfy4tIzC/download
+2024-02-07 11:21:37-04:00,Ponderación a nivel de Ciudades Capitales y Conurbaciones,spreadsheet,232.81,https://nube.ine.gob.bo/index.php/s/8r7h0JyHjDp5G28/download
 2024-02-08 17:19:00-04:00,Manual de Procesos y Procedimientos de la Elaboración de Estadísticas e Indicadores Económicos (versión 4.0),pdf,14171.64,https://nube.ine.gob.bo/index.php/s/J6xhP0cO8Bnfe5z/download
 2024-02-09 17:45:47-04:00,BOLETÍN ESTADÍSTICO COMEX DICIEMBRE 2023,pdf,6839.93,https://nube.ine.gob.bo/index.php/s/CHpwCVCLqqpbo54/download
 2024-02-15 14:53:41-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES ENERO DE 2024,pdf,9527.38,https://nube.ine.gob.bo/index.php/s/s79rwQQYUhNpmgv/download
+2024-02-29 09:39:18-04:00,"Bolivia Parque Automotor por Tipo De Servicio y Clase de Vehículo, 2003 – 2023",spreadsheet,75.08,https://nube.ine.gob.bo/index.php/s/NIlpzUKYIiieeAd/download
+2024-02-29 09:54:05-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Capacidad de Carga, 2003 – 2023",spreadsheet,113.62,https://nube.ine.gob.bo/index.php/s/3EJywhIAuZHRYUs/download
+2024-02-29 10:31:45-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Modelo, 2003 – 2023",spreadsheet,143.41,https://nube.ine.gob.bo/index.php/s/ANyWyfmJt4nFPMx/download
+2024-02-29 10:34:33-04:00,"Bolivia Parque Automotor, según Departamento y Tipo de Servicio, 2003 – 2023",spreadsheet,74.38,https://nube.ine.gob.bo/index.php/s/nIeN0Jg37budUt4/download
+2024-02-29 10:41:40-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Cilindrada, 2003 – 2023",spreadsheet,101.94,https://nube.ine.gob.bo/index.php/s/6zye6hDqQr8D5DK/download
+2024-02-29 10:47:46-04:00,"Chuquisaca Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2023",spreadsheet,73.42,https://nube.ine.gob.bo/index.php/s/rJFC6x5cctzfwcL/download
+2024-02-29 10:48:58-04:00,"La Paz Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2023",spreadsheet,74.12,https://nube.ine.gob.bo/index.php/s/6jzZ5m6MhJQoHg1/download
+2024-02-29 10:52:51-04:00,"Cochabamba Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2023",spreadsheet,73.90,https://nube.ine.gob.bo/index.php/s/TtMYMhyo9Q6OuMI/download
+2024-02-29 11:02:51-04:00,"Oruro Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2023",spreadsheet,73.51,https://nube.ine.gob.bo/index.php/s/8ABwn6qXsDxK3EK/download
+2024-02-29 11:09:29-04:00,"Potosí Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2023",spreadsheet,73.43,https://nube.ine.gob.bo/index.php/s/5xOB0Vabz8Tmaqf/download
+2024-02-29 11:10:31-04:00,"Tarija Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2023",spreadsheet,73.04,https://nube.ine.gob.bo/index.php/s/h1rxnvzVircoBPo/download
+2024-02-29 11:20:06-04:00,"Santa Cruz Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2023",spreadsheet,74.21,https://nube.ine.gob.bo/index.php/s/v19CVwTZbfKXITP/download
+2024-02-29 11:20:38-04:00,"Beni Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2023",spreadsheet,73.00,https://nube.ine.gob.bo/index.php/s/Y8kuTztCSTxdKzJ/download
+2024-02-29 11:23:39-04:00,"Pando Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2023",spreadsheet,72.82,https://nube.ine.gob.bo/index.php/s/PSQFAV1LZPdP9OR/download
 2024-03-01 18:27:53-04:00,BOLIVIA – INDICE DE VOLUMEN DE TELECOMUNICACIONES SEGUN AÑO Y MES 1990 – 2023,spreadsheet,228.79,https://nube.ine.gob.bo/index.php/s/HHFSeTWMv3dvfOQ/download
 2024-03-01 18:32:27-04:00,"BOLIVIA – CONEXIONES AL SERVICIO DE ACCESO A INTERNET POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 2012 – 2023",spreadsheet,62.43,https://nube.ine.gob.bo/index.php/s/5tRDKsQhjgdHyYn/download
 2024-03-01 18:33:33-04:00,"BOLIVIA – CONEXIONES AL SERVICIO DE ACCESO A INTERNET POR TIPO DE TECNOLOGÍA, SEGÚN AÑO Y TRIMESTRE, 2012 – 2023",spreadsheet,58.91,https://nube.ine.gob.bo/index.php/s/Py3xfOWTRDLJPig/download
 2024-03-01 18:34:19-04:00,"BOLIVIA – SUSCRIPCION A TELEVISION POR CABLE POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 2017 – 2023",spreadsheet,60.01,https://nube.ine.gob.bo/index.php/s/2NJSU6Wgk1CDx0f/download
 2024-03-01 18:35:20-04:00,"BOLIVIA – LINEAS MÓVILES POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 1996 – 2023",spreadsheet,63.96,https://nube.ine.gob.bo/index.php/s/AM6pWsXxnm7q8uK/download
 2024-03-01 18:36:37-04:00,"BOLIVIA – LINEAS FIJAS POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 1996 – 2023",spreadsheet,63.50,https://nube.ine.gob.bo/index.php/s/UA31iBPQsgTKBZz/download
-2024-03-04 08:47:16-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,381.78,https://nube.ine.gob.bo/index.php/s/hBpD8GW0SPFtKeM/download
-2024-03-04 10:25:17-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos por Ciudad",spreadsheet,950.39,https://nube.ine.gob.bo/index.php/s/kkKrhlfq4aOuiae/download
-2024-03-04 10:40:38-04:00,Índices a nivel producto,spreadsheet,2056.02,https://nube.ine.gob.bo/index.php/s/3TdKzIiEnk5G0dF/download
-2024-03-04 10:41:17-04:00,Ponderaciones a nivel producto,spreadsheet,387.82,https://nube.ine.gob.bo/index.php/s/iv6NuZ015swI8T8/download
-2024-03-04 10:41:52-04:00,Ponderación a nivel de Ciudades Capitales y Conurbaciones,spreadsheet,245.91,https://nube.ine.gob.bo/index.php/s/SI3wv1f9S30sWwG/download
-2024-03-04 10:49:32-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,350.12,https://nube.ine.gob.bo/index.php/s/u1ivefRCR9gkHSj/download
-2024-03-04 10:53:46-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,413.52,https://nube.ine.gob.bo/index.php/s/AoEfOvhpDUbwEXh/download
-2024-03-04 10:56:33-04:00,Índice a nivel Productos,spreadsheet,619.09,https://nube.ine.gob.bo/index.php/s/LDnFUHOpnUUx1YW/download
-2024-03-04 10:57:14-04:00,Ponderaciones  a nivel Productos,spreadsheet,265.32,https://nube.ine.gob.bo/index.php/s/5Ti8pOZSlAYbcpH/download
-2024-03-04 11:01:41-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,825.64,https://nube.ine.gob.bo/index.php/s/TsSSTy1vP6LxwKt/download
-2024-03-04 11:03:55-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,825.69,https://nube.ine.gob.bo/index.php/s/XznZ3rgV0vSsKeX/download
-2024-03-04 11:09:16-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,426.14,https://nube.ine.gob.bo/index.php/s/I8842oZOQeoDGHA/download
-2024-03-04 11:12:39-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,559.44,https://nube.ine.gob.bo/index.php/s/6x0elWCDXIRRMOj/download
-2024-03-04 11:19:00-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,468.12,https://nube.ine.gob.bo/index.php/s/w78EpdNevtKnF37/download
-2024-03-04 11:43:30-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,2337.82,https://nube.ine.gob.bo/index.php/s/nwTatCrwKunQAFX/download
-2024-03-04 11:45:27-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,883.05,https://nube.ine.gob.bo/index.php/s/uDI7BxROgBITRVQ/download
-2024-03-04 11:47:17-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,882.97,https://nube.ine.gob.bo/index.php/s/cnLZTNCmuoDIlhM/download
-2024-03-04 12:09:36-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,1022.68,https://nube.ine.gob.bo/index.php/s/OmV82L4jK1a5WNO/download
-2024-03-05 08:40:26-04:00,Precios Promedio,spreadsheet,1593.31,https://nube.ine.gob.bo/index.php/s/JVfjfvOwhsdgq1E/download
-2024-03-05 12:06:00-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,1401.96,https://nube.ine.gob.bo/index.php/s/W5QvCPW4BmK6cP3/download
 2024-03-07 17:15:14-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,166.85,https://nube.ine.gob.bo/index.php/s/VGXL4vgllkzp7a3/download
 2024-03-07 17:15:53-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,144.66,https://nube.ine.gob.bo/index.php/s/ItGu4xC8l8VMb96/download
 2024-03-08 16:18:58-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2024",spreadsheet,155.64,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
@@ -1422,6 +1404,7 @@ modificado,nombre,tipo,kb,link
 2024-03-21 12:03:29-04:00,BOLIVIA – ÍNDICE GENERAL DE CONSUMO DE SERVICIOS BASICOS POR TIPO DE SERVICIO SEGÚN AÑO Y MES 1990 – 2024,spreadsheet,263.88,https://nube.ine.gob.bo/index.php/s/Y3qWmKzJadFhVe9/download
 2024-03-26 11:02:28-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses – Nacional",spreadsheet,503.89,https://nube.ine.gob.bo/index.php/s/UrF6gK282jMtnF4/download
 2024-03-26 11:10:25-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Grandes Grupos – Nacional",spreadsheet,351.35,https://nube.ine.gob.bo/index.php/s/E1IfNfyW8rDpYKB/download
+2024-03-27 11:01:57-04:00,"Bolivia – Vehículos con Recalificaciones de Cilindros por Tipo de Vehículo según Año, 2017 – 2023",spreadsheet,541.88,https://nube.ine.gob.bo/index.php/s/jCjYoXrZPmITeXc/download
 2024-03-27 11:34:11-04:00,Bolivia – Acopio de leche según Año y Mes 2018 – 2024,spreadsheet,128.51,https://nube.ine.gob.bo/index.php/s/FRNjtawST5OEvAK/download
 2024-03-27 11:39:27-04:00,Bolivia – Cargas de Pollitos BB A Granjas registradas por departamento según Año y Mes 2019 – 2024,spreadsheet,128.50,https://nube.ine.gob.bo/index.php/s/sKcI87HYqzloEfP/download
 2024-03-27 11:42:16-04:00,"Bolivia – Número de pollos parrilleros faenados de Granjas Registradas por departamento, según Año y Mes 2019 – 2024",spreadsheet,126.90,https://nube.ine.gob.bo/index.php/s/HEAHvzF668cOO4x/download
@@ -1431,8 +1414,8 @@ modificado,nombre,tipo,kb,link
 2024-03-27 17:16:16-04:00,Bolivia – Ventas de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,121.74,https://nube.ine.gob.bo/index.php/s/fuNPG6ZmsyVVljU/download
 2024-03-27 17:16:16-04:00,Bolivia – Ventas de Cemento por Departamento según Año y Mes 1991 – 2023,spreadsheet,121.74,https://nube.ine.gob.bo/index.php/s/fuNPG6ZmsyVVljU/download
 2024-03-27 17:16:48-04:00,Bolivia – Consumo de Cemento por Departamento según Año y Mes 2000 – 2024,spreadsheet,94.46,https://nube.ine.gob.bo/index.php/s/kdZbuWnaCHmCtI9/download
-2024-03-27 17:17:42-04:00,Bolivia – Producción de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,120.90,https://nube.ine.gob.bo/index.php/s/e4KGjnr2j1LPdi0/download
 2024-03-27 17:17:42-04:00,Bolivia – Producción de Cemento por Departamento según Año y Mes 1991 – 2023,spreadsheet,120.90,https://nube.ine.gob.bo/index.php/s/e4KGjnr2j1LPdi0/download
+2024-03-27 17:17:42-04:00,Bolivia – Producción de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,120.90,https://nube.ine.gob.bo/index.php/s/e4KGjnr2j1LPdi0/download
 2024-03-27 17:20:42-04:00,Bolivia – Producción Nacional de Minerales por Tipo de Mineral según Año y Mes 1990 – 2024,spreadsheet,124.34,https://nube.ine.gob.bo/index.php/s/f8Iw1MPCtTcpFT1/download
 2024-03-27 17:21:14-04:00,Bolivia – Producción de Minerales del Sector Estatal por Tipo de Mineral según Año y Mes 1990 – 2024,spreadsheet,105.37,https://nube.ine.gob.bo/index.php/s/C99kGj6LuCTbS9j/download
 2024-03-27 17:22:06-04:00,"Bolivia – Producción de Minerales del Sector de la Minería Mediana por Tipo de Mineral según Año y Mes, 1990 – 2024",spreadsheet,114.46,https://nube.ine.gob.bo/index.php/s/WO2MHHWtN7id1E4/download
@@ -1486,6 +1469,26 @@ modificado,nombre,tipo,kb,link
 2024-03-30 20:48:37-04:00,EXPORTACIONES 2023p,spreadsheet,2664.09,https://nube.ine.gob.bo/index.php/s/rUHVXwADuuNDXTz/download
 2024-03-30 20:48:38-04:00,IMPORTACIONES ENE 2024p,spreadsheet,4554.75,https://nube.ine.gob.bo/index.php/s/LZXc50ZsLAfFig2/download
 2024-03-30 20:48:38-04:00,IMPORTACIONES 2023p,spreadsheet,59359.89,https://nube.ine.gob.bo/index.php/s/qPDlbEBgzWWXTHE/download
+2024-04-02 09:53:06-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,400.77,https://nube.ine.gob.bo/index.php/s/3CeYoZu31N5gr4n/download
+2024-04-02 09:55:35-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,542.58,https://nube.ine.gob.bo/index.php/s/5BRb2UPtMShEhzR/download
+2024-04-02 09:58:16-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,445.28,https://nube.ine.gob.bo/index.php/s/bCQpb5XwXDH30gM/download
+2024-04-02 10:03:11-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,858.52,https://nube.ine.gob.bo/index.php/s/yV9WEnC2QYbGHf7/download
+2024-04-02 10:08:58-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,999.62,https://nube.ine.gob.bo/index.php/s/EMnGJip5Rnumcgb/download
+2024-04-02 10:15:25-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,998.68,https://nube.ine.gob.bo/index.php/s/0F3PdTxqfapjVbs/download
+2024-04-02 10:18:21-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,324.81,https://nube.ine.gob.bo/index.php/s/hpsZLd5THekmNXx/download
+2024-04-02 10:20:00-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,396.76,https://nube.ine.gob.bo/index.php/s/AExtSXB8CnBnVD5/download
+2024-04-02 10:20:54-04:00,Índice a nivel Productos,spreadsheet,606.50,https://nube.ine.gob.bo/index.php/s/JB3VQm6AV0KKSoN/download
+2024-04-02 10:22:40-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,801.25,https://nube.ine.gob.bo/index.php/s/5fezWHzIAwyP4cb/download
+2024-04-02 10:23:59-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,805.46,https://nube.ine.gob.bo/index.php/s/wEVsaYSLyRgZ1Ze/download
+2024-04-02 10:37:09-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos por Ciudad",spreadsheet,924.58,https://nube.ine.gob.bo/index.php/s/Pzp12rnYN4vtamU/download
+2024-04-02 10:53:09-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos por Ciudad",spreadsheet,926.23,https://nube.ine.gob.bo/index.php/s/PxB7IfKkpw3MpdR/download
+2024-04-02 11:02:10-04:00,Ponderaciones a nivel producto,spreadsheet,374.95,https://nube.ine.gob.bo/index.php/s/ssHExN1SjuPxpvW/download
+2024-04-02 11:07:22-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,858.50,https://nube.ine.gob.bo/index.php/s/fDmCMfpIUCS0pK1/download
+2024-04-02 11:29:32-04:00,Índices a nivel producto,spreadsheet,2065.33,https://nube.ine.gob.bo/index.php/s/gLuTisJD1mywCKd/download
+2024-04-02 11:35:33-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,2326.85,https://nube.ine.gob.bo/index.php/s/omHIgvDrZKJl8iM/download
+2024-04-02 11:37:57-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,1391.47,https://nube.ine.gob.bo/index.php/s/hDz0rSqrjfNToJY/download
+2024-04-02 11:46:07-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,359.04,https://nube.ine.gob.bo/index.php/s/szpOEeANcme0cF2/download
+2024-04-02 14:44:14-04:00,Precios Promedio,spreadsheet,1583.46,https://nube.ine.gob.bo/index.php/s/bWCORTKiVch8LX5/download
 2024-04-02 16:10:00-04:00,PAC 2024 – Tercera Reformulación,pdf,1695.21,https://nube.ine.gob.bo/index.php/s/hYVvpnlbnKcmRK8/download
 2024-04-03 15:02:24-04:00,ECE_3T_2023,rar,8788.71,https://nube.ine.gob.bo/index.php/s/CuvVTEnFSexJ8nb/download
 2024-04-03 15:02:24-04:00,ECE_3T_2023RUR,rar,1151.67,https://nube.ine.gob.bo/index.php/s/GeYjdBIhxMM0Asp/download
@@ -1494,3 +1497,6 @@ modificado,nombre,tipo,kb,link
 2024-04-03 15:02:50-04:00,ECE 4T15 3T23,rar,296155.55,https://nube.ine.gob.bo/index.php/s/XP7uclYxJGkgcKU/download
 2024-04-03 15:02:50-04:00,Sintaxis para cálculo de estadísticas e indicadores,rar,3.04,https://nube.ine.gob.bo/index.php/s/yG4dV28W3LfVMDZ/download
 2024-04-03 15:02:52-04:00,Sintaxis para consolidación de bases de datos trimestrales,rar,8.65,https://nube.ine.gob.bo/index.php/s/OJVsglNzcHF7yAi/download
+2024-04-04 16:28:50-04:00,"Bolivia – Vehículos con Recalificaciones de Cilindros según Año y Trimestre, 2011 – 2023",spreadsheet,558.03,https://nube.ine.gob.bo/index.php/s/5FtZ5j30Tvl42po/download
+2024-04-04 17:24:22-04:00,"Bolivia – Conversiones de Vehículos a Gas Natural Vehicular según Año y Trimestre, 2010 – 2023",spreadsheet,559.07,https://nube.ine.gob.bo/index.php/s/0jLHSwdyZkGdijH/download
+2024-04-04 17:25:08-04:00,"Bolivia – Conversiones de Vehículos por Tipo de Vehículo a Gas Natural Vehicular según Año, 2017 – 2023",spreadsheet,540.89,https://nube.ine.gob.bo/index.php/s/exQhOmiiCCAXzix/download
