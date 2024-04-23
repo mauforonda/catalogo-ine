@@ -106,7 +106,8 @@ modificado,nombre,tipo,kb,link
 2020-06-11 18:50:29-04:00,EXPORTACIONES 1996,spreadsheet,1755.52,https://nube.ine.gob.bo/index.php/s/vuP5coqXwzhCt7b/download
 2020-06-11 19:53:05-04:00,EXPORTACIONES 1992,spreadsheet,1053.68,https://nube.ine.gob.bo/index.php/s/Ut6sdEkDdQDe7cK/download
 2020-06-11 19:53:18-04:00,EXPORTACIONES 1993,spreadsheet,1156.11,https://nube.ine.gob.bo/index.php/s/a0ALCXWZ2BiHVCG/download
-2020-06-11 19:53:32-04:00,EXPORTACIONES 1995,spreadsheet,1309.98,https://nube.ine.gob.bo/index.php/s/yRuk5RlZXjtdyRp/download
+2020-06-11 19:53:32-04:00,EXPORTACIONES 1994,spreadsheet,1309.98,https://nube.ine.gob.bo/index.php/s/yRuk5RlZXjtdyRp/download
+2020-06-11 19:53:48-04:00,EXPORTACIONES 1995,spreadsheet,1475.24,https://nube.ine.gob.bo/index.php/s/q1mDAyDxct3k5Hw/download
 2020-06-11 19:54:03-04:00,EXPORTACIONES 1997,spreadsheet,1881.00,https://nube.ine.gob.bo/index.php/s/5Tq286VhouIjedN/download
 2020-06-11 19:54:23-04:00,EXPORTACIONES 1998,spreadsheet,1959.85,https://nube.ine.gob.bo/index.php/s/6LGbB1oeorph7rf/download
 2020-06-11 19:54:36-04:00,EXPORTACIONES 1999,spreadsheet,2103.36,https://nube.ine.gob.bo/index.php/s/MrpAmiy74w6qIDf/download
@@ -1340,34 +1341,9 @@ modificado,nombre,tipo,kb,link
 2024-03-01 18:34:19-04:00,"BOLIVIA – SUSCRIPCION A TELEVISION POR CABLE POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 2017 – 2023",spreadsheet,60.01,https://nube.ine.gob.bo/index.php/s/2NJSU6Wgk1CDx0f/download
 2024-03-01 18:35:20-04:00,"BOLIVIA – LINEAS MÓVILES POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 1996 – 2023",spreadsheet,63.96,https://nube.ine.gob.bo/index.php/s/AM6pWsXxnm7q8uK/download
 2024-03-01 18:36:37-04:00,"BOLIVIA – LINEAS FIJAS POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 1996 – 2023",spreadsheet,63.50,https://nube.ine.gob.bo/index.php/s/UA31iBPQsgTKBZz/download
-2024-03-13 16:08:58-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Red según Año y Mes, 1990 – 2024",spreadsheet,168.22,https://nube.ine.gob.bo/index.php/s/HZFs6GQX8ruw9Rq/download
-2024-03-13 16:17:05-04:00,"Bolivia – Índice de Volumen de Transporte por Hidrocarburos por Ductos, por Mercado según Año y Mes, 1990 – 2024",spreadsheet,134.70,https://nube.ine.gob.bo/index.php/s/P6ZxRldYIzwhtv5/download
-2024-03-13 16:53:19-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Tipo de Servicio y Red según Año y Mes, 1990 – 2024",spreadsheet,206.76,https://nube.ine.gob.bo/index.php/s/gZp78h5YhiEl8fY/download
-2024-03-14 11:33:11-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Tipo de Servicio según Año y Mes, 1990 – 2024",spreadsheet,188.20,https://nube.ine.gob.bo/index.php/s/MdGrkyKcz2j4E7b/download
-2024-03-14 11:36:30-04:00,"Bolivia – Índice de Volumen de Transporte Carretero por Tipo de Servicio según Año y Mes, 1992 – 2024",spreadsheet,161.92,https://nube.ine.gob.bo/index.php/s/cWuOKUUASOMpnbQ/download
-2024-03-14 11:40:44-04:00,"Bolivia – Índice de Volumen de Transporte Carretero de Pasajeros por Flujo según Año y Mes, 1992 – 2024",spreadsheet,160.44,https://nube.ine.gob.bo/index.php/s/szWpuyTpuCjlBIv/download
-2024-03-14 11:44:54-04:00,"Bolivia – Índice de Volumen de Transporte Carretero por Tipo de Servicio y Flujo según Año y Mes, 1992 – 2024",spreadsheet,228.33,https://nube.ine.gob.bo/index.php/s/wRsuLXTHK1zxWMs/download
-2024-03-14 11:48:10-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo por Tipo de Servicio según Año y Mes, 1990 – 2024",spreadsheet,169.86,https://nube.ine.gob.bo/index.php/s/LNFY4xyFTWAau7r/download
-2024-03-14 11:51:46-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo por Ruta Nacional y Internacional según Año y Mes, 1990 – 2024",spreadsheet,166.99,https://nube.ine.gob.bo/index.php/s/9Rjn3JIfFF0HUuF/download
-2024-03-14 11:55:25-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo por Ruta y Tipo de Servicio Nacional según Año y Mes, 1990 – 2024",spreadsheet,325.47,https://nube.ine.gob.bo/index.php/s/yw1bM0W7cxgfRFO/download
-2024-03-14 11:58:44-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo Internacional por Tipo de Servicio y Flujo según Año y Mes, 1990 – 2024",spreadsheet,285.22,https://nube.ine.gob.bo/index.php/s/mieC8armFhwSQDk/download
-2024-03-14 12:01:56-04:00,"Bolivia – Índice de Volumen de Transporte por Hidrocarburos por Ductos por Tipo Ductos, según Año y Mes, 1990 – 2024",spreadsheet,150.21,https://nube.ine.gob.bo/index.php/s/mlZR1U2lNm9plFX/download
-2024-03-14 12:06:50-04:00,"Bolivia – Índice de Volumen de Transporte por Hidrocarburos por Ductos por Tipo Ductos y Mercado según Año y Mes, 1990 – 2024",spreadsheet,157.26,https://nube.ine.gob.bo/index.php/s/bkiOsqtNFsRsEde/download
-2024-03-14 12:07:55-04:00,"Bolivia – Flujo del Transporte Ferroviario por Red y Tipo de Servicio según Año y Mes, 1999 – 2024",spreadsheet,91.76,https://nube.ine.gob.bo/index.php/s/qbczrTYwvGq8gtU/download
-2024-03-14 12:09:27-04:00,"Bolivia – Flujo del Transporte Carretero de Pasajeros por Red según Año y Mes, 1992 – 2024",spreadsheet,93.32,https://nube.ine.gob.bo/index.php/s/H2s2keO2dQEt6tZ/download
-2024-03-14 12:10:41-04:00,"Bolivia – Flujo de Volumen del Transporte Aéreo de Carga por Flujo y Ruta según Año y Mes, 2009 – 2024",spreadsheet,91.61,https://nube.ine.gob.bo/index.php/s/qKQPT1f7ueo4wav/download
-2024-03-14 12:11:59-04:00,"Bolivia – Flujo del Transporte Aéreo de Pasajeros por Flujo y Ruta según Año y Mes, 2009 – 2024",spreadsheet,85.26,https://nube.ine.gob.bo/index.php/s/GUwyjrMe1WKDB2f/download
-2024-03-14 12:13:21-04:00,"La Paz – Numero de Pasajeros Transportados por Cable, según Mes, 2014 – 2024",excel,82.00,https://nube.ine.gob.bo/index.php/s/otwlELD2kVvCDO2/download
-2024-03-14 12:18:23-04:00,"Oruro – Numero de Pasajeros Transportados por Cable, según Mes, 2018 – 2024",spreadsheet,65.65,https://nube.ine.gob.bo/index.php/s/W2QOGSJ2tYL5CZa/download
-2024-03-14 15:02:32-04:00,"Bolivia – Índice General de Transporte por Modalidad según Año y Mes, 1990 – 2024",spreadsheet,192.19,https://nube.ine.gob.bo/index.php/s/re9ImgxSMvi4aSY/download
 2024-03-14 17:49:30-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES FEBRERO DE 2024,pdf,8174.05,https://nube.ine.gob.bo/index.php/s/Qkh31iBdUWdE3n1/download
 2024-03-15 19:14:06-04:00,BOLETÍN ESTADÍSTICO COMEX ENERO 2024,pdf,6346.70,https://nube.ine.gob.bo/index.php/s/DEFJN5GYGSmQu0l/download
-2024-03-21 00:09:28-04:00,"BOLIVIA – ÍNDICE DE CONSUMO DE ENERGIA ELECTRICA POR TIPO DE USUARIO SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,536.20,https://nube.ine.gob.bo/index.php/s/YjA7ClnBp3KxZM0/download
-2024-03-21 00:11:48-04:00,BOLIVIA – ÍNDICE DE CONSUMO DE AGUA POTABLE POR CATEGORIA SEGÚN AÑO Y MES 1990 – 2024,spreadsheet,235.19,https://nube.ine.gob.bo/index.php/s/pcJIE4X3gGOTbua/download
 2024-03-21 09:52:00-04:00,Manual de Procesos y Procedimientos para la elaboración de Estadísticas e Indicadores Sociales (VERSIÓN N° 3.0),pdf,15338.31,https://nube.ine.gob.bo/index.php/s/zcNRYq1r1axf8dL/download
-2024-03-21 11:38:00-04:00,Bolivia – Superficie registrada en Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2024,excel,172.00,https://nube.ine.gob.bo/index.php/s/Ys6tEPQpLWYR4ba/download
-2024-03-21 11:38:00-04:00,Bolivia – Número de Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2024,excel,165.50,https://nube.ine.gob.bo/index.php/s/jLb5wFW0JvKCqtR/download
-2024-03-21 12:03:29-04:00,BOLIVIA – ÍNDICE GENERAL DE CONSUMO DE SERVICIOS BASICOS POR TIPO DE SERVICIO SEGÚN AÑO Y MES 1990 – 2024,spreadsheet,263.88,https://nube.ine.gob.bo/index.php/s/Y3qWmKzJadFhVe9/download
 2024-03-26 11:02:28-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses – Nacional",spreadsheet,503.89,https://nube.ine.gob.bo/index.php/s/UrF6gK282jMtnF4/download
 2024-03-26 11:10:25-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Grandes Grupos – Nacional",spreadsheet,351.35,https://nube.ine.gob.bo/index.php/s/E1IfNfyW8rDpYKB/download
 2024-03-27 11:01:57-04:00,"Bolivia – Vehículos con Recalificaciones de Cilindros por Tipo de Vehículo según Año, 2017 – 2023",spreadsheet,541.88,https://nube.ine.gob.bo/index.php/s/jCjYoXrZPmITeXc/download
@@ -1377,11 +1353,11 @@ modificado,nombre,tipo,kb,link
 2024-03-27 11:47:50-04:00,Bolivia -Producción de Carne de pollos parrilleros de granjas registradas por deprtamento según Año y Mes 2019 – 2024,spreadsheet,130.26,https://nube.ine.gob.bo/index.php/s/u7hsvGg1wbJjsFb/download
 2024-03-27 11:50:06-04:00,Bolivia – Producción de Carne de Ganado porcino según Año y Mes por Ciudad 2018 – 2024,spreadsheet,129.39,https://nube.ine.gob.bo/index.php/s/I6QMG1tRFWiA3f0/download
 2024-03-27 11:57:24-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado porcino según Año y Mes 2018 – 2024,spreadsheet,125.05,https://nube.ine.gob.bo/index.php/s/SnEP96sFE812suO/download
-2024-03-27 17:16:16-04:00,Bolivia – Ventas de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,121.74,https://nube.ine.gob.bo/index.php/s/fuNPG6ZmsyVVljU/download
 2024-03-27 17:16:16-04:00,Bolivia – Ventas de Cemento por Departamento según Año y Mes 1991 – 2023,spreadsheet,121.74,https://nube.ine.gob.bo/index.php/s/fuNPG6ZmsyVVljU/download
+2024-03-27 17:16:16-04:00,Bolivia – Ventas de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,121.74,https://nube.ine.gob.bo/index.php/s/fuNPG6ZmsyVVljU/download
 2024-03-27 17:16:48-04:00,Bolivia – Consumo de Cemento por Departamento según Año y Mes 2000 – 2024,spreadsheet,94.46,https://nube.ine.gob.bo/index.php/s/kdZbuWnaCHmCtI9/download
-2024-03-27 17:17:42-04:00,Bolivia – Producción de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,120.90,https://nube.ine.gob.bo/index.php/s/e4KGjnr2j1LPdi0/download
 2024-03-27 17:17:42-04:00,Bolivia – Producción de Cemento por Departamento según Año y Mes 1991 – 2023,spreadsheet,120.90,https://nube.ine.gob.bo/index.php/s/e4KGjnr2j1LPdi0/download
+2024-03-27 17:17:42-04:00,Bolivia – Producción de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,120.90,https://nube.ine.gob.bo/index.php/s/e4KGjnr2j1LPdi0/download
 2024-03-27 17:20:42-04:00,Bolivia – Producción Nacional de Minerales por Tipo de Mineral según Año y Mes 1990 – 2024,spreadsheet,124.34,https://nube.ine.gob.bo/index.php/s/f8Iw1MPCtTcpFT1/download
 2024-03-27 17:21:14-04:00,Bolivia – Producción de Minerales del Sector Estatal por Tipo de Mineral según Año y Mes 1990 – 2024,spreadsheet,105.37,https://nube.ine.gob.bo/index.php/s/C99kGj6LuCTbS9j/download
 2024-03-27 17:22:06-04:00,"Bolivia – Producción de Minerales del Sector de la Minería Mediana por Tipo de Mineral según Año y Mes, 1990 – 2024",spreadsheet,114.46,https://nube.ine.gob.bo/index.php/s/WO2MHHWtN7id1E4/download
@@ -1442,6 +1418,26 @@ modificado,nombre,tipo,kb,link
 2024-04-04 17:25:08-04:00,"Bolivia – Conversiones de Vehículos por Tipo de Vehículo a Gas Natural Vehicular según Año, 2017 – 2023",spreadsheet,540.89,https://nube.ine.gob.bo/index.php/s/exQhOmiiCCAXzix/download
 2024-04-04 18:55:48-04:00,BOLETÍN ESTADÍSTICO PARQUE AUTOMOTOR 2023,pdf,5278.27,https://nube.ine.gob.bo/index.php/s/Efy8NDbkX7vy9PV/download
 2024-04-04 19:00:42-04:00,Estadísticas del Parque Automotor 2003 – 2023,pdf,1697.55,https://nube.ine.gob.bo/index.php/s/1Nvlkar1jKO250k/download
+2024-04-05 09:32:45-04:00,"Bolivia – Índice General de Transporte por Modalidad según Año y Mes, 1990 – 2024",spreadsheet,192.54,https://nube.ine.gob.bo/index.php/s/re9ImgxSMvi4aSY/download
+2024-04-05 10:59:06-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Tipo de Servicio según Año y Mes, 1990 – 2024",spreadsheet,188.55,https://nube.ine.gob.bo/index.php/s/MdGrkyKcz2j4E7b/download
+2024-04-05 11:05:40-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Red según Año y Mes, 1990 – 2024",spreadsheet,168.50,https://nube.ine.gob.bo/index.php/s/HZFs6GQX8ruw9Rq/download
+2024-04-05 11:56:33-04:00,"Bolivia – Índice de Volumen de Transporte Ferroviario por Tipo de Servicio y Red según Año y Mes, 1990 – 2024",spreadsheet,207.16,https://nube.ine.gob.bo/index.php/s/gZp78h5YhiEl8fY/download
+2024-04-05 12:00:00-04:00,"Bolivia – Índice de Volumen de Transporte Carretero por Tipo de Servicio según Año y Mes, 1992 – 2024",spreadsheet,162.26,https://nube.ine.gob.bo/index.php/s/cWuOKUUASOMpnbQ/download
+2024-04-05 12:03:22-04:00,"Bolivia – Índice de Volumen de Transporte Carretero de Pasajeros por Flujo según Año y Mes, 1992 – 2024",spreadsheet,160.82,https://nube.ine.gob.bo/index.php/s/szWpuyTpuCjlBIv/download
+2024-04-05 12:06:09-04:00,"Bolivia – Índice de Volumen de Transporte Carretero por Tipo de Servicio y Flujo según Año y Mes, 1992 – 2024",spreadsheet,228.83,https://nube.ine.gob.bo/index.php/s/wRsuLXTHK1zxWMs/download
+2024-04-05 12:08:26-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo por Tipo de Servicio según Año y Mes, 1990 – 2024",spreadsheet,170.18,https://nube.ine.gob.bo/index.php/s/LNFY4xyFTWAau7r/download
+2024-04-05 12:11:47-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo por Ruta Nacional y Internacional según Año y Mes, 1990 – 2024",spreadsheet,167.27,https://nube.ine.gob.bo/index.php/s/9Rjn3JIfFF0HUuF/download
+2024-04-05 12:14:01-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo por Ruta y Tipo de Servicio Nacional según Año y Mes, 1990 – 2024",spreadsheet,326.26,https://nube.ine.gob.bo/index.php/s/yw1bM0W7cxgfRFO/download
+2024-04-05 12:16:21-04:00,"Bolivia – Índice de Volumen de Transporte Aéreo Internacional por Tipo de Servicio y Flujo según Año y Mes, 1990 – 2024",spreadsheet,285.71,https://nube.ine.gob.bo/index.php/s/mieC8armFhwSQDk/download
+2024-04-05 12:18:43-04:00,"Bolivia – Índice de Volumen de Transporte por Hidrocarburos por Ductos por Tipo Ductos, según Año y Mes, 1990 – 2024",spreadsheet,150.54,https://nube.ine.gob.bo/index.php/s/mlZR1U2lNm9plFX/download
+2024-04-05 12:20:55-04:00,"Bolivia – Índice de Volumen de Transporte por Hidrocarburos por Ductos, por Mercado según Año y Mes, 1990 – 2024",spreadsheet,135.00,https://nube.ine.gob.bo/index.php/s/P6ZxRldYIzwhtv5/download
+2024-04-05 12:23:59-04:00,"Bolivia – Índice de Volumen de Transporte por Hidrocarburos por Ductos por Tipo Ductos y Mercado según Año y Mes, 1990 – 2024",spreadsheet,157.58,https://nube.ine.gob.bo/index.php/s/bkiOsqtNFsRsEde/download
+2024-04-05 12:26:23-04:00,"Bolivia – Flujo del Transporte Ferroviario por Red y Tipo de Servicio según Año y Mes, 1999 – 2024",spreadsheet,91.87,https://nube.ine.gob.bo/index.php/s/qbczrTYwvGq8gtU/download
+2024-04-05 12:27:17-04:00,"Bolivia – Flujo del Transporte Carretero de Pasajeros por Red según Año y Mes, 1992 – 2024",spreadsheet,93.37,https://nube.ine.gob.bo/index.php/s/H2s2keO2dQEt6tZ/download
+2024-04-05 12:27:59-04:00,"Bolivia – Flujo de Volumen del Transporte Aéreo de Carga por Flujo y Ruta según Año y Mes, 2009 – 2024",spreadsheet,91.75,https://nube.ine.gob.bo/index.php/s/qKQPT1f7ueo4wav/download
+2024-04-05 12:28:58-04:00,"Bolivia – Flujo del Transporte Aéreo de Pasajeros por Flujo y Ruta según Año y Mes, 2009 – 2024",spreadsheet,85.36,https://nube.ine.gob.bo/index.php/s/GUwyjrMe1WKDB2f/download
+2024-04-05 12:29:24-04:00,"La Paz – Numero de Pasajeros Transportados por Cable, según Mes, 2014 – 2024",excel,82.00,https://nube.ine.gob.bo/index.php/s/otwlELD2kVvCDO2/download
+2024-04-05 12:29:50-04:00,"Oruro – Numero de Pasajeros Transportados por Cable, según Mes, 2018 – 2024",spreadsheet,65.66,https://nube.ine.gob.bo/index.php/s/W2QOGSJ2tYL5CZa/download
 2024-04-08 11:28:25-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,144.75,https://nube.ine.gob.bo/index.php/s/ItGu4xC8l8VMb96/download
 2024-04-08 11:29:45-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,166.98,https://nube.ine.gob.bo/index.php/s/VGXL4vgllkzp7a3/download
 2024-04-08 16:19:38-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2024",spreadsheet,155.76,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
@@ -1453,6 +1449,9 @@ modificado,nombre,tipo,kb,link
 2024-04-10 11:32:49-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Origen y Grupo",spreadsheet,307.43,https://nube.ine.gob.bo/index.php/s/jlpbmVW3Q5WT9A7/download
 2024-04-15 18:25:39-04:00,PRECIOS INTERNACIONALES DE PRINCIPALES PRODUCTOS DEL COMERCIO MUNDIAL (COMMODITIES) 1980 – 2024,spreadsheet,1071.89,https://nube.ine.gob.bo/index.php/s/dLQoAX3p6qGpwIH/download
 2024-04-15 19:00:54-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES MARZO DE 2024,pdf,9553.54,https://nube.ine.gob.bo/index.php/s/547zu2zD0EHt51O/download
+2024-04-17 19:21:28-04:00,BOLIVIA – ÍNDICE GENERAL DE CONSUMO DE SERVICIOS BASICOS POR TIPO DE SERVICIO SEGÚN AÑO Y MES 1990 – 2024,spreadsheet,243.31,https://nube.ine.gob.bo/index.php/s/Y3qWmKzJadFhVe9/download
+2024-04-17 19:24:07-04:00,"BOLIVIA – ÍNDICE DE CONSUMO DE ENERGIA ELECTRICA POR TIPO DE USUARIO SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,525.05,https://nube.ine.gob.bo/index.php/s/YjA7ClnBp3KxZM0/download
+2024-04-17 19:26:55-04:00,BOLIVIA – ÍNDICE DE CONSUMO DE AGUA POTABLE POR CATEGORIA SEGÚN AÑO Y MES 1990 – 2024,spreadsheet,293.03,https://nube.ine.gob.bo/index.php/s/pcJIE4X3gGOTbua/download
 2024-04-18 16:04:15-04:00,"Bolivia-Llegada de Viajeros Internacionales Vía Aérea, Por Aeropuerto y Tipo de Viajero Según Año y Mes 2008 – 2024",spreadsheet,157.31,https://nube.ine.gob.bo/index.php/s/nddfulKMiqf6Xqi/download
 2024-04-18 17:02:27-04:00,Bolivia-Llegada de Viajeros Internacionales Por modo de Transporte y Tipo de Viajero Según Año y Mes 2008 – 2024,spreadsheet,148.90,https://nube.ine.gob.bo/index.php/s/xCFk5987qwAB1P0/download
 2024-04-18 17:07:00-04:00,"Bolivia-Llegada de Viajeros Internacionales Vía Carretera, Por Puesto Fronterizo y Tipo de Viajero Según Año y Mes 2008 – 2024",spreadsheet,217.69,https://nube.ine.gob.bo/index.php/s/91ZhEYZNozu0WhD/download
@@ -1478,7 +1477,7 @@ modificado,nombre,tipo,kb,link
 2024-04-19 10:54:47-04:00,"Bolivia-Salida de Visitantes Internacionales, Según Nacionalidad, Por año y Mes 2008 – 2024",spreadsheet,225.04,https://nube.ine.gob.bo/index.php/s/Rxchzdz4fY8kKNb/download
 2024-04-19 10:56:25-04:00,"Bolivia-Salida de Visitantes Internacionales Vía Aérea, Según Nacionalidad, Por Año y Mes 2008 – 2024",spreadsheet,213.86,https://nube.ine.gob.bo/index.php/s/YX6SKYfGXayt8Cd/download
 2024-04-19 10:58:02-04:00,"Bolivia-Salida de Visitantes Internacionales Vía Carretera, Según Nacionalidad, Por Año y Mes 2008 – 2024",spreadsheet,213.19,https://nube.ine.gob.bo/index.php/s/TjaSJLJ9KWkq1Jc/download
-2024-04-19 18:11:05-04:00,BOLETÍN ESTADÍSTICO COMEX FEBRERO 2024,pdf,7151.49,https://nube.ine.gob.bo/index.php/s/b0As6oGtQHymOwt/download
+2024-04-19 19:03:44-04:00,BOLETÍN ESTADÍSTICO COMEX FEBRERO 2024,pdf,7151.46,https://nube.ine.gob.bo/index.php/s/b0As6oGtQHymOwt/download
 2024-04-21 20:01:40-04:00,EXPORTACIONES RITEX FEB 2024p,spreadsheet,15.83,https://nube.ine.gob.bo/index.php/s/b0VMTPm6blDBpwA/download
 2024-04-21 20:01:40-04:00,IMPORTACIONES FEB 2024p,spreadsheet,8956.42,https://nube.ine.gob.bo/index.php/s/c7MpjFIDaj1VB2L/download
 2024-04-21 20:01:40-04:00,EXPORTACIONES FEB – 2024,spreadsheet,440.58,https://nube.ine.gob.bo/index.php/s/kxiIUEmhGo4DsRN/download
@@ -1505,3 +1504,5 @@ modificado,nombre,tipo,kb,link
 2024-04-21 20:01:52-04:00,Bolivia – Importaciones según Clasificación Uso o Destino Económico por Año y Mes 1992 – 2024,spreadsheet,1006.17,https://nube.ine.gob.bo/index.php/s/uVLkFa0Hr1vtlSb/download
 2024-04-21 20:01:52-04:00,"Bolivia – Exportaciones según Grandes Categorías Económicas por Año y Mes, 1992 – 2024",spreadsheet,840.23,https://nube.ine.gob.bo/index.php/s/xwkBkig3lAy9uMr/download
 2024-04-21 20:01:52-04:00,"Bolivia- Exportaciones según Productos Tradicionales y No Tradicionales por Año y Mes, 1992 – 2024",spreadsheet,877.71,https://nube.ine.gob.bo/index.php/s/zUQc65wIGkw1KUy/download
+2024-04-22 18:50:00-04:00,Bolivia – Superficie registrada en Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2024,excel,172.00,https://nube.ine.gob.bo/index.php/s/Ys6tEPQpLWYR4ba/download
+2024-04-22 18:50:00-04:00,Bolivia – Número de Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2024,excel,165.50,https://nube.ine.gob.bo/index.php/s/jLb5wFW0JvKCqtR/download
