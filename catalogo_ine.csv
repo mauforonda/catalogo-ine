@@ -1162,8 +1162,6 @@ modificado,nombre,tipo,kb,link
 2024-01-31 12:02:47-04:00,"Bolivia – Índice De Valor De Importaciones, Según Grandes Categorías Económicas 2016 – 2023",spreadsheet,132.80,https://nube.ine.gob.bo/index.php/s/ZSmKw6jlNHlWri0/download
 2024-01-31 12:03:30-04:00,"Bolivia – Índice De Valor De Importaciones, Según Clasificación Uniforme para el Comercio Internacional 2016 – 2023",spreadsheet,144.20,https://nube.ine.gob.bo/index.php/s/dnhduUMdzVhnmsA/download
 2024-01-31 12:04:11-04:00,"Bolivia – Índice de Términos de Intercambio, 2016 – 2023",spreadsheet,104.50,https://nube.ine.gob.bo/index.php/s/ja6PWco2LQCZxfl/download
-2024-02-07 10:38:38-04:00,Ponderaciones  a nivel Productos,spreadsheet,252.24,https://nube.ine.gob.bo/index.php/s/CiB0QViDfy4tIzC/download
-2024-02-07 11:21:37-04:00,Ponderación a nivel de Ciudades Capitales y Conurbaciones,spreadsheet,232.81,https://nube.ine.gob.bo/index.php/s/8r7h0JyHjDp5G28/download
 2024-02-08 17:19:00-04:00,Manual de Procesos y Procedimientos de la Elaboración de Estadísticas e Indicadores Económicos (versión 4.0),pdf,14171.64,https://nube.ine.gob.bo/index.php/s/J6xhP0cO8Bnfe5z/download
 2024-02-09 17:45:47-04:00,BOLETÍN ESTADÍSTICO COMEX DICIEMBRE 2023,pdf,6839.93,https://nube.ine.gob.bo/index.php/s/CHpwCVCLqqpbo54/download
 2024-02-15 14:53:41-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES ENERO DE 2024,pdf,9527.38,https://nube.ine.gob.bo/index.php/s/s79rwQQYUhNpmgv/download
@@ -1200,26 +1198,6 @@ modificado,nombre,tipo,kb,link
 2024-03-30 20:48:37-04:00,IMPORTACIONES RITEX 2023p,spreadsheet,70.49,https://nube.ine.gob.bo/index.php/s/FriuFQee5wQKAY4/download
 2024-03-30 20:48:37-04:00,EXPORTACIONES 2023p,spreadsheet,2664.09,https://nube.ine.gob.bo/index.php/s/rUHVXwADuuNDXTz/download
 2024-03-30 20:48:38-04:00,IMPORTACIONES 2023p,spreadsheet,59359.89,https://nube.ine.gob.bo/index.php/s/qPDlbEBgzWWXTHE/download
-2024-04-02 09:53:06-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,400.77,https://nube.ine.gob.bo/index.php/s/3CeYoZu31N5gr4n/download
-2024-04-02 09:55:35-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,542.58,https://nube.ine.gob.bo/index.php/s/5BRb2UPtMShEhzR/download
-2024-04-02 09:58:16-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,445.28,https://nube.ine.gob.bo/index.php/s/bCQpb5XwXDH30gM/download
-2024-04-02 10:03:11-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,858.52,https://nube.ine.gob.bo/index.php/s/yV9WEnC2QYbGHf7/download
-2024-04-02 10:08:58-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,999.62,https://nube.ine.gob.bo/index.php/s/EMnGJip5Rnumcgb/download
-2024-04-02 10:15:25-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,998.68,https://nube.ine.gob.bo/index.php/s/0F3PdTxqfapjVbs/download
-2024-04-02 10:18:21-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,324.81,https://nube.ine.gob.bo/index.php/s/hpsZLd5THekmNXx/download
-2024-04-02 10:20:00-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,396.76,https://nube.ine.gob.bo/index.php/s/AExtSXB8CnBnVD5/download
-2024-04-02 10:20:54-04:00,Índice a nivel Productos,spreadsheet,606.50,https://nube.ine.gob.bo/index.php/s/JB3VQm6AV0KKSoN/download
-2024-04-02 10:22:40-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,801.25,https://nube.ine.gob.bo/index.php/s/5fezWHzIAwyP4cb/download
-2024-04-02 10:23:59-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,805.46,https://nube.ine.gob.bo/index.php/s/wEVsaYSLyRgZ1Ze/download
-2024-04-02 10:37:09-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos por Ciudad",spreadsheet,924.58,https://nube.ine.gob.bo/index.php/s/Pzp12rnYN4vtamU/download
-2024-04-02 10:53:09-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos por Ciudad",spreadsheet,926.23,https://nube.ine.gob.bo/index.php/s/PxB7IfKkpw3MpdR/download
-2024-04-02 11:02:10-04:00,Ponderaciones a nivel producto,spreadsheet,374.95,https://nube.ine.gob.bo/index.php/s/ssHExN1SjuPxpvW/download
-2024-04-02 11:07:22-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,858.50,https://nube.ine.gob.bo/index.php/s/fDmCMfpIUCS0pK1/download
-2024-04-02 11:29:32-04:00,Índices a nivel producto,spreadsheet,2065.33,https://nube.ine.gob.bo/index.php/s/gLuTisJD1mywCKd/download
-2024-04-02 11:35:33-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,2326.85,https://nube.ine.gob.bo/index.php/s/omHIgvDrZKJl8iM/download
-2024-04-02 11:37:57-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,1391.47,https://nube.ine.gob.bo/index.php/s/hDz0rSqrjfNToJY/download
-2024-04-02 11:46:07-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,359.04,https://nube.ine.gob.bo/index.php/s/szpOEeANcme0cF2/download
-2024-04-02 14:44:14-04:00,Precios Promedio,spreadsheet,1583.46,https://nube.ine.gob.bo/index.php/s/bWCORTKiVch8LX5/download
 2024-04-02 16:10:00-04:00,PAC 2024 – Tercera Reformulación,pdf,1695.21,https://nube.ine.gob.bo/index.php/s/hYVvpnlbnKcmRK8/download
 2024-04-03 15:02:24-04:00,ECE_3T_2023,rar,8788.71,https://nube.ine.gob.bo/index.php/s/CuvVTEnFSexJ8nb/download
 2024-04-03 15:02:24-04:00,ECE_3T_2023RUR,rar,1151.67,https://nube.ine.gob.bo/index.php/s/GeYjdBIhxMM0Asp/download
@@ -1457,3 +1435,25 @@ modificado,nombre,tipo,kb,link
 2024-05-03 16:09:24-04:00,"BOLIVIA: VARIACIÓN ACUMULADA DEL IGAE, POR MES 2008-2023",spreadsheet,110.61,https://nube.ine.gob.bo/index.php/s/qNQexpgoZroGCYG/download
 2024-05-03 16:09:40-04:00,"BOLIVIA: VARIACIÓN A SIMILAR PERIODO DEL IGAE, POR MES 2008-2023",spreadsheet,107.88,https://nube.ine.gob.bo/index.php/s/vsfGqiIoEXGddwJ/download
 2024-05-03 16:09:56-04:00,"BOLIVIA: VARIACIÓN A 12 MESES DEL IGAE, POR MES 2008-2023",spreadsheet,107.57,https://nube.ine.gob.bo/index.php/s/k0bRzzNhBXb7Ae2/download
+2024-05-06 09:32:03-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,2334.04,https://nube.ine.gob.bo/index.php/s/V9dkmMVWK0k9xvr/download
+2024-05-06 09:37:57-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,858.52,https://nube.ine.gob.bo/index.php/s/DIWCT4KqC9WGAiz/download
+2024-05-06 09:56:10-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,999.09,https://nube.ine.gob.bo/index.php/s/GWFfeXNtqOr6gC7/download
+2024-05-06 10:00:26-04:00,Ponderaciones  a nivel Productos,spreadsheet,252.27,https://nube.ine.gob.bo/index.php/s/1fqMuijg8RLB8W3/download
+2024-05-06 10:07:18-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,1397.91,https://nube.ine.gob.bo/index.php/s/inZs0ZCfCG09nTY/download
+2024-05-06 10:19:26-04:00,Ponderación a nivel de Ciudades Capitales y Conurbaciones,spreadsheet,232.84,https://nube.ine.gob.bo/index.php/s/02pXdKOxiye7E5t/download
+2024-05-06 10:20:02-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,359.65,https://nube.ine.gob.bo/index.php/s/I1VsCgUITZTDZ8c/download
+2024-05-06 10:21:18-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos por Ciudad",spreadsheet,925.04,https://nube.ine.gob.bo/index.php/s/Ft9GoZng7Cr0vB6/download
+2024-05-06 10:21:59-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos por Ciudad",spreadsheet,926.72,https://nube.ine.gob.bo/index.php/s/ensF5KG2oU5xJM5/download
+2024-05-06 10:23:11-04:00,Índices a nivel producto,spreadsheet,2087.63,https://nube.ine.gob.bo/index.php/s/omx2x9xQxQIkJtO/download
+2024-05-06 10:32:16-04:00,Ponderaciones a nivel producto,spreadsheet,374.95,https://nube.ine.gob.bo/index.php/s/vtO6yC69rpcIhOG/download
+2024-05-06 10:33:29-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,324.86,https://nube.ine.gob.bo/index.php/s/efgMJg2VfEwX730/download
+2024-05-06 10:34:30-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,397.49,https://nube.ine.gob.bo/index.php/s/miRVZPvRNdlnEkl/download
+2024-05-06 10:34:46-04:00,Índice a nivel Productos,spreadsheet,611.13,https://nube.ine.gob.bo/index.php/s/tL3UqPiHd5UdQIO/download
+2024-05-06 10:35:34-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,801.28,https://nube.ine.gob.bo/index.php/s/HNxWV89zLQWGvyw/download
+2024-05-06 10:36:25-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,801.18,https://nube.ine.gob.bo/index.php/s/N5dIs6TePzTLRr5/download
+2024-05-06 10:37:34-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,400.80,https://nube.ine.gob.bo/index.php/s/BWNnlPFVGJc58gP/download
+2024-05-06 10:37:59-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,543.34,https://nube.ine.gob.bo/index.php/s/cDCA2Lu0YK7i0Nx/download
+2024-05-06 10:38:21-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,445.80,https://nube.ine.gob.bo/index.php/s/ldZ4LLvPMYmLFxQ/download
+2024-05-06 10:39:43-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,858.56,https://nube.ine.gob.bo/index.php/s/4xTboDq1mJNFMvC/download
+2024-05-06 10:45:27-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,999.97,https://nube.ine.gob.bo/index.php/s/m0aAqUoVAuSNXJB/download
+2024-05-06 15:50:25-04:00,Precios Promedio,spreadsheet,1589.39,https://nube.ine.gob.bo/index.php/s/sKsN9ZH5aEpDOiR/download
