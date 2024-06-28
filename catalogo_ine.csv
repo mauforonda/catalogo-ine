@@ -637,10 +637,6 @@ modificado,nombre,tipo,kb,link
 2023-03-31 20:42:13-04:00,SALARIOS Y REMUNERACIONES DEL SECTOR PÚBLICO DICIEMBRE DE 2022,pdf,2175.08,https://nube.ine.gob.bo/index.php/s/TRs6ezhZfkmZzI6/download
 2023-04-14 10:09:30-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES MARZO DE 2023,pdf,8193.15,https://nube.ine.gob.bo/index.php/s/lFZ2oZ4ESBj7wnt/download
 2023-04-14 15:28:49-04:00,EXPORTACIONES 2022p,spreadsheet,2902.18,https://nube.ine.gob.bo/index.php/s/95MY96hpRVESrUf/download
-2023-04-26 14:53:34-04:00,"Bolivia – Producción Año Agrícola por Departamento, 1984 – 2022",spreadsheet,1454.45,https://nube.ine.gob.bo/index.php/s/V7sVhYgtH9GT2fd/download
-2023-04-26 15:24:40-04:00,"Bolivia – Rendimiento Año Agrícola por Departamento, 1984 – 202",spreadsheet,429.96,https://nube.ine.gob.bo/index.php/s/9Th8JQ7vyccdEO7/download
-2023-04-26 15:26:55-04:00,"Bolivia – Superficie Año Agrícola por Departamento, 1984 – 2022",spreadsheet,1007.87,https://nube.ine.gob.bo/index.php/s/PnEqp7IopHEJDBu/download
-2023-04-26 15:49:36-04:00,"Bolivia – Hato Ganado Bovino por Departamento Edad y Sexo, 1984 – 2022",excel,273.50,https://nube.ine.gob.bo/index.php/s/HEViod0PU2Pki0c/download
 2023-04-26 16:59:28-04:00,"BOLIVIA: NIVEL DE INSTRUCCIÓN ALCANZADO POR LA POBLACIÓN DE 19 AÑOS O MÁS EDAD POR SEXO, SEGÚN ÁREA, 2011 – 2022",spreadsheet,84.13,https://nube.ine.gob.bo/index.php/s/7glyCeGM8VOs2i7/download
 2023-04-26 17:00:59-04:00,"BOLIVIA: POBLACIÓN MATRICULADA DE 5 A 39 AÑOS DE EDAD POR SEXO, SEGÚN ÁREA Y NIVEL DE MATRICULACIÓN, 2012-2022",spreadsheet,80.59,https://nube.ine.gob.bo/index.php/s/JojT78gzirAuTIb/download
 2023-04-26 17:01:34-04:00,"BOLIVIA: POBLACIÓN MATRICULADA DE 5 A 39 AÑOS DE EDAD POR TIPO DE ESTABLECIMIENTO, SEGÚN SEXO Y NIVEL DE MATRICULACIÓN, 2012-2022",spreadsheet,91.89,https://nube.ine.gob.bo/index.php/s/GlnicKcFWeIsEaU/download
@@ -697,39 +693,12 @@ modificado,nombre,tipo,kb,link
 2023-05-15 15:20:14-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES ABRIL DE 2023,pdf,7527.68,https://nube.ine.gob.bo/index.php/s/UAX6yWPII7PEI8W/download
 2023-05-24 16:43:41-04:00,"Documento metodológico, Revisión 2014",pdf,3567.17,https://nube.ine.gob.bo/index.php/s/B9nJ1YYAxMYim1J/download
 2023-05-24 17:03:28-04:00,Documento segunda Expresión de Interés,pdf,829.20,https://nube.ine.gob.bo/index.php/s/idD49knYefRnimV/download
-2023-05-29 11:44:40-04:00,"Bolivia – Producción de Huevo de Aves Postura por Departamento, según Años, 1984 – 2022",excel,144.00,https://nube.ine.gob.bo/index.php/s/pwhDOcBbs8iA2KF/download
-2023-05-29 11:44:49-04:00,"Bolivia – Producción de Carne de Aves Parrilleras por Departamento según Años, 1984 – 2022",excel,144.50,https://nube.ine.gob.bo/index.php/s/uZbPrDY0DU9gmYW/download
-2023-05-29 11:45:10-04:00,"Bolivia- Aves de Postura Destinada a la Producción de Huevo por Departamento, según Años, 1984 – 2022",excel,144.50,https://nube.ine.gob.bo/index.php/s/KGfaP7SsYn6Iq9J/download
-2023-05-29 11:46:39-04:00,"Bolivia – Poblacion de Alpacas por Departamento Edad y Sexo, 1984 – 2022",excel,179.00,https://nube.ine.gob.bo/index.php/s/KwpEsMwkutu3syn/download
-2023-05-29 11:47:37-04:00,"Bolivia – Poblacion de Llamas por Departamento Edad y Sexo, 1984 – 2022",excel,194.50,https://nube.ine.gob.bo/index.php/s/CjKEahyPKlsw4hV/download
-2023-05-29 11:48:52-04:00,"Bolivia – Hato Ganado Porcino por Departamento Edad y Sexo, 1984 – 2022",excel,230.50,https://nube.ine.gob.bo/index.php/s/lx78OnMtQW4hQYp/download
-2023-05-29 11:50:11-04:00,"Bolivia – Hato Ganado Ovino por Departamento Edad y Sexo, 1984 – 2022",excel,213.50,https://nube.ine.gob.bo/index.php/s/K6COhTT9LXm2ghX/download
-2023-05-29 11:52:57-04:00,"Bolivia – Cabezas de Bovino Faenadas por Departamento según Año, 1990 – 2022",spreadsheet,104.72,https://nube.ine.gob.bo/index.php/s/HbhXooZls3YBPZ2/download
-2023-05-29 11:53:17-04:00,"Bolivia – Producción de Carne Bovina por Departamento según Año, 1990 – 2022",spreadsheet,116.11,https://nube.ine.gob.bo/index.php/s/lY6AZ6IW5ZYz3TP/download
-2023-05-29 11:53:49-04:00,"Bolivia – Producción de Carne Caprina por Departamento según Año, 1970 – 2022",spreadsheet,124.98,https://nube.ine.gob.bo/index.php/s/3xtPIsyZ2762wJh/download
-2023-05-29 11:54:38-04:00,"Bolivia – Producción de Carne de Llama por Departamento según Año, 1970 – 2022",spreadsheet,111.87,https://nube.ine.gob.bo/index.php/s/MN09jxzar965luG/download
-2023-05-29 11:55:07-04:00,"Bolivia – Producción de Carne Ovina por Departamento según Año, 1970 – 2022",spreadsheet,112.12,https://nube.ine.gob.bo/index.php/s/XuecNj1SgfIrawm/download
-2023-05-29 11:55:26-04:00,"Bolivia – Producción de Carne Porcina por Departamento según Año, 1970 – 2022",spreadsheet,114.50,https://nube.ine.gob.bo/index.php/s/MLWjeZRyZRvVqcF/download
-2023-05-29 11:56:22-04:00,"Bolivia – Producción de Cuero Bovina por Departamento según Año, 1990 – 2022",spreadsheet,98.88,https://nube.ine.gob.bo/index.php/s/nDBrEdWG0Rgb8Yw/download
-2023-05-29 11:58:20-04:00,"Bolivia – Producción de Fibra de Alpaca por Departamento según Año, 1990 – 2022",spreadsheet,101.89,https://nube.ine.gob.bo/index.php/s/8BP8TOTQzUxkXm2/download
-2023-05-29 11:58:48-04:00,"Bolivia – Producción de Fibra de Llama por Departamento según Año, 1990 – 2022",spreadsheet,113.59,https://nube.ine.gob.bo/index.php/s/3u9cgiqiMaT7jof/download
-2023-05-29 11:59:06-04:00,"Bolivia – Producción de Lana Ovina por Departamento según Año, 1990 – 2022",spreadsheet,112.12,https://nube.ine.gob.bo/index.php/s/Kg4iHAwkipJTbe1/download
-2023-05-29 11:59:28-04:00,"Bolivia – Producción de Leche Bovina por Departamento según Año, 1990 – 2022",spreadsheet,115.64,https://nube.ine.gob.bo/index.php/s/oHHmF1Q7aoAtcF7/download
-2023-05-29 11:59:59-04:00,"Bolivia – Producción de Leche Caprina por Departamento según Año, 1990 – 2022",spreadsheet,108.55,https://nube.ine.gob.bo/index.php/s/P5mFUdqFibAvtlt/download
-2023-05-29 12:01:21-04:00,"Bolivia – Producción de Carne de Alpaca por Departamento según Año, 1990 – 2022",spreadsheet,121.10,https://nube.ine.gob.bo/index.php/s/8a58VfnaGLnGnhG/download
 2023-06-02 15:13:00-04:00,ECE_4T_2022,rar,8954.40,https://nube.ine.gob.bo/index.php/s/cE3jMOi2SmkZg5e/download
 2023-06-02 15:13:13-04:00,ECE_4T_2022 RUR,rar,1152.50,https://nube.ine.gob.bo/index.php/s/T59IoKwaaePrzK4/download
 2023-06-02 15:13:31-04:00,ECE_4T_2022 URB,rar,7816.13,https://nube.ine.gob.bo/index.php/s/dewANnr6S1oBhEl/download
 2023-06-05 19:32:44-04:00,BOLETÍN ESTADÍSTICO COMEX ABRIL 2023,pdf,5125.99,https://nube.ine.gob.bo/index.php/s/FStpBKkl54TNYap/download
-2023-06-07 12:31:42-04:00,"Bolivia – Existencia de Aves Parrilleras por Departamento, según Años, 1984 – 2022",excel,139.50,https://nube.ine.gob.bo/index.php/s/CAFtW8wpDLWsygp/download
 2023-06-15 09:27:12-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES MAYO DE 2023,pdf,7314.15,https://nube.ine.gob.bo/index.php/s/SnTmNDSkqvibf8c/download
 2023-06-15 09:50:30-04:00,Documento tercera Expresión de Interés,pdf,829.20,https://nube.ine.gob.bo/index.php/s/nxzA88u3ziRcr9B/download
-2023-06-16 10:42:05-04:00,Bolivia- Producción por cultivo campaña invierno por departamento -2012-2022,spreadsheet,303.53,https://nube.ine.gob.bo/index.php/s/QGxbV6juWj9DjVG/download
-2023-06-16 10:44:31-04:00,"Bolivia- Producción por cultivo campaña verano , por departamento 2013-2022",spreadsheet,737.69,https://nube.ine.gob.bo/index.php/s/qcDXfgLo8KDpB89/download
-2023-06-16 10:47:21-04:00,"Bolivia- Rendimiento por cultivo campaña invierno, por departamento 2012-2022",spreadsheet,814.25,https://nube.ine.gob.bo/index.php/s/jRM8SZEXbuaKFJ6/download
-2023-06-16 11:01:32-04:00,"Bolivia- Rendimiento por cultivo campaña verano , por departamento 2013-2022",spreadsheet,333.32,https://nube.ine.gob.bo/index.php/s/EPehJS0U48SvP6k/download
-2023-06-16 11:08:57-04:00,Bolivia- superficie cultivada campaña invierno por departamento 2012-2022,spreadsheet,1023.66,https://nube.ine.gob.bo/index.php/s/VgAAqXTLwwN3sJF/download
-2023-06-16 11:13:22-04:00,"Bolivia- Superficie cultivada campaña verano , por departamento 2013-2022",spreadsheet,249.39,https://nube.ine.gob.bo/index.php/s/xXA5s8uqzzQWCHF/download
 2023-06-28 16:17:15-04:00,"Bolivia – Visitantes que Realizarón Viajes por Turismo Interno, 2019",spreadsheet,117.42,https://nube.ine.gob.bo/index.php/s/F0AIPA6IoXpJm1i/download
 2023-06-28 16:25:49-04:00,"Bolivia – Estadía Medía Gasto Medio Diario y gasto Medio de Viaje por Turismo Interno, 2019",spreadsheet,111.88,https://nube.ine.gob.bo/index.php/s/EYm4lyQUzKgf1cX/download
 2023-06-28 16:26:47-04:00,"Bolivia – Viajes de Departamento de Origen a Destino de Visitantes por Turismo Interno, 2019",spreadsheet,70.41,https://nube.ine.gob.bo/index.php/s/NDxXUMcwa72I9vW/download
@@ -766,7 +735,6 @@ modificado,nombre,tipo,kb,link
 2023-07-14 11:34:21-04:00,Bolivia – Longitud de Caminos según departamento y Red 2000 – 2022,spreadsheet,240.24,https://nube.ine.gob.bo/index.php/s/6LJuA7a7zc9Xla4/download
 2023-07-14 15:32:54-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES JUNIO DE 2023,pdf,7877.61,https://nube.ine.gob.bo/index.php/s/liNi4Nlm29xbV9O/download
 2023-07-17 05:29:55-04:00,BOLETÍN ESTADÍSTICO COMEX MAYO 2023,pdf,13646.12,https://nube.ine.gob.bo/index.php/s/J7cpKRU61wmdbiP/download
-2023-07-19 18:32:59-04:00,"Bolivia – Hato Ganado Caprino por Depatamento Edad y Sexo, 1984 – 2022",excel,215.50,https://nube.ine.gob.bo/index.php/s/ZAeFP5DBak41gAO/download
 2023-07-21 18:32:23-04:00,SALARIOS Y REMUNERACIONES DEL SECTOR PRIVADO I TRIMESTRE 2023,pdf,3393.07,https://nube.ine.gob.bo/index.php/s/Zfre2cdRvzrEMml/download
 2023-07-31 15:09:02-04:00,Ética Pública,pdf,2020.32,https://nube.ine.gob.bo/index.php/s/4etGohLpSvAtvQW/download
 2023-08-11 08:51:22-04:00,COMUNICACIÓN DE RESULTADOS (ADJUDICADOS Y NO ADJUDICADOS) ,pdf,1123.61,https://nube.ine.gob.bo/index.php/s/JdAUpScCwXmYdfG/download
@@ -988,6 +956,24 @@ modificado,nombre,tipo,kb,link
 2024-01-12 15:52:36-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES DICIEMBRE DE 2023,pdf,8734.31,https://nube.ine.gob.bo/index.php/s/2kKiYJbWMNppPYX/download
 2024-01-15 16:00:00-04:00,Reporte 2023,spreadsheet,93.71,https://nube.ine.gob.bo/index.php/s/Ds1LPkmZstp2z2D/download
 2024-01-27 14:39:56-04:00,BOLETÍN ESTADÍSTICO COMEX NOVIEMBRE 2023,pdf,7265.64,https://nube.ine.gob.bo/index.php/s/fiGbt4veCVJHxZc/download
+2024-01-30 10:00:51-04:00,"Bolivia – Producción de Leche Bovina por Departamento según Año, 1990 – 2023",spreadsheet,116.14,https://nube.ine.gob.bo/index.php/s/oHHmF1Q7aoAtcF7/download
+2024-01-30 10:05:11-04:00,"Bolivia – Producción de Carne Porcina por Departamento según Año, 1970 – 2023",spreadsheet,114.72,https://nube.ine.gob.bo/index.php/s/MLWjeZRyZRvVqcF/download
+2024-01-30 10:59:52-04:00,"Bolivia – Hato Ganado Porcino por Departamento Edad y Sexo, 1984 – 2023",excel,232.00,https://nube.ine.gob.bo/index.php/s/lx78OnMtQW4hQYp/download
+2024-01-30 12:23:44-04:00,"Bolivia – Cabezas de Bovino Faenadas por Departamento según Año, 1990 – 2023",spreadsheet,104.82,https://nube.ine.gob.bo/index.php/s/HbhXooZls3YBPZ2/download
+2024-01-30 15:14:24-04:00,"Bolivia – Poblacion de Alpacas por Departamento Edad y Sexo, 1984 – 2023",excel,180.00,https://nube.ine.gob.bo/index.php/s/KwpEsMwkutu3syn/download
+2024-01-30 15:19:48-04:00,"Bolivia – Producción de Carne de Alpaca por Departamento según Año, 1990 – 2023",spreadsheet,121.24,https://nube.ine.gob.bo/index.php/s/8a58VfnaGLnGnhG/download
+2024-01-30 15:26:38-04:00,"Bolivia – Producción de Fibra de Alpaca por Departamento según Año, 1990 – 2023",spreadsheet,102.05,https://nube.ine.gob.bo/index.php/s/8BP8TOTQzUxkXm2/download
+2024-01-30 16:08:57-04:00,"Bolivia – Poblacion de Llamas por Departamento Edad y Sexo, 1984 – 2023",excel,195.50,https://nube.ine.gob.bo/index.php/s/CjKEahyPKlsw4hV/download
+2024-01-30 16:12:37-04:00,"Bolivia – Producción de Carne de Llama por Departamento según Año, 1970 – 2023",spreadsheet,112.01,https://nube.ine.gob.bo/index.php/s/MN09jxzar965luG/download
+2024-01-30 16:21:24-04:00,"Bolivia – Producción de Fibra de Llama por Departamento según Año, 1990 – 2023",spreadsheet,113.73,https://nube.ine.gob.bo/index.php/s/3u9cgiqiMaT7jof/download
+2024-01-31 10:35:51-04:00,"Bolivia – Hato Ganado Caprino por Depatamento Edad y Sexo, 1984 – 2023",excel,216.50,https://nube.ine.gob.bo/index.php/s/ZAeFP5DBak41gAO/download
+2024-01-31 10:39:10-04:00,"Bolivia – Producción de Carne Caprina por Departamento según Año, 1970 – 2023",spreadsheet,125.15,https://nube.ine.gob.bo/index.php/s/3xtPIsyZ2762wJh/download
+2024-01-31 10:46:32-04:00,"Bolivia – Producción de Leche Caprina por Departamento según Año, 1990 – 2023",spreadsheet,108.71,https://nube.ine.gob.bo/index.php/s/P5mFUdqFibAvtlt/download
+2024-01-31 11:25:11-04:00,"Bolivia – Producción de Carne Ovina por Departamento según Año, 1970 – 2023",spreadsheet,112.27,https://nube.ine.gob.bo/index.php/s/XuecNj1SgfIrawm/download
+2024-01-31 11:30:07-04:00,"Bolivia – Producción de Lana Ovina por Departamento según Año, 1990 – 2023",spreadsheet,112.28,https://nube.ine.gob.bo/index.php/s/Kg4iHAwkipJTbe1/download
+2024-01-31 11:44:51-04:00,"Bolivia – Producción de Cuero Bovina por Departamento según Año, 1990 – 2023",spreadsheet,98.98,https://nube.ine.gob.bo/index.php/s/nDBrEdWG0Rgb8Yw/download
+2024-02-01 12:05:15-04:00,"Bolivia – Hato Ganado Ovino por Departamento Edad y Sexo, 1984 – 2023",excel,215.00,https://nube.ine.gob.bo/index.php/s/K6COhTT9LXm2ghX/download
+2024-02-05 10:11:46-04:00,"Bolivia – Producción de Carne Bovina por Departamento según Año, 1990 – 2023",spreadsheet,116.30,https://nube.ine.gob.bo/index.php/s/lY6AZ6IW5ZYz3TP/download
 2024-02-08 17:19:00-04:00,Manual de Procesos y Procedimientos de la Elaboración de Estadísticas e Indicadores Económicos (versión 4.0),pdf,14171.64,https://nube.ine.gob.bo/index.php/s/J6xhP0cO8Bnfe5z/download
 2024-02-09 17:45:47-04:00,BOLETÍN ESTADÍSTICO COMEX DICIEMBRE 2023,pdf,6839.93,https://nube.ine.gob.bo/index.php/s/CHpwCVCLqqpbo54/download
 2024-02-15 14:53:41-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES ENERO DE 2024,pdf,9527.38,https://nube.ine.gob.bo/index.php/s/s79rwQQYUhNpmgv/download
@@ -1319,14 +1305,17 @@ modificado,nombre,tipo,kb,link
 2024-05-22 17:52:00-04:00,"BOLIVIA: POBLACIÓN FEMENINA DE 13 A 50 AÑOS, SEGÚN ÁREA Y PERSONAL DE ATENCIÓN DEL ÚLTIMO PARTO, 2011 – 2019, 2021 – 2022",spreadsheet,57.89,https://nube.ine.gob.bo/index.php/s/3M0gcwHSk0X7cfd/download
 2024-05-22 17:52:00-04:00,"BOLIVIA: POBLACIÓN QUE POR PROBLEMAS DE SALUD ACUDE A ESTABLECIMIENTOS DE SALUD O ATIENDE SU SALUD CON SOLUCIONES CASERAS O AUTOMEDICACIÓN, SEGÚN DEPARTAMENTO, 2014 – 2019, 2021 – 2022",spreadsheet,62.65,https://nube.ine.gob.bo/index.php/s/IdK6nSV4lSWxsEB/download
 2024-05-22 17:52:00-04:00,"BOLIVIA: POBLACIÓN FEMENINA DE 13 A 50 AÑOS, SEGÚN DEPARTAMENTO Y PERSONAL DE ATENCIÓN DEL ÚLTIMO PARTO, 2011 – 2019, 2021 – 2022",spreadsheet,52.99,https://nube.ine.gob.bo/index.php/s/rlKInOdnn4u4viE/download
+2024-05-23 15:47:16-04:00,"Bolivia- Existencia de Aves de Postura por Departamento, según año 1984-2023",spreadsheet,105.87,https://nube.ine.gob.bo/index.php/s/Bmnny8NvolgQMAy/download
+2024-05-23 15:50:04-04:00,"Bolivia- Aves de Postura Destinada a la Producción de Huevo por Departamento, según Años, 1984 – 2023",excel,145.00,https://nube.ine.gob.bo/index.php/s/KGfaP7SsYn6Iq9J/download
+2024-05-23 15:51:11-04:00,"Bolivia – Existencia de Aves Parrilleras por Departamento, según Años, 1984 – 2023",excel,139.50,https://nube.ine.gob.bo/index.php/s/CAFtW8wpDLWsygp/download
+2024-05-23 15:52:26-04:00,"Bolivia – Producción de Carne de Aves Parrilleras por Departamento según Años, 1984 – 2023",excel,144.50,https://nube.ine.gob.bo/index.php/s/uZbPrDY0DU9gmYW/download
+2024-05-23 15:54:07-04:00,"Bolivia – Producción de Huevo de Aves Postura por Departamento, según Años, 1984 – 2023",excel,144.00,https://nube.ine.gob.bo/index.php/s/pwhDOcBbs8iA2KF/download
 2024-05-23 20:15:10-04:00,BOLIVIA NÚMERO DE CONEXIONES DE AGUA POTABLE POR CATEGORÍA 2017 – 2023,spreadsheet,130.83,https://nube.ine.gob.bo/index.php/s/wzqg2gbGxrlF94p/download
 2024-05-23 20:15:55-04:00,BOLIVIA NÚMERO DE USUARIOS DE GAS NATURAL POR RED POR CATEGORÍA 2017 – 2023,spreadsheet,134.03,https://nube.ine.gob.bo/index.php/s/M42Oku7IgLWU5BU/download
 2024-05-23 20:16:23-04:00,BOLIVIA NÚMERO DE USUARIOS DE ENERGIA ELÉCTRICA POR CATEGORÍA 2017 – 2023,spreadsheet,125.38,https://nube.ine.gob.bo/index.php/s/66mPctnHNMGeH9C/download
 2024-05-24 18:23:00-04:00,"Bolivia: Distribución porcentual de la población de 14 años o más de edad en la ocupación principal por mes, según sexo y grupo ocupacional, 2015 – 2024",spreadsheet,150.31,https://nube.ine.gob.bo/index.php/s/shVYnKPUBaahvpZ/download
 2024-05-24 18:30:39-04:00,"Bolivia – Área urbana: Distribución porcentual de la población de 14 años o más de edad en la ocupación principal por mes, según sexo y categoría en el empleo, 2015 – 2024",spreadsheet,143.29,https://nube.ine.gob.bo/index.php/s/0eP5Gwuv3hihYVU/download
 2024-05-24 19:00:44-04:00,"Bolivia – Área urbana: Tasa de desocupación desestacionalizada por mes, según sexo, 2015 – 2024",spreadsheet,146.16,https://nube.ine.gob.bo/index.php/s/5TvMscznkP1SxvQ/download
-2024-05-24 20:00:58-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses – Nacional",spreadsheet,503.97,https://nube.ine.gob.bo/index.php/s/QJyeHV2I1AnoDfq/download
-2024-05-24 20:01:51-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Grandes Grupos – Nacional",spreadsheet,352.19,https://nube.ine.gob.bo/index.php/s/OvI0giRSwtFZ99h/download
 2024-05-27 09:11:24-04:00,"Bolivia – Área urbana: Distribución porcentual de la población de 14 años o más de edad en la ocupación principal por mes, según sexo y grupo ocupacional, 2015 – 2024",spreadsheet,154.88,https://nube.ine.gob.bo/index.php/s/Ksky8JKg5yQguTQ/download
 2024-05-27 09:48:15-04:00,"Bolivia: Distribución porcentual de la población de 14 años o más de edad en la ocupación principal por mes, según sexo y categoría en el empleo, 2015 – 2024",spreadsheet,140.92,https://nube.ine.gob.bo/index.php/s/X4WOKFLBhsDtegG/download
 2024-05-27 09:50:03-04:00,"Bolivia: Distribución Porcentual de la población de 14 años o más de edad en la ocupación principal por mes, según actividad económica, 2015 – 2024",spreadsheet,136.84,https://nube.ine.gob.bo/index.php/s/lECrE3Cqk8unb0w/download
@@ -1492,3 +1481,15 @@ modificado,nombre,tipo,kb,link
 2024-06-20 20:30:10-04:00,Sintaxis para cálculo de estadísticas e indicadores,rar,2.95,https://nube.ine.gob.bo/index.php/s/FEe5UscOFviqIVD/download
 2024-06-20 20:30:10-04:00,Sintaxis para consolidación de bases de datos trimestrales,rar,8.62,https://nube.ine.gob.bo/index.php/s/d81lL6X9363c06d/download
 2024-06-20 20:30:10-04:00,ECE_4T_2023 URB,rar,7613.72,https://nube.ine.gob.bo/index.php/s/r7Oth4soM5MT5AW/download
+2024-06-27 12:26:06-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses – Nacional",spreadsheet,503.99,https://nube.ine.gob.bo/index.php/s/WAvxsjvMBdFVZeR/download
+2024-06-27 12:27:58-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Grandes Grupos – Nacional",spreadsheet,352.63,https://nube.ine.gob.bo/index.php/s/jGv4K4ksun6bhSC/download
+2024-06-27 16:01:19-04:00,"Bolivia – Superficie Año Agrícola por Departamento, 1984 – 2023",spreadsheet,863.22,https://nube.ine.gob.bo/index.php/s/PnEqp7IopHEJDBu/download
+2024-06-27 16:21:23-04:00,"Bolivia- Producción por cultivo campaña verano , por departamento 2013-2023",spreadsheet,738.69,https://nube.ine.gob.bo/index.php/s/qcDXfgLo8KDpB89/download
+2024-06-27 16:31:37-04:00,"Bolivia- Rendimiento por cultivo campaña verano , por departamento 2013-2023",spreadsheet,334.12,https://nube.ine.gob.bo/index.php/s/EPehJS0U48SvP6k/download
+2024-06-27 16:53:34-04:00,"Bolivia – Producción Año Agrícola por Departamento, 1984 – 2023",spreadsheet,749.67,https://nube.ine.gob.bo/index.php/s/V7sVhYgtH9GT2fd/download
+2024-06-27 17:35:31-04:00,"Bolivia – Rendimiento Año Agrícola por Departamento, 1984 – 2023",spreadsheet,419.82,https://nube.ine.gob.bo/index.php/s/9Th8JQ7vyccdEO7/download
+2024-06-27 19:04:36-04:00,"Bolivia- Superficie cultivada campaña verano , por departamento 2013-2023",spreadsheet,249.58,https://nube.ine.gob.bo/index.php/s/xXA5s8uqzzQWCHF/download
+2024-06-27 19:10:21-04:00,Bolivia- superficie cultivada campaña invierno por departamento 2012-2023,spreadsheet,999.50,https://nube.ine.gob.bo/index.php/s/VgAAqXTLwwN3sJF/download
+2024-06-27 19:14:05-04:00,Bolivia- Producción por cultivo campaña invierno por departamento -2012-2023,spreadsheet,281.03,https://nube.ine.gob.bo/index.php/s/QGxbV6juWj9DjVG/download
+2024-06-27 19:20:05-04:00,"Bolivia- Rendimiento por cultivo campaña invierno, por departamento 2012-2023",spreadsheet,790.77,https://nube.ine.gob.bo/index.php/s/jRM8SZEXbuaKFJ6/download
+2024-06-27 19:21:34-04:00,"Bolivia – Hato Ganado Bovino por Departamento Edad y Sexo, 1984 – 2023",excel,277.00,https://nube.ine.gob.bo/index.php/s/HEViod0PU2Pki0c/download
