@@ -1357,9 +1357,6 @@ modificado,nombre,tipo,kb,link
 2024-09-30 20:11:54-04:00,IMPORTACIONES RITEX ENE-AGO 2024p,spreadsheet,45.86,https://nube.ine.gob.bo/index.php/s/u3MreJLoQNW2SVv/download
 2024-09-30 20:11:58-04:00,IMPORTACIONES ENE-AGO 2024p,spreadsheet,35417.06,https://nube.ine.gob.bo/index.php/s/gpweiSER1xE1pC7/download
 2024-10-02 10:16:59-04:00,Ponderaciones  a nivel Productos,spreadsheet,251.90,https://nube.ine.gob.bo/index.php/s/SbV9Y99ILPsicbN/download
-2024-10-03 11:13:14-04:00,Bolivia – Producción de Carne de Ganado Bovino según Año y Mes por Ciudad 2005 – 2024,spreadsheet,148.95,https://nube.ine.gob.bo/index.php/s/Hf5zhf7eYeAVT0V/download
-2024-10-03 12:02:16-04:00,Bolivia – Acopio de leche según Año y Mes 2018 – 2024,spreadsheet,128.12,https://nube.ine.gob.bo/index.php/s/BAjYkM2PpZ4LnTo/download
-2024-10-03 12:07:12-04:00,Bolivia – Producción de Carne de Ganado porcino según Año y Mes por Ciudad 2018 – 2024,spreadsheet,128.74,https://nube.ine.gob.bo/index.php/s/kzjz79a0NUF8NHh/download
 2024-10-08 18:56:56-04:00,Bolivia – Exportaciones de Oro según Año y Mes 1990 – 2024,spreadsheet,99.37,https://nube.ine.gob.bo/index.php/s/5lHMdFH2xrjjlKp/download
 2024-10-08 18:58:18-04:00,"Bolivia – Producción de Minerales del Sector de la Minería Mediana por Tipo de Mineral según Año y Mes, 1990 – 2024",spreadsheet,134.07,https://nube.ine.gob.bo/index.php/s/LfBDSio4vzYagch/download
 2024-10-08 18:59:50-04:00,Bolivia – Producción Nacional de Minerales por Tipo de Mineral según Año y Mes 1990 – 2024,spreadsheet,152.05,https://nube.ine.gob.bo/index.php/s/WmOchqUHbrnvf6I/download
@@ -1367,20 +1364,8 @@ modificado,nombre,tipo,kb,link
 2024-10-08 19:03:14-04:00,"Bolivia – Índice de Volumen de Producción de Minerales por Subsector de la Minería Mediana y Tipo de Mineral según Año y Mes, 2000 – 2024",spreadsheet,191.57,https://nube.ine.gob.bo/index.php/s/UnT7jDvvuLs75Jx/download
 2024-10-08 19:04:45-04:00,"Bolivia – Índice de Volumen de Producción de Minerales por Subsector de la Minería Chica y Cooperativas y Tipo de Mineral, 2000 – 2024",spreadsheet,262.33,https://nube.ine.gob.bo/index.php/s/wr80XieLd6IQxdU/download
 2024-10-08 19:05:10-04:00,Bolivia – Cotización Oficial de Minerales por Tipo de Mineral según Año y Mes 1990 – 2024,spreadsheet,124.78,https://nube.ine.gob.bo/index.php/s/wVd1im9ObA3uEiv/download
-2024-10-09 10:21:59-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado Bovino según Año y Mes por Ciudad 2005 – 2024,spreadsheet,140.98,https://nube.ine.gob.bo/index.php/s/VASnWBKid2LjJIc/download
-2024-10-09 10:23:49-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado porcino según Año y Mes 2018 – 2024,spreadsheet,124.10,https://nube.ine.gob.bo/index.php/s/6rVnOXNJPPD1xhn/download
 2024-10-09 10:37:34-04:00,"BOLIVIA PROMEDIO DE CAUDALES, POR PUNTO DE CONTROL Y RÍO 1998 – 2023",spreadsheet,145.78,https://nube.ine.gob.bo/index.php/s/1yQcqunPWrnLls9/download
 2024-10-09 10:38:48-04:00,"BOLIVIA PROMEDIO DE NIVELES, POR PUNTO DE CONTROL Y RÍO 1998 – 2023",spreadsheet,137.67,https://nube.ine.gob.bo/index.php/s/kq882sx5MALXtVs/download
-2024-10-09 12:16:23-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2024",spreadsheet,156.38,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
-2024-10-09 12:16:37-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2024",spreadsheet,147.61,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
-2024-10-09 12:17:28-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,144.91,https://nube.ine.gob.bo/index.php/s/ItGu4xC8l8VMb96/download
-2024-10-09 12:17:59-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,167.67,https://nube.ine.gob.bo/index.php/s/VGXL4vgllkzp7a3/download
-2024-10-09 17:35:00-04:00,"Bolivia – Número de pollos parrilleros faenados de Granjas Registradas por departamento, según Año y Mes 2019 – 2024",spreadsheet,126.51,https://nube.ine.gob.bo/index.php/s/N2QW27YGHYzWg7V/download
-2024-10-09 17:35:00-04:00,Bolivia – Cargas de Pollitos BB A Granjas registradas por departamento según Año y Mes 2019 – 2024,spreadsheet,127.83,https://nube.ine.gob.bo/index.php/s/mYtBMlCLMg2CTvu/download
-2024-10-09 17:35:00-04:00,Bolivia – Producción de Carne de pollos parrilleros de granjas registradas por deprtamento según Año y Mes 2019 – 2024,spreadsheet,130.45,https://nube.ine.gob.bo/index.php/s/x9MHeNGChkXIyaR/download
-2024-10-09 18:26:04-04:00,Bolivia – Ventas de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,120.61,https://nube.ine.gob.bo/index.php/s/KkklD3dMnq2McoL/download
-2024-10-09 18:26:16-04:00,Bolivia – Producción de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,121.31,https://nube.ine.gob.bo/index.php/s/KO5oEVNveSsP3Qm/download
-2024-10-09 18:26:29-04:00,Bolivia – Consumo de Cemento por Departamento según Año y Mes 2000 – 2024,spreadsheet,95.08,https://nube.ine.gob.bo/index.php/s/8Zv5IDKUwWjvsDI/download
 2024-10-09 18:38:00-04:00,SERVICIO DE MANTENIMIENTO DE TECHOS -BLOQUE TECNICO DEL INSTITUTO NACIONAL DE ESTADISTICA,pdf,459.17,https://nube.ine.gob.bo/index.php/s/TDGRqNmgVYkXY4F/download
 2024-10-10 15:51:09-04:00,Bolivia – Temperatura Media 2005 – 2023,spreadsheet,104.52,https://nube.ine.gob.bo/index.php/s/4m0QBx59qTmQwao/download
 2024-10-10 15:52:38-04:00,Bolivia – Temperatura Mínima 2005 – 2023,spreadsheet,105.19,https://nube.ine.gob.bo/index.php/s/n7JcuHNhSDcznQd/download
@@ -1402,7 +1387,6 @@ modificado,nombre,tipo,kb,link
 2024-10-10 19:12:27-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, de Origen Importado",spreadsheet,760.58,https://nube.ine.gob.bo/index.php/s/RFVzi2KSJkMzGQ9/download
 2024-10-10 19:13:14-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Origen y Grupo",spreadsheet,284.05,https://nube.ine.gob.bo/index.php/s/Z7SpPKc4kuILkfS/download
 2024-10-10 19:38:37-04:00,LA PAZ NIVEL PROMEDIO DEL LAGO TITICACA ESTACIÓN HUATAJATA 2009 – 2024,spreadsheet,100.69,https://nube.ine.gob.bo/index.php/s/8bZ5b5pHkkaPCw2/download
-2024-10-10 19:38:40-04:00,"BOLIVIA – EVENTOS ADVERSOS DE ORIGEN NATURAL, SEGÚN CATEGORÍA POR DEPARTAMENTO, 2024",spreadsheet,100.63,https://nube.ine.gob.bo/index.php/s/P9vfMXYemsvSFk8/download
 2024-10-11 09:10:37-04:00,"BOLIVIA – VOLUMEN DE MADERA EXTRAÍDA, SEGÚN DEPARTAMENTO 2006 – 2023",spreadsheet,99.77,https://nube.ine.gob.bo/index.php/s/ryFE2wNT2L7dv96/download
 2024-10-11 09:11:34-04:00,"BOLIVIA – VOLUMEN DE MADERA EXTRAÍDA, SEGÚN ESPECIE 2006 – 2023",spreadsheet,106.29,https://nube.ine.gob.bo/index.php/s/iZJy9Xtlgi3k1Rq/download
 2024-10-11 09:12:26-04:00,BOLIVIA – NO MADERABLES EXTRAÍDOS 2006 – 2023,spreadsheet,100.28,https://nube.ine.gob.bo/index.php/s/zfsjOe4rg6hIJLc/download
@@ -1433,6 +1417,9 @@ modificado,nombre,tipo,kb,link
 2024-10-15 16:34:27-04:00,"Bolivia – Licencias Ambientales, según sector 2006 – 2023",spreadsheet,31.03,https://nube.ine.gob.bo/index.php/s/zBwGIvlT2IY6dnv/download
 2024-10-15 16:34:29-04:00,"Bolivia – Licencias Ambientales, según departamento 2006 – 2023",spreadsheet,47.31,https://nube.ine.gob.bo/index.php/s/NFUJqflwK5My6Qx/download
 2024-10-15 18:26:33-04:00,PRECIOS INTERNACIONALES DE PRINCIPALES PRODUCTOS DEL COMERCIO MUNDIAL (COMMODITIES) 1980 – 2024,spreadsheet,1077.40,https://nube.ine.gob.bo/index.php/s/dLQoAX3p6qGpwIH/download
+2024-10-17 17:20:50-04:00,Bolivia – Producción de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,121.39,https://nube.ine.gob.bo/index.php/s/KO5oEVNveSsP3Qm/download
+2024-10-17 17:22:19-04:00,Bolivia – Ventas de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,120.70,https://nube.ine.gob.bo/index.php/s/KkklD3dMnq2McoL/download
+2024-10-17 17:23:20-04:00,Bolivia – Consumo de Cemento por Departamento según Año y Mes 2000 – 2024,spreadsheet,95.21,https://nube.ine.gob.bo/index.php/s/8Zv5IDKUwWjvsDI/download
 2024-10-18 10:41:14-04:00,"Bolivia-Salida de Viajeros Internacionales, Por modo de Transporte y Tipo de Viajero Según Año y Mes 2008 – 2024",spreadsheet,100.78,https://nube.ine.gob.bo/index.php/s/sTK6urP3tpQmI14/download
 2024-10-18 10:54:55-04:00,"Bolivia-Salida de Viajeros Internacionales Vía Aérea, Por Aeropuerto y Tipo de Viajero Según Año y Mes 2008 – 2024",spreadsheet,107.72,https://nube.ine.gob.bo/index.php/s/2sbeNGWaGN511kk/download
 2024-10-18 11:30:32-04:00,"Bolivia-Salida de Viajeros Internacionales Vía Carretera, Por Puesto Fronterizo y Tipo de Viajero Según Año y Mes 2008 – 2024",spreadsheet,153.53,https://nube.ine.gob.bo/index.php/s/fk1hJcizpHrPMcD/download
@@ -1520,6 +1507,8 @@ modificado,nombre,tipo,kb,link
 2024-11-02 15:52:42-04:00,"BOLIVIA ESTRUCTURA DE LA OFERTA Y DEMANDA FINAL POR COMPONENTE SEGÚN TRIMESTRE, 1990 – 2024",spreadsheet,97.41,https://nube.ine.gob.bo/index.php/s/phJMKE91p2aqKze/download
 2024-11-02 15:52:42-04:00,"BOLIVIA INCIDENCIA EN LA OFERTA Y DEMANDA FINAL A PRECIOS CONSTANTES POR COMPONENTE SEGÚN TRIMESTRE, 1991 – 2024",spreadsheet,98.12,https://nube.ine.gob.bo/index.php/s/vHUL8apJcv78pVl/download
 2024-11-02 15:52:42-04:00,"BOLIVIA: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES POR TIPO DE GASTO SEGÚN TRIMESTRE, 1990 – 2024",spreadsheet,99.55,https://nube.ine.gob.bo/index.php/s/we861YSJwtiJWGr/download
+2024-11-04 10:22:50-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR CIUDADES, SEGÚN AÑO Y MES 2005 – 2024",spreadsheet,156.52,https://nube.ine.gob.bo/index.php/s/g5rkdQURLhKl37f/download
+2024-11-04 10:26:22-04:00,"BOLIVIA – RECOLECCIÓN DE RESIDUOS SÓLIDOS POR TIPO DE PROCEDENCIA, SEGÚN AÑO Y MES, 2005 – 2024",spreadsheet,147.22,https://nube.ine.gob.bo/index.php/s/GdeLDaLjgJS2TSV/download
 2024-11-04 17:38:58-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,400.23,https://nube.ine.gob.bo/index.php/s/NhHS8MAFr53FGG9/download
 2024-11-04 17:39:46-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,547.00,https://nube.ine.gob.bo/index.php/s/sgafrvDImYZlbze/download
 2024-11-04 17:40:27-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,448.45,https://nube.ine.gob.bo/index.php/s/WhI4iYWViLbNWwQ/download
@@ -1530,14 +1519,25 @@ modificado,nombre,tipo,kb,link
 2024-11-05 09:27:30-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos por Ciudad",spreadsheet,925.99,https://nube.ine.gob.bo/index.php/s/38CoH43sEMxXi1h/download
 2024-11-05 09:29:43-04:00,Índices a nivel producto,spreadsheet,2547.40,https://nube.ine.gob.bo/index.php/s/eKLFXez70DL7nMf/download
 2024-11-05 09:30:01-04:00,Ponderaciones a nivel producto,spreadsheet,373.87,https://nube.ine.gob.bo/index.php/s/G6gcvdlGwQbJtxq/download
+2024-11-05 09:30:35-04:00,Bolivia – Acopio de leche según Año y Mes 2018 – 2024,spreadsheet,128.20,https://nube.ine.gob.bo/index.php/s/BAjYkM2PpZ4LnTo/download
 2024-11-05 09:31:01-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,324.35,https://nube.ine.gob.bo/index.php/s/scuGe2bmFpXtn5c/download
 2024-11-05 09:32:23-04:00,Índice a nivel Productos,spreadsheet,690.46,https://nube.ine.gob.bo/index.php/s/F4cA4ykHTE1mLeg/download
 2024-11-05 09:33:03-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,800.27,https://nube.ine.gob.bo/index.php/s/HwvhRhtprUHvZjj/download
 2024-11-05 09:33:34-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,800.18,https://nube.ine.gob.bo/index.php/s/Tstdu7e2WjtBABr/download
+2024-11-05 09:34:22-04:00,Bolivia – Cargas de Pollitos BB A Granjas registradas por departamento según Año y Mes 2019 – 2024,spreadsheet,127.93,https://nube.ine.gob.bo/index.php/s/mYtBMlCLMg2CTvu/download
+2024-11-05 09:36:30-04:00,"Bolivia – Número de pollos parrilleros faenados de Granjas Registradas por departamento, según Año y Mes 2019 – 2024",spreadsheet,126.65,https://nube.ine.gob.bo/index.php/s/N2QW27YGHYzWg7V/download
 2024-11-05 09:37:00-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,362.59,https://nube.ine.gob.bo/index.php/s/YQSYQnbsVhp5eWc/download
+2024-11-05 09:39:18-04:00,Bolivia – Producción de Carne de pollos parrilleros de granjas registradas por deprtamento según Año y Mes 2019 – 2024,spreadsheet,130.60,https://nube.ine.gob.bo/index.php/s/x9MHeNGChkXIyaR/download
+2024-11-05 09:42:19-04:00,Bolivia – Producción de Carne de Ganado Bovino según Año y Mes por Ciudad 2005 – 2024,spreadsheet,149.07,https://nube.ine.gob.bo/index.php/s/Hf5zhf7eYeAVT0V/download
 2024-11-05 09:44:10-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,1437.66,https://nube.ine.gob.bo/index.php/s/6o011mOEhs6FVGY/download
+2024-11-05 09:44:17-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado Bovino según Año y Mes por Ciudad 2005 – 2024,spreadsheet,141.10,https://nube.ine.gob.bo/index.php/s/VASnWBKid2LjJIc/download
+2024-11-05 09:47:02-04:00,Bolivia – Producción de Carne de Ganado porcino según Año y Mes por Ciudad 2018 – 2024,spreadsheet,128.83,https://nube.ine.gob.bo/index.php/s/kzjz79a0NUF8NHh/download
+2024-11-05 09:49:44-04:00,Bolivia – Numero de Cabezas Faenadas de Ganado porcino según Año y Mes 2018 – 2024,spreadsheet,124.17,https://nube.ine.gob.bo/index.php/s/6rVnOXNJPPD1xhn/download
 2024-11-05 09:51:12-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,418.19,https://nube.ine.gob.bo/index.php/s/QNiMXtO6r7HWVUN/download
 2024-11-05 10:33:03-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,857.49,https://nube.ine.gob.bo/index.php/s/lwSn3rCEhmhbYRe/download
 2024-11-05 10:35:04-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,857.48,https://nube.ine.gob.bo/index.php/s/TNbtHuQZA1a8yZh/download
 2024-11-05 16:11:00-04:00,Reporte 2024,spreadsheet,85.10,https://nube.ine.gob.bo/index.php/s/3fOhWQmDf8DQlEe/download
 2024-11-05 17:57:37-04:00,Precios Promedio,spreadsheet,1620.34,https://nube.ine.gob.bo/index.php/s/8u9JgVjLI5CJBqv/download
+2024-11-06 13:10:43-04:00,"BOLIVIA – TEMPERATURA MEDIA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,168.27,https://nube.ine.gob.bo/index.php/s/VGXL4vgllkzp7a3/download
+2024-11-06 13:21:26-04:00,"BOLIVIA – PRECIPITACIÓN PLUVIAL ACUMULADA POR CIUDADES, SEGÚN AÑO Y MES, 1990 – 2024",spreadsheet,145.46,https://nube.ine.gob.bo/index.php/s/ItGu4xC8l8VMb96/download
+2024-11-08 18:58:25-04:00,"BOLIVIA – EVENTOS ADVERSOS DE ORIGEN NATURAL, SEGÚN CATEGORÍA POR DEPARTAMENTO, 2024",spreadsheet,100.84,https://nube.ine.gob.bo/index.php/s/P9vfMXYemsvSFk8/download
