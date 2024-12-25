@@ -788,8 +788,8 @@ modificado,nombre,tipo,kb,link
 2024-04-02 16:10:00-04:00,PAC 2024 – Tercera Reformulación,pdf,1695.21,https://nube.ine.gob.bo/index.php/s/hYVvpnlbnKcmRK8/download
 2024-04-03 15:02:24-04:00,ECE_3T_2023 URB,rar,7654.32,https://nube.ine.gob.bo/index.php/s/lvyKxVoUJGnUBTv/download
 2024-04-03 15:02:24-04:00,Cuestionario v8,pdf,886.49,https://nube.ine.gob.bo/index.php/s/ZabBM2d6HmbMaCL/download
-2024-04-03 15:02:24-04:00,ECE_3T_2023,rar,8788.71,https://nube.ine.gob.bo/index.php/s/CuvVTEnFSexJ8nb/download
 2024-04-03 15:02:24-04:00,ECE_3T_2023RUR,rar,1151.67,https://nube.ine.gob.bo/index.php/s/GeYjdBIhxMM0Asp/download
+2024-04-03 15:02:24-04:00,ECE_3T_2023,rar,8788.71,https://nube.ine.gob.bo/index.php/s/CuvVTEnFSexJ8nb/download
 2024-04-04 18:55:48-04:00,BOLETÍN ESTADÍSTICO PARQUE AUTOMOTOR 2023,pdf,5278.27,https://nube.ine.gob.bo/index.php/s/Efy8NDbkX7vy9PV/download
 2024-04-04 19:00:42-04:00,Estadísticas del Parque Automotor 2003 – 2023,pdf,1697.55,https://nube.ine.gob.bo/index.php/s/1Nvlkar1jKO250k/download
 2024-04-15 19:00:54-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES MARZO DE 2024,pdf,9553.54,https://nube.ine.gob.bo/index.php/s/547zu2zD0EHt51O/download
@@ -1015,11 +1015,11 @@ modificado,nombre,tipo,kb,link
 2024-08-14 19:40:34-04:00,"CHUQUISACA: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2023",spreadsheet,87.76,https://nube.ine.gob.bo/index.php/s/hHU8psn75hWR8fV/download
 2024-08-14 19:40:34-04:00,"LA PAZ: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2023",spreadsheet,88.50,https://nube.ine.gob.bo/index.php/s/h3nnTCmAw0PXoYA/download
 2024-08-14 19:40:34-04:00,"CHUQUISACA: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2023",spreadsheet,71.33,https://nube.ine.gob.bo/index.php/s/h1Tg8ga2FDD0DqZ/download
-2024-08-14 19:40:34-04:00,"TARIJA: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2023",spreadsheet,86.76,https://nube.ine.gob.bo/index.php/s/XFZtiPTrzqyCIaW/download
+2024-08-14 19:40:34-04:00,"SANTA CRUZ: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2023",spreadsheet,87.48,https://nube.ine.gob.bo/index.php/s/WFE06wQEezoctP5/download
 2024-08-14 19:40:34-04:00,"BENI: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2023",spreadsheet,88.12,https://nube.ine.gob.bo/index.php/s/f5jJXWvS5DT3joh/download
 2024-08-14 19:40:34-04:00,"POTOSÍ: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2023",spreadsheet,71.32,https://nube.ine.gob.bo/index.php/s/aPL4hvPoJKnW7T1/download
+2024-08-14 19:40:34-04:00,"TARIJA: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2023",spreadsheet,86.76,https://nube.ine.gob.bo/index.php/s/XFZtiPTrzqyCIaW/download
 2024-08-14 19:40:34-04:00,"BENI: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2023",spreadsheet,87.27,https://nube.ine.gob.bo/index.php/s/hwx1WCz3vwOBIAr/download
-2024-08-14 19:40:34-04:00,"SANTA CRUZ: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2023",spreadsheet,87.48,https://nube.ine.gob.bo/index.php/s/WFE06wQEezoctP5/download
 2024-08-14 19:40:34-04:00,"CHUQUISACA: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2023",spreadsheet,86.47,https://nube.ine.gob.bo/index.php/s/fjrtQnTVWO37WXD/download
 2024-08-14 19:40:34-04:00,"ORURO: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2023",spreadsheet,86.69,https://nube.ine.gob.bo/index.php/s/j2az8k6SKotxpMF/download
 2024-08-14 19:40:34-04:00,"SANTA CRUZ: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2023",spreadsheet,86.84,https://nube.ine.gob.bo/index.php/s/ndDJuunchuF1MpK/download
@@ -1066,9 +1066,9 @@ modificado,nombre,tipo,kb,link
 2024-08-14 19:40:36-04:00,"BOLIVIA: PRODUCTO INTERNO BRUTO PER CÁPITA A PRECIOS DE MERCADO EN DÓLARES ESTADOUNIDENSES, SEGÚN DEPARTAMENTO, 1988 – 2023
 ",spreadsheet,75.57,https://nube.ine.gob.bo/index.php/s/rECY7vKTTQttdAj/download
 2024-08-14 19:40:36-04:00,"PANDO: PRODUCTO INTERNO BRUTO PER CÁPITA, 1988 – 2023",spreadsheet,71.76,https://nube.ine.gob.bo/index.php/s/pKjJW71TwI9vzaV/download
-2024-08-14 19:40:36-04:00,"BOLIVIA: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO, SEGÚN DEPARTAMENTO, 1988 – 2023",spreadsheet,75.58,https://nube.ine.gob.bo/index.php/s/gFZ8WCmJA0QLXmt/download
 2024-08-14 19:40:36-04:00,"PANDO: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2023",spreadsheet,86.21,https://nube.ine.gob.bo/index.php/s/cR0vnfwQMvNbTE6/download
 2024-08-14 19:40:36-04:00,"PANDO: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2023",spreadsheet,85.59,https://nube.ine.gob.bo/index.php/s/a6I3bgB5p9hZUSo/download
+2024-08-14 19:40:36-04:00,"BOLIVIA: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO, SEGÚN DEPARTAMENTO, 1988 – 2023",spreadsheet,75.58,https://nube.ine.gob.bo/index.php/s/gFZ8WCmJA0QLXmt/download
 2024-08-14 19:40:36-04:00,"PANDO: PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES, SEGÚN ACTIVIDAD ECONÓMICA, 1988 – 2023",spreadsheet,87.29,https://nube.ine.gob.bo/index.php/s/XfJF9Zv24VAg88d/download
 2024-08-14 19:40:36-04:00,"PANDO: VARIACION DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES, SEGÚN ACTIVIDAD ECONÓMICA, 1989 – 2023",spreadsheet,86.02,https://nube.ine.gob.bo/index.php/s/Pz4su0x9IRmGUZe/download
 2024-08-14 19:40:36-04:00,"BOLIVIA: PARTICIPACIÓN DEPARTAMENTAL EN EL PRODUCTO INTERNO BRUTO, SEGÚN DEPARTAMENTO, 1988 – 2023",spreadsheet,74.93,https://nube.ine.gob.bo/index.php/s/PEtIcuVdcCqsejn/download
@@ -1218,12 +1218,12 @@ modificado,nombre,tipo,kb,link
 2024-11-02 15:52:42-04:00,"BOLIVIA: INCIDENCIA EN EL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES POR ACTIVIDAD ECONÓMICA SEGÚN TRIMESTRE, 1991 – 2024",spreadsheet,118.53,https://nube.ine.gob.bo/index.php/s/c8OonO8w4hhZ0zf/download
 2024-11-02 15:52:42-04:00,"BOLIVIA: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES POR ACTIVIDAD ECONÓMICA SEGÚN TRIMESTRE, 1990 – 2024",spreadsheet,117.03,https://nube.ine.gob.bo/index.php/s/Vf268PG197RCdbG/download
 2024-11-02 15:52:42-04:00,"BOLIVIA: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES POR ACTIVIDAD ECONÓMICA SEGÚN TRIMESTRE, 1990 – 2024",spreadsheet,120.92,https://nube.ine.gob.bo/index.php/s/TmDFo5jFlYnF6Ff/download
-2024-11-02 15:52:42-04:00,"BOLIVIA: VARIACIÓN ACUMULADA DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES POR ACTIVIDAD ECONÓMICA SEGÚN TRIMESTRE, 1991 – 2024",spreadsheet,117.41,https://nube.ine.gob.bo/index.php/s/ERk0tuC27pZ1eOo/download
+2024-11-02 15:52:42-04:00,"BOLIVIA: VARIACIÓN CON RELACIÓN A SIMILAR PERIODO DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES POR ACTIVIDAD ECONÓMICA SEGÚN TRIMESTRE, 1991 – 2024",spreadsheet,120.96,https://nube.ine.gob.bo/index.php/s/Fk8QQs0v16d1rxL/download
 2024-11-02 15:52:42-04:00,"BOLIVIA VARIACIÓN ACUMULADA DE LA OFERTA Y DEMANDA FINAL A PRECIOS CONSTANTES POR COMPONENTE SEGÚN TRIMESTRE, 1991 – 2024",spreadsheet,98.04,https://nube.ine.gob.bo/index.php/s/OUPAVhMn4vA8AUL/download
 2024-11-02 15:52:42-04:00,"BOLIVIA: PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES POR TIPO DE GASTO SEGÚN TRIMESTRE, 1990 – 2024",spreadsheet,100.50,https://nube.ine.gob.bo/index.php/s/M5sdcIURWLvPKLv/download
 2024-11-02 15:52:42-04:00,"BOLIVIA: INCIDENCIA EN EL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES POR TIPO DE GASTO SEGÚN TRIMESTRE, 1991 – 2024",spreadsheet,96.62,https://nube.ine.gob.bo/index.php/s/GjGGAXl6sPuRiMX/download
-2024-11-02 15:52:42-04:00,"BOLIVIA: VARIACIÓN CON RELACIÓN A SIMILAR PERIODO DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES POR ACTIVIDAD ECONÓMICA SEGÚN TRIMESTRE, 1991 – 2024",spreadsheet,120.96,https://nube.ine.gob.bo/index.php/s/Fk8QQs0v16d1rxL/download
 2024-11-02 15:52:42-04:00,"BOLIVIA: VARIACIÓN ACUMULADA DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES POR TIPO DE GASTO SEGÚN TRIMESTRE, 1991 – 2024",spreadsheet,96.86,https://nube.ine.gob.bo/index.php/s/PVcCHAJQeByt7zT/download
+2024-11-02 15:52:42-04:00,"BOLIVIA: VARIACIÓN ACUMULADA DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES POR ACTIVIDAD ECONÓMICA SEGÚN TRIMESTRE, 1991 – 2024",spreadsheet,117.41,https://nube.ine.gob.bo/index.php/s/ERk0tuC27pZ1eOo/download
 2024-11-02 15:52:42-04:00,"BOLIVIA: VARIACIÓN A DOCE MESES DEL PRODUCTO INTERNO BRUTO A PRECIOS CONSTANTES POR ACTIVIDAD ECONÓMICA SEGÚN TRIMESTRE, 1992- 2024",spreadsheet,116.51,https://nube.ine.gob.bo/index.php/s/98Ch4KFSdhKBePe/download
 2024-11-02 15:52:42-04:00,"BOLIVIA: PARTICIPACIÓN EN EL PRODUCTO INTERNO BRUTO A PRECIOS CORRIENTES POR TIPO DE GASTO SEGÚN TRIMESTRE, 1990 – 2024",spreadsheet,97.54,https://nube.ine.gob.bo/index.php/s/55s9IdLmUsgNZY0/download
 2024-11-02 15:52:42-04:00,"BOLIVIA: DEFLACTOR IMPLÍCITO DEL PRODUCTO INTERNO BRUTO POR ACTIVIDAD ECONÓMICA SEGÚN TRIMESTRE, 1990 – 2024",spreadsheet,118.85,https://nube.ine.gob.bo/index.php/s/2pQlvkQCmVHTYw1/download
@@ -1239,22 +1239,22 @@ modificado,nombre,tipo,kb,link
 2024-11-15 23:07:56-04:00,"Bolivia – Exportaciones según Departamento y Producto por Año y Mes, 2017 – 2024",spreadsheet,875.76,https://nube.ine.gob.bo/index.php/s/Z2K43QnfeGoT0we/download
 2024-11-15 23:07:56-04:00,"Bolivia – Exportaciones según Actividad Económica y Producto por Año y Mes, 1992 – 2024",spreadsheet,1273.09,https://nube.ine.gob.bo/index.php/s/yJT9Q8KKyvhG4pi/download
 2024-11-15 23:07:58-04:00,"Bolivia – Exportaciones según Grandes Categorías Económicas por Año y Mes, 1992 – 2024",spreadsheet,854.37,https://nube.ine.gob.bo/index.php/s/xwkBkig3lAy9uMr/download
-2024-11-15 23:07:58-04:00,"Bolivia- Exportaciones según Productos Tradicionales y No Tradicionales por Año y Mes, 1992 – 2024",spreadsheet,882.95,https://nube.ine.gob.bo/index.php/s/zUQc65wIGkw1KUy/download
 2024-11-15 23:07:58-04:00,Bolivia – Importaciones según Clasificación Uso o Destino Económico por Año y Mes 1992 – 2024,spreadsheet,1014.55,https://nube.ine.gob.bo/index.php/s/uVLkFa0Hr1vtlSb/download
+2024-11-15 23:07:58-04:00,"Bolivia- Exportaciones según Productos Tradicionales y No Tradicionales por Año y Mes, 1992 – 2024",spreadsheet,882.95,https://nube.ine.gob.bo/index.php/s/zUQc65wIGkw1KUy/download
 2024-11-15 23:07:58-04:00,Bolivia – Importaciones según Clasificación Uniforme para el Comercio Internacional por Año y Mes 1992 – 2024,spreadsheet,1249.14,https://nube.ine.gob.bo/index.php/s/sK59y78md8YZKSn/download
 2024-11-15 23:07:58-04:00,"Bolivia – Comercio Exterior según Grandes Categorías Económicas, 1992 – 2024",spreadsheet,951.20,https://nube.ine.gob.bo/index.php/s/oXl98KJQsspLm0a/download
 2024-11-15 23:07:58-04:00,"Bolivia – Comercio Exterior según Año, 1992 – 2023",spreadsheet,540.40,https://nube.ine.gob.bo/index.php/s/nMPCP2wBQqnx7c1/download
 2024-11-15 23:07:58-04:00,Bolivia – Importaciones por Año y Mes 1992 – 2024,spreadsheet,559.50,https://nube.ine.gob.bo/index.php/s/jYn9F8zMaAiAj3C/download
 2024-11-15 23:07:58-04:00,"Bolivia – Comercio Exterior según Año y Mes, 1992 – 2024",spreadsheet,562.32,https://nube.ine.gob.bo/index.php/s/YmNagUYOHcty0fZ/download
 2024-11-15 23:07:58-04:00,"Bolivia – Exportaciones según Departamento y Producto por Año, 2010 – 2024",spreadsheet,572.52,https://nube.ine.gob.bo/index.php/s/WZY6zSwUD3XV1sc/download
-2024-11-15 23:07:58-04:00,"Bolivia – Comercio Exterior según Países, 1992 – 2024",spreadsheet,2541.96,https://nube.ine.gob.bo/index.php/s/0rN1yGRumyuIVHx/download
+2024-11-15 23:07:58-04:00,"Bolivia – Importaciones Agregadas según Clasificación Uso o Destino Económico por Año y Mes, 1992 – 2024",spreadsheet,724.82,https://nube.ine.gob.bo/index.php/s/3MDafqtdVNXRwmU/download
 2024-11-15 23:07:58-04:00,"Bolivia – Comercio Exterior según Año y Trimestre, 1992 – 2024",spreadsheet,546.82,https://nube.ine.gob.bo/index.php/s/SYFayaacIfBi6tB/download
 2024-11-15 23:07:58-04:00,"Bolivia – Exportaciones según País de Destino por Año y Mes, 1992 – 2024",spreadsheet,1460.59,https://nube.ine.gob.bo/index.php/s/S01Wuf1I35GbFDA/download
 2024-11-15 23:07:58-04:00,Bolivia – Importaciones según Grandes Categorías Económicas por Año y Mes 1992 – 2024,spreadsheet,792.49,https://nube.ine.gob.bo/index.php/s/PeKYjrquj8UOjyA/download
 2024-11-15 23:07:58-04:00,Bolivia – Importaciones según País de Origen por Año y Mes 1992 – 2024,spreadsheet,1776.84,https://nube.ine.gob.bo/index.php/s/PIKeAYbOtD47sAY/download
 2024-11-15 23:07:58-04:00,Bolivia – Importaciones según Clasificación Internacional Industrial Uniforme por Año y Mes 1992 – 2024,spreadsheet,902.90,https://nube.ine.gob.bo/index.php/s/JqbOsowvzhvzt4E/download
 2024-11-15 23:07:58-04:00,"Bolivia – Comercio Exterior según Clasificación Uniforme para el Comercio Internacional, 1992 – 2024",spreadsheet,1694.77,https://nube.ine.gob.bo/index.php/s/9Exzmw9AdYipqG9/download
-2024-11-15 23:07:58-04:00,"Bolivia – Importaciones Agregadas según Clasificación Uso o Destino Económico por Año y Mes, 1992 – 2024",spreadsheet,724.82,https://nube.ine.gob.bo/index.php/s/3MDafqtdVNXRwmU/download
+2024-11-15 23:07:58-04:00,"Bolivia – Comercio Exterior según Países, 1992 – 2024",spreadsheet,2541.96,https://nube.ine.gob.bo/index.php/s/0rN1yGRumyuIVHx/download
 2024-11-15 23:07:58-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año y Mes, 2017 – 2024",spreadsheet,901.46,https://nube.ine.gob.bo/index.php/s/0ToRunCr9uUpLOH/download
 2024-11-15 23:07:58-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año, 2010 – 2024",spreadsheet,1464.10,https://nube.ine.gob.bo/index.php/s/UM0CTaUNXnPUSX4/download
 2024-11-20 11:28:21-04:00,Bolivia – Producción de Cemento por Departamento según Año y Mes 1991 – 2024,spreadsheet,122.08,https://nube.ine.gob.bo/index.php/s/KO5oEVNveSsP3Qm/download
@@ -1453,10 +1453,10 @@ modificado,nombre,tipo,kb,link
 2024-12-06 16:45:56-04:00,"BOLIVIA: TASA DE EFECTIVOS EN LA EDUCACIÓN PÚBLICA Y PRIVADA POR SEXO, SEGÚN NIVEL EDUCATIVO, DEPARTAMENTO Y DEPENDENCIA, 2012 – 2022",spreadsheet,117.14,https://nube.ine.gob.bo/index.php/s/zOC1n5DoM9ippYQ/download
 2024-12-06 16:45:56-04:00,"BOLIVIA: TASA DE PROMOVIDOS EN LA EDUCACIÓN PÚBLICA Y PRIVADA POR SEXO, SEGÚN NIVEL EDUCATIVO, DEPARTAMENTO Y DEPENDENCIA, 2012 – 2022",spreadsheet,113.73,https://nube.ine.gob.bo/index.php/s/Y5tfs5YcUgWbgla/download
 2024-12-06 16:45:56-04:00,"BOLIVIA: DIRECTORES EN LA EDUCACIÓN PÚBLICA, SEGÚN NIVEL DE EDUCACIÓN Y DEPARTAMENTO, 2011 – 2022",spreadsheet,58.90,https://nube.ine.gob.bo/index.php/s/WaRhxnH2yd0hHWy/download
-2024-12-06 16:45:56-04:00,"BOLIVIA: POBLACIÓN MATRICULADA EN LA EDUCACIÓN PÚBLICA Y PRIVADA, POR SEXO, SEGÚN NIVEL EDUCATIVO, DEPARTAMENTO Y DEPENDENCIA, 2011 – 2022",spreadsheet,113.16,https://nube.ine.gob.bo/index.php/s/RYXY5KqRMX5ubmu/download
 2024-12-06 16:45:56-04:00,"BOLIVIA: TASA DE REPROBADOS EN LA EDUCACIÓN PÚBLICA Y PRIVADA POR SEXO, SEGÚN NIVEL EDUCATIVO, DEPARTAMENTO Y DEPENDENCIA, 2012 – 2022",spreadsheet,101.28,https://nube.ine.gob.bo/index.php/s/NCJKLmSoeICaYYh/download
-2024-12-06 16:45:56-04:00,"BOLIVIA: RECURSOS FÍSICOS Y HUMANOS EN LA EDUCACIÓN REGULAR, SEGÚN DEPARTAMENTO, 2011 – 2022",spreadsheet,62.44,https://nube.ine.gob.bo/index.php/s/H6GtYQt779wNJSk/download
+2024-12-06 16:45:56-04:00,"BOLIVIA: POBLACIÓN MATRICULADA EN LA EDUCACIÓN PÚBLICA Y PRIVADA, POR SEXO, SEGÚN NIVEL EDUCATIVO, DEPARTAMENTO Y DEPENDENCIA, 2011 – 2022",spreadsheet,113.16,https://nube.ine.gob.bo/index.php/s/RYXY5KqRMX5ubmu/download
 2024-12-06 16:45:56-04:00,"BOLIVIA: TASA DE ABANDONO EN LA EDUCACIÓN PÚBLICA Y PRIVADA POR SEXO, SEGÚN NIVEL EDUCATIVO, DEPARTAMENTO Y DEPENDENCIA, 2012- 2022",spreadsheet,114.87,https://nube.ine.gob.bo/index.php/s/EQdD9FLrhXKPTJZ/download
+2024-12-06 16:45:56-04:00,"BOLIVIA: RECURSOS FÍSICOS Y HUMANOS EN LA EDUCACIÓN REGULAR, SEGÚN DEPARTAMENTO, 2011 – 2022",spreadsheet,62.44,https://nube.ine.gob.bo/index.php/s/H6GtYQt779wNJSk/download
 2024-12-06 16:45:56-04:00,"BOLIVIA: PERSONAL ADMINISTRATIVO DE UNIDADES EDUCATIVAS EN LA EDUCACIÓN PÚBLICA, SEGÚN CARGO Y DEPARTAMENTO, 2011 – 2022",spreadsheet,61.27,https://nube.ine.gob.bo/index.php/s/BxpU6xlgtmyFhiJ/download
 2024-12-06 16:45:56-04:00,"BOLIVIA: DOCENTES EN EJERCICIO EN LA EDUCACIÓN PÚBLICA, SEGÚN NIVEL DE EDUCACIÓN Y DEPARTAMENTO, 2012 – 2022",spreadsheet,59.55,https://nube.ine.gob.bo/index.php/s/3MtwZHa7j4KCyo8/download
 2024-12-06 16:45:56-04:00,"BOLIVIA: LOCALES Y UNIDADES EDUCATIVAS EN LA EDUCACIÓN REGULAR, SEGÚN DEPARTAMENTO, 2011 – 2022",spreadsheet,58.78,https://nube.ine.gob.bo/index.php/s/11XPQlf1OIInZqm/download
@@ -1553,3 +1553,4 @@ modificado,nombre,tipo,kb,link
 2024-12-20 17:32:39-04:00,Bolivia – Exportaciones de Oro según Año y Mes 1990 – 2024,spreadsheet,86.06,https://nube.ine.gob.bo/index.php/s/5lHMdFH2xrjjlKp/download
 2024-12-20 17:39:57-04:00,Bolivia – Superficie registrada en Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2024,excel,181.00,https://nube.ine.gob.bo/index.php/s/Ys6tEPQpLWYR4ba/download
 2024-12-20 17:40:23-04:00,Bolivia – Número de Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2024,excel,170.00,https://nube.ine.gob.bo/index.php/s/jLb5wFW0JvKCqtR/download
+2024-12-24 11:50:10-04:00,"“SERVICIO DE PROVISIÓN DE PASAJES AÉREOS PARA EL INSTITUTO NACIONAL DE ESTADÍSTICA (GESTIÓN 2025)”, TERCERA CONVOCATORIA – SEGUNDA PUBLICACIÓN",pdf,441.54,https://nube.ine.gob.bo/index.php/s/2updSxjKsx5BGS6/download
