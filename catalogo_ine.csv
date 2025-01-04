@@ -1281,7 +1281,7 @@ modificado,nombre,tipo,kb,link
 2024-12-04 11:50:30-04:00,"BOLIVIA: POBLACION SEGÚN DEPARTAMENTO A SANEAMIENTO MEJORADO, 2011 – 2023",spreadsheet,554.05,https://nube.ine.gob.bo/index.php/s/Ax3gXAPdnAPxGLy/download
 2024-12-04 11:51:53-04:00,"BOLIVIA: POBLACIÓN SEGÚN ÁREA Y ACCESO A SANEAMIENTO MEJORADO, 2011 – 2023",spreadsheet,555.62,https://nube.ine.gob.bo/index.php/s/Z2Ke12ojN7H25CX/download
 2024-12-04 11:52:55-04:00,"BOLIVIA: POBLACION SEGÚN DEPARTAMENTO Y ACCESO A FUENTE MEJORADA DE AGUA, 2011 – 2023",spreadsheet,554.18,https://nube.ine.gob.bo/index.php/s/joDXlnK8rIj5ZFH/download
-2024-12-04 11:57:06-04:00,"BOLIVIA: HOGARES SEGÚN DEPARTAMENTO Y DESAGÜE DEL BAÑO O SERVICIO SANITARIO, 2011-2023",spreadsheet,542.21,https://nube.ine.gob.bo/index.php/s/6xAh0SyrFXjbY4A/download
+2024-12-04 11:57:06-04:00,"BOLIVIA: HOGARES SEGÚN ÁREA  Y DESAGÜE DEL BAÑO O SERVICIO SANITARIO, 2011-2023",spreadsheet,542.21,https://nube.ine.gob.bo/index.php/s/6xAh0SyrFXjbY4A/download
 2024-12-04 12:01:40-04:00,"BOLIVIA: HOGARES SEGÚN DEPARTAMENTO Y MODALIDAD DE USO DEL BAÑO O SERVICIO SANITARIO, 2011-2023",spreadsheet,545.38,https://nube.ine.gob.bo/index.php/s/oSTAPVh42chDz1Y/download
 2024-12-04 12:04:35-04:00,"BOLIVIA: HOGARES SEGÚN ÁREA Y MODALIDAD DE USO DEL BAÑO O SERVICIO SANITARIO, 2011 – 2023",spreadsheet,548.99,https://nube.ine.gob.bo/index.php/s/7uYpgTsJEsdDmJ5/download
 2024-12-04 12:05:38-04:00,"BOLIVIA: HOGARES SEGÚN ÁREA Y DISPONIBILIDAD DE ENERGÍA ELÉCTRICA, 2011 – 2023",spreadsheet,539.48,https://nube.ine.gob.bo/index.php/s/GBCMTSW67e8BE65/download
@@ -1317,19 +1317,14 @@ modificado,nombre,tipo,kb,link
 2024-12-04 12:45:07-04:00,"COCHABAMBA: INGRESO PROMEDIO MENSUAL EN LA OCUPACIÓN PRINCIPAL, SEGÚN CARACTERÍSTICAS OCUPACIONALES, 2011 – 2023",spreadsheet,67.43,https://nube.ine.gob.bo/index.php/s/Pysg574JzV1sFcw/download
 2024-12-04 12:45:58-04:00,"ORURO: INGRESO PROMEDIO MENSUAL EN LA OCUPACIÓN PRINCIPAL, SEGÚN CARACTERÍSTICAS OCUPACIONALES, 2011 – 2023",spreadsheet,65.95,https://nube.ine.gob.bo/index.php/s/8FKHg3Cn8vPIkqR/download
 2024-12-04 12:46:41-04:00,"POTOSÍ: INGRESO PROMEDIO MENSUAL EN LA OCUPACIÓN PRINCIPAL, SEGÚN CARACTERÍSTICAS OCUPACIONALES, 2011 – 2023",spreadsheet,68.26,https://nube.ine.gob.bo/index.php/s/FcV8oBoDoCMH6rM/download
-2024-12-04 12:46:56-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,325.19,https://nube.ine.gob.bo/index.php/s/aNr87MK9MarO5ZN/download
 2024-12-04 12:47:27-04:00,"TARIJA: INGRESO PROMEDIO MENSUAL EN LA OCUPACIÓN PRINCIPAL, SEGÚN CARACTERÍSTICAS OCUPACIONALES, 2011 – 2023",spreadsheet,72.64,https://nube.ine.gob.bo/index.php/s/AGOaXWxP3tBn7uu/download
 2024-12-04 12:48:13-04:00,"SANTA CRUZ: INGRESO PROMEDIO MENSUAL EN LA OCUPACIÓN PRINCIPAL, SEGÚN CARACTERÍSTICAS OCUPACIONALES, 2011 – 2023",spreadsheet,66.55,https://nube.ine.gob.bo/index.php/s/9p2iKeXwgGAmmTb/download
-2024-12-04 12:48:42-04:00,Índice a nivel Productos,spreadsheet,649.07,https://nube.ine.gob.bo/index.php/s/T1C8rfGlQP7onVz/download
-2024-12-04 12:48:54-04:00,Ponderaciones  a nivel Productos,spreadsheet,252.15,https://nube.ine.gob.bo/index.php/s/JtAGOxZ6FrD6ij0/download
 2024-12-04 12:49:53-04:00,"BENI: INGRESO PROMEDIO MENSUAL EN LA OCUPACIÓN PRINCIPAL, SEGÚN CARACTERÍSTICAS OCUPACIONALES, 2011 – 2023",spreadsheet,66.70,https://nube.ine.gob.bo/index.php/s/fCJgof0XM2BMbEn/download
 2024-12-04 12:50:50-04:00,"PANDO: INGRESO PROMEDIO MENSUAL EN LA OCUPACIÓN PRINCIPAL, SEGÚN CARACTERÍSTICAS OCUPACIONALES, 2011 – 2023",spreadsheet,70.91,https://nube.ine.gob.bo/index.php/s/wEY6RVOxWjmCijW/download
 2024-12-04 12:52:08-04:00,"BOLIVIA: COBERTURA DE SEGUROS DE SALUD, SEGÚN SEXO Y SECTOR, 2011-2023",spreadsheet,57.74,https://nube.ine.gob.bo/index.php/s/MvEVt0xd2pfoJue/download
-2024-12-04 12:52:47-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,800.22,https://nube.ine.gob.bo/index.php/s/dhM5j1mrrDIzWxF/download
 2024-12-04 12:53:05-04:00,"BOLIVIA: COBERTURA DE SEGUROS DE SALUD, SEGÚN ÁREA Y SECTOR, 2011-2023",spreadsheet,57.71,https://nube.ine.gob.bo/index.php/s/hjDrKdPKrALAVSU/download
 2024-12-04 12:53:39-04:00,"BOLIVIA: COBERTURA DE SEGUROS DE SALUD, SEGÚN DEPARTAMENTO Y SECTOR, 2011-2023",spreadsheet,58.56,https://nube.ine.gob.bo/index.php/s/g2qsqDEfSPN2hKM/download
 2024-12-04 12:54:22-04:00,"BOLIVIA: POBLACIÓN REGISTRADA O AFILIADA A SEGUROS DE SALUD, SEGÚN SEXO Y SECTOR, 2011-2023",spreadsheet,49.68,https://nube.ine.gob.bo/index.php/s/QENMTkakBt1pglk/download
-2024-12-04 12:54:50-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,363.70,https://nube.ine.gob.bo/index.php/s/s5PwUOFad5HeCFb/download
 2024-12-04 12:55:31-04:00,"BOLIVIA: POBLACIÓN REGISTRADA O AFILIADA A SEGUROS DE SALUD, SEGÚN ÁREA Y SECTOR, 2011-2023",spreadsheet,50.16,https://nube.ine.gob.bo/index.php/s/nXkCywOxOmYOQMv/download
 2024-12-04 12:57:17-04:00,"BOLIVIA: POBLACIÓN REGISTRADA O AFILIADA A SEGUROS DE SALUD, SEGÚN DEPARTAMENTO Y SECTOR, 2011-2023",spreadsheet,58.77,https://nube.ine.gob.bo/index.php/s/wi9hzGcYur11veb/download
 2024-12-04 13:09:27-04:00,"BOLIVIA:INDICADORES DE POBREZA EXTREMA(1), SEGÚN ÁREA, 2016-2023",spreadsheet,285.45,https://nube.ine.gob.bo/index.php/s/6ffM4Tt50ILU23N/download
@@ -1346,18 +1341,7 @@ modificado,nombre,tipo,kb,link
 2024-12-04 13:22:45-04:00,"BOLIVIA: POBLACIÓN QUE POR PROBLEMAS DE SALUD ACUDE A ESTABLECIMIENTOS DE SALUD O ATIENDE SU SALUD CON SOLUCIONES CASERAS O AUTOMEDICACIÓN, SEGÚN ÁREA, 2014 – 2019, 2021 – 2023",spreadsheet,55.56,https://nube.ine.gob.bo/index.php/s/zRJFOv5uI52OFcx/download
 2024-12-04 13:23:28-04:00,"BOLIVIA: POBLACIÓN QUE POR PROBLEMAS DE SALUD ACUDE A ESTABLECIMIENTOS DE SALUD O ATIENDE SU SALUD CON SOLUCIONES CASERAS O AUTOMEDICACIÓN, SEGÚN DEPARTAMENTO, 2014 – 2019, 2021 – 2023",spreadsheet,65.07,https://nube.ine.gob.bo/index.php/s/IdK6nSV4lSWxsEB/download
 2024-12-04 13:23:50-04:00,"BOLIVIA: POBLACIÓN QUE POR PROBLEMAS DE SALUD ACUDE A ESTABLECIMIENTOS DE SALUD O ATIENDE SU SALUD CON SOLUCIONES CASERAS O AUTOMEDICACIÓN, SEGÚN SEXO, 2014 – 2019, 2021 – 2023",spreadsheet,55.50,https://nube.ine.gob.bo/index.php/s/f9Q249yMWNK2sbN/download
-2024-12-04 14:23:51-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,1443.71,https://nube.ine.gob.bo/index.php/s/ITuoKJ6TLSw47AV/download
-2024-12-04 14:38:19-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos por Ciudad",spreadsheet,926.21,https://nube.ine.gob.bo/index.php/s/78PWX3ZYVlhEoB8/download
-2024-12-04 14:42:09-04:00,Ponderaciones a nivel producto,spreadsheet,374.24,https://nube.ine.gob.bo/index.php/s/fKi1sa6nk5nQCiV/download
 2024-12-04 14:42:18-04:00,Ponderación a nivel de Ciudades Capitales y Conurbaciones,spreadsheet,232.84,https://nube.ine.gob.bo/index.php/s/gOFQOrw8mZRgpa4/download
-2024-12-04 14:46:24-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,402.52,https://nube.ine.gob.bo/index.php/s/5yJUG86AGadcLU0/download
-2024-12-04 14:49:54-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,400.65,https://nube.ine.gob.bo/index.php/s/9OU44eLHCooxcTF/download
-2024-12-04 14:52:33-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,547.97,https://nube.ine.gob.bo/index.php/s/ELK8juWT6WfP7fB/download
-2024-12-04 14:52:53-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,449.56,https://nube.ine.gob.bo/index.php/s/cBQlCyxheOd507g/download
-2024-12-04 14:57:06-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,857.41,https://nube.ine.gob.bo/index.php/s/dBWYcocgEOY64yX/download
-2024-12-04 15:01:04-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,999.17,https://nube.ine.gob.bo/index.php/s/t1CKKtVO5CLImch/download
-2024-12-04 15:10:06-04:00,Índices a nivel producto,spreadsheet,2275.92,https://nube.ine.gob.bo/index.php/s/EIUV0e4e3VHFu3z/download
-2024-12-04 15:13:25-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,800.14,https://nube.ine.gob.bo/index.php/s/heAVB1pk8wtXBYI/download
 2024-12-05 09:15:14-04:00,"BOLIVIA: RECURSOS HUMANOS EN LA SEGURIDAD SOCIAL A CORTO PLAZO, SEGÚN DEPARTAMENTO, 1998 – 2022",spreadsheet,82.34,https://nube.ine.gob.bo/index.php/s/G9lORInppiWVY11/download
 2024-12-05 09:18:58-04:00,"BOLIVIA: PARTOS Y NACIMIENTOS ATENDIDOS EN LA SEGURIDAD SOCIAL A CORTO PLAZO, POR TIPO Y CONDICIÓN AL NACER, SEGÚN DEPARTAMENTO, 1999 – 2022",spreadsheet,85.07,https://nube.ine.gob.bo/index.php/s/PeSXn0wMH6mr6xV/download
 2024-12-05 09:19:05-04:00,"BOLIVIA: EGRESOS HOSPITALARIOS EN LA SEGURIDAD SOCIAL A CORTO PLAZO, SEGÚN DEPARTAMENTO, ALTAS Y DEFUNCIONES, 1994 – 2022",spreadsheet,73.41,https://nube.ine.gob.bo/index.php/s/CQNDg5NJcBWSvSB/download
@@ -1372,11 +1356,7 @@ modificado,nombre,tipo,kb,link
 2024-12-05 14:51:24-04:00,"BOLIVIA: INDICADORES DE POBREZA, SEGÚN ÁREA, 2005 – 2018",spreadsheet,549.82,https://nube.ine.gob.bo/index.php/s/n7Drl2WMNf6cfDy/download
 2024-12-05 14:54:16-04:00,"BOLIVIA: INCIDENCIA DE POBREZA, SEGÚN DEPARTAMENTO, 2011-2018",spreadsheet,337.09,https://nube.ine.gob.bo/index.php/s/IqZubEghukY3zsS/download
 2024-12-05 15:50:54-04:00,Normativa Técnica de la Encuesta de Hogares 2024,pdf,16760.72,https://nube.ine.gob.bo/index.php/s/Yt6LYYdhin91Pcr/download
-2024-12-05 16:13:50-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos por Ciudad",spreadsheet,925.80,https://nube.ine.gob.bo/index.php/s/HquKxax4ZnqxCZe/download
 2024-12-05 16:26:00-04:00,"BOLIVIA: LÍNEAS DE POBREZA Y POBREZA EXTREMA EN BOLIVIANOS POR PERSONA AL MES, SEGÚN ÁREA Y CIUDAD 2016 – 2023",spreadsheet,295.16,https://nube.ine.gob.bo/index.php/s/9fxl3w1m1sM6hFm/download
-2024-12-05 16:34:06-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,2373.98,https://nube.ine.gob.bo/index.php/s/3XLSD2DYERyihZC/download
-2024-12-05 16:35:37-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,857.43,https://nube.ine.gob.bo/index.php/s/fnnh18xF7ndZEMz/download
-2024-12-05 16:36:20-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,1000.10,https://nube.ine.gob.bo/index.php/s/nOxoT0PDKZmVgg9/download
 2024-12-06 08:32:00-04:00,Reporte 2024,spreadsheet,88.89,https://nube.ine.gob.bo/index.php/s/3fOhWQmDf8DQlEe/download
 2024-12-06 10:38:58-04:00,"BOLIVIA: NIVEL DE INSTRUCCIÓN ALCANZADO POR LA POBLACIÓN DE 19 AÑOS O MÁS EDAD POR SEXO, SEGÚN ÁREA, 2011 – 2023",spreadsheet,84.67,https://nube.ine.gob.bo/index.php/s/7glyCeGM8VOs2i7/download
 2024-12-06 10:41:00-04:00,"BOLIVIA: NIVEL DE INSTRUCCIÓN ALCANZADO POR LA POBLACIÓN DE 19 AÑOS O MÁS EDAD POR SEXO, SEGÚN DEPARTAMENTO, 2011 – 2023",spreadsheet,110.46,https://nube.ine.gob.bo/index.php/s/uiLVtPaJA4G7pEl/download
@@ -1390,7 +1370,6 @@ modificado,nombre,tipo,kb,link
 2024-12-06 10:57:06-04:00,"BOLIVIA: AÑOS PROMEDIO DE ESTUDIO DE LA POBLACIÓN DE 19 AÑOS O MÁS DE EDAD POR SEXO, SEGÚN ÁREA, 2011 – 2023",spreadsheet,65.09,https://nube.ine.gob.bo/index.php/s/pyNlxnnRgxO0VjE/download
 2024-12-06 10:59:49-04:00,"BOLIVIA: AÑOS PROMEDIO DE ESTUDIO DE LA POBLACIÓN DE 19 AÑOS O MÁS DE EDAD POR SEXO, SEGÚN DEPARTAMENTO, 2011 – 2023",spreadsheet,77.03,https://nube.ine.gob.bo/index.php/s/u7VoDxjjhfmx3R8/download
 2024-12-06 11:13:34-04:00,Bolivia – Cargas de Pollitos BB A Granjas registradas por departamento según Año y Mes 2019 – 2024,spreadsheet,128.03,https://nube.ine.gob.bo/index.php/s/mYtBMlCLMg2CTvu/download
-2024-12-06 11:14:46-04:00,Precios Promedio,spreadsheet,1619.39,https://nube.ine.gob.bo/index.php/s/7KAZRsj4z88wYDJ/download
 2024-12-06 12:26:00-04:00,"BOLIVIA: CASOS E IMPORTES PAGADOS POR PENSIONES DE INVALIDEZ Y MUERTE DE RIESGO COMÚN DEL SEGURO SOCIAL OBLIGATORIO, SEGÚN DEPARTAMENTO, 1998 – 2015, 2018 – 2022",spreadsheet,59.38,https://nube.ine.gob.bo/index.php/s/A54UiXZ8kMDnm0v/download
 2024-12-06 12:26:00-04:00,"BOLIVIA: PENSIÓN PROMEDIO DE JUBILACIÓN EN EL SSO(1) POR MODALIDAD Y SEXO, SEGÚN DEPARTAMENTO, 2003 – 2022",spreadsheet,77.93,https://nube.ine.gob.bo/index.php/s/H4fsM0QtVHKA4CT/download
 2024-12-06 12:26:00-04:00,"BOLIVIA: PENSIONES DE JUBILACIÓN DEL SEGURO SOCIAL OBLIGATORIO POR SEXO Y MODALIDAD DE PENSIÓN, SEGÚN DEPARTAMENTO, 2003 – 2022",spreadsheet,70.37,https://nube.ine.gob.bo/index.php/s/M9tAuYzhm1HYxR1/download
@@ -1554,3 +1533,25 @@ modificado,nombre,tipo,kb,link
 2025-01-01 01:51:56-04:00,"Bolivia – Comercio Exterior según Grandes Categorías Económicas, 1992 – 2024",spreadsheet,954.02,https://nube.ine.gob.bo/index.php/s/oXl98KJQsspLm0a/download
 2025-01-01 01:51:56-04:00,Bolivia – Importaciones según Clasificación Uniforme para el Comercio Internacional por Año y Mes 1992 – 2024,spreadsheet,1253.19,https://nube.ine.gob.bo/index.php/s/sK59y78md8YZKSn/download
 2025-01-01 01:51:56-04:00,Bolivia – Importaciones según Clasificación Uso o Destino Económico por Año y Mes 1992 – 2024,spreadsheet,1015.65,https://nube.ine.gob.bo/index.php/s/uVLkFa0Hr1vtlSb/download
+2025-01-03 08:58:00-04:00,"BOLIVIA: HOGARES SEGÚN DEPARTAMENTO Y DESAGÜE DEL BAÑO O SERVICIO SANITARIO, 2011-2023",spreadsheet,551.79,https://nube.ine.gob.bo/index.php/s/whVKOCf4kd5ikOO/download
+2025-01-03 10:36:25-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,548.78,https://nube.ine.gob.bo/index.php/s/mJUq6GdJ272SiKs/download
+2025-01-03 10:37:09-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,450.16,https://nube.ine.gob.bo/index.php/s/YHTSsrHbOmFoQP0/download
+2025-01-03 10:41:57-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,2380.40,https://nube.ine.gob.bo/index.php/s/VeuMWXI1vK2iwF8/download
+2025-01-03 10:44:13-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,857.45,https://nube.ine.gob.bo/index.php/s/VbEVRmH2cPR2lh4/download
+2025-01-03 10:45:20-04:00,"Bolivia: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,857.46,https://nube.ine.gob.bo/index.php/s/ld3Vs4PhWSd3las/download
+2025-01-03 10:47:08-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,1000.40,https://nube.ine.gob.bo/index.php/s/52sLRAans5fYqOa/download
+2025-01-03 10:49:07-04:00,"Ciudades y Conurbaciones: Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,999.50,https://nube.ine.gob.bo/index.php/s/geRCjqCFBXyp8Tp/download
+2025-01-03 10:49:55-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,325.54,https://nube.ine.gob.bo/index.php/s/Onm93fMydJA7Yqj/download
+2025-01-03 10:50:35-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por División",spreadsheet,403.27,https://nube.ine.gob.bo/index.php/s/rZVaHkXsEe5Vw1B/download
+2025-01-03 10:51:18-04:00,Ponderaciones  a nivel Productos,spreadsheet,252.14,https://nube.ine.gob.bo/index.php/s/tMEj2DMRTGCJZ62/download
+2025-01-03 10:51:45-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos",spreadsheet,800.78,https://nube.ine.gob.bo/index.php/s/E2VIOABTNaf8jIN/download
+2025-01-03 10:52:11-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos",spreadsheet,800.16,https://nube.ine.gob.bo/index.php/s/4KDu3uvXTr5cpwS/download
+2025-01-03 10:53:10-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,364.30,https://nube.ine.gob.bo/index.php/s/NyeSJTRVvpiWi2v/download
+2025-01-03 11:01:18-04:00,"Índice general, variación mensual, acumulada y a 12 meses de Alimentos por Ciudad",spreadsheet,926.13,https://nube.ine.gob.bo/index.php/s/wqdtPfhBuFCCp0x/download
+2025-01-03 11:03:32-04:00,"Índice general, variación mensual, acumulada y a 12 meses de No Alimentos por Ciudad",spreadsheet,957.98,https://nube.ine.gob.bo/index.php/s/gwW4uZt1IPnYhXR/download
+2025-01-03 11:04:52-04:00,Índices a nivel producto,spreadsheet,2688.27,https://nube.ine.gob.bo/index.php/s/vfmELV36ERpRhb7/download
+2025-01-03 11:07:41-04:00,Ponderaciones a nivel producto,spreadsheet,232.84,https://nube.ine.gob.bo/index.php/s/uKPNL8IzhC6Pz41/download
+2025-01-03 11:12:04-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses",spreadsheet,400.70,https://nube.ine.gob.bo/index.php/s/qdjOb1RaXMzmXCa/download
+2025-01-03 11:22:00-04:00,Índice a nivel Productos,spreadsheet,654.22,https://nube.ine.gob.bo/index.php/s/zPkKqPic8fZ3dLU/download
+2025-01-03 11:23:19-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad según división",spreadsheet,1450.53,https://nube.ine.gob.bo/index.php/s/ihBd9tOvn0D0PQW/download
+2025-01-03 21:18:56-04:00,Precios Promedio,spreadsheet,1627.31,https://nube.ine.gob.bo/index.php/s/zszeKf6MSUWIhbC/download
