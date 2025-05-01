@@ -1160,8 +1160,8 @@ modificado,nombre,tipo,kb,link
 2024-12-16 19:29:22-04:00,ECE_1T_2024RUR,rar,1159.98,https://nube.ine.gob.bo/index.php/s/H99G4jYiZKwd6IN/download
 2024-12-16 19:29:24-04:00,ECE_1T_2024 URB,rar,7612.34,https://nube.ine.gob.bo/index.php/s/iDgeGhN8vk3fadH/download
 2024-12-16 19:29:24-04:00,ECE_2T_2024RUR,rar,1170.87,https://nube.ine.gob.bo/index.php/s/fsNhJiOsuZQqLsg/download
-2024-12-16 19:29:24-04:00,ECE_2T_2024,rar,8865.37,https://nube.ine.gob.bo/index.php/s/8nVTNVfcpZ7j0fF/download
 2024-12-16 19:29:24-04:00,ECE_2T_2024 URB,rar,7705.67,https://nube.ine.gob.bo/index.php/s/E5jTZiWeXXgIRLN/download
+2024-12-16 19:29:24-04:00,ECE_2T_2024,rar,8865.37,https://nube.ine.gob.bo/index.php/s/8nVTNVfcpZ7j0fF/download
 2024-12-16 19:30:30-04:00,ECE 4T15 2T24,rar,292767.33,https://nube.ine.gob.bo/index.php/s/GrRsvrE3Ek4TrVa/download
 2024-12-16 20:00:00-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES NOVIEMBRE DE 2024,pdf,6818.04,https://nube.ine.gob.bo/index.php/s/sQSX8YuDNhNcpq7/download
 2024-12-24 11:50:10-04:00,"“SERVICIO DE PROVISIÓN DE PASAJES AÉREOS PARA EL INSTITUTO NACIONAL DE ESTADÍSTICA (GESTIÓN 2025)”, TERCERA CONVOCATORIA – SEGUNDA PUBLICACIÓN",pdf,441.54,https://nube.ine.gob.bo/index.php/s/2updSxjKsx5BGS6/download
@@ -1233,14 +1233,14 @@ modificado,nombre,tipo,kb,link
 2025-01-28 11:08:26-04:00,"Bolivia – Área Rural: Principales indicadores de empleo por trimestre, según sexo, 2015 – 2024",spreadsheet,118.16,https://nube.ine.gob.bo/index.php/s/E5Mah6Xqb92ZFRB/download
 2025-01-28 11:12:35-04:00,"Bolivia – Área urbana: Principales indicadores de empleo por trimestre, según sexo, 2015 – 2024",spreadsheet,121.04,https://nube.ine.gob.bo/index.php/s/PKrWH5Qphd8OlFR/download
 2025-01-28 11:13:33-04:00,"Bolivia: Principales Indicadores de empleo por trimestre, según sexo, 2015 – 2024",spreadsheet,119.53,https://nube.ine.gob.bo/index.php/s/5F7TvwjVgzCVn0h/download
-2025-01-31 08:52:00-04:00,"BOLIVIA: CASOS E IMPORTES PAGADOS POR PENSIONES DE INVALIDEZ Y MUERTE DE RIESGO COMÚN DEL SEGURO SOCIAL OBLIGATORIO, SEGÚN DEPARTAMENTO, 1998 – 2015, 2018 – 2022",spreadsheet,80.31,https://nube.ine.gob.bo/index.php/s/A54UiXZ8kMDnm0v/download
-2025-01-31 08:52:00-04:00,"BOLIVIA: PENSIÓN PROMEDIO DE JUBILACIÓN EN EL SSO(1) POR MODALIDAD Y SEXO, SEGÚN DEPARTAMENTO, 2003 – 2023",spreadsheet,114.51,https://nube.ine.gob.bo/index.php/s/H4fsM0QtVHKA4CT/download
-2025-01-31 08:52:00-04:00,"BOLIVIA: PENSIONES DE JUBILACIÓN DEL SEGURO SOCIAL OBLIGATORIO POR SEXO Y MODALIDAD DE PENSIÓN, SEGÚN DEPARTAMENTO, 2003 – 2023",spreadsheet,102.27,https://nube.ine.gob.bo/index.php/s/M9tAuYzhm1HYxR1/download
-2025-01-31 08:52:00-04:00,"BOLIVIA: AFILIADOS A LAS ADMINISTRADORAS DE FONDOS DE PENSIONES POR DEPARTAMENTO, SEGÚN SECTOR, 1998 – 2023",spreadsheet,70.27,https://nube.ine.gob.bo/index.php/s/RHLA447RKA3gWAs/download
-2025-01-31 08:52:00-04:00,"BOLIVIA: CASOS E IMPORTE CANCELADO POR PENSIONES DE INVALIDEZ, MUERTE Y PAGOS GLOBALES DE RIESGO PROFESIONAL DEL SEGURO SOCIAL OBLIGATORIO, SEGÚN DEPARTAMENTO, 1998 – 2015, 2018 – 2022",spreadsheet,70.59,https://nube.ine.gob.bo/index.php/s/Xtcq64Z9VoDnFNO/download
-2025-01-31 08:52:00-04:00,"BOLIVIA: AFILIADOS REGISTRADOS EN EL SEGURO SOCIAL OBLIGATORIO POR SEXO, SEGÚN GRUPO DE EDAD, 2003 – 2023",spreadsheet,73.11,https://nube.ine.gob.bo/index.php/s/YGuIGunhYNH8vLb/download
-2025-01-31 08:52:00-04:00,"BOLIVIA: BENEFICIARIOS DE LA RENTA DIGNIDAD POR TIPO, SEGÚN DEPARTAMENTO, 2008 – 2023",spreadsheet,68.60,https://nube.ine.gob.bo/index.php/s/tgNcG5H13rOfPFo/download
 2025-01-31 08:52:00-04:00,"BOLIVIA: CASOS POR JUBILACIÓN EN EL SEGURO SOCIAL OBLIGATORIO POR SEXO Y MODALIDAD DE PENSIÓN, SEGÚN GRUPO DE EDAD, 2008 – 2023",spreadsheet,86.62,https://nube.ine.gob.bo/index.php/s/zR8PYcgqNrcUDTl/download
+2025-01-31 08:52:00-04:00,"BOLIVIA: BENEFICIARIOS DE LA RENTA DIGNIDAD POR TIPO, SEGÚN DEPARTAMENTO, 2008 – 2023",spreadsheet,68.60,https://nube.ine.gob.bo/index.php/s/tgNcG5H13rOfPFo/download
+2025-01-31 08:52:00-04:00,"BOLIVIA: AFILIADOS REGISTRADOS EN EL SEGURO SOCIAL OBLIGATORIO POR SEXO, SEGÚN GRUPO DE EDAD, 2003 – 2023",spreadsheet,73.11,https://nube.ine.gob.bo/index.php/s/YGuIGunhYNH8vLb/download
+2025-01-31 08:52:00-04:00,"BOLIVIA: CASOS E IMPORTE CANCELADO POR PENSIONES DE INVALIDEZ, MUERTE Y PAGOS GLOBALES DE RIESGO PROFESIONAL DEL SEGURO SOCIAL OBLIGATORIO, SEGÚN DEPARTAMENTO, 1998 – 2015, 2018 – 2022",spreadsheet,70.59,https://nube.ine.gob.bo/index.php/s/Xtcq64Z9VoDnFNO/download
+2025-01-31 08:52:00-04:00,"BOLIVIA: CASOS E IMPORTES PAGADOS POR PENSIONES DE INVALIDEZ Y MUERTE DE RIESGO COMÚN DEL SEGURO SOCIAL OBLIGATORIO, SEGÚN DEPARTAMENTO, 1998 – 2015, 2018 – 2022",spreadsheet,80.31,https://nube.ine.gob.bo/index.php/s/A54UiXZ8kMDnm0v/download
+2025-01-31 08:52:00-04:00,"BOLIVIA: PENSIONES DE JUBILACIÓN DEL SEGURO SOCIAL OBLIGATORIO POR SEXO Y MODALIDAD DE PENSIÓN, SEGÚN DEPARTAMENTO, 2003 – 2023",spreadsheet,102.27,https://nube.ine.gob.bo/index.php/s/M9tAuYzhm1HYxR1/download
+2025-01-31 08:52:00-04:00,"BOLIVIA: PENSIÓN PROMEDIO DE JUBILACIÓN EN EL SSO(1) POR MODALIDAD Y SEXO, SEGÚN DEPARTAMENTO, 2003 – 2023",spreadsheet,114.51,https://nube.ine.gob.bo/index.php/s/H4fsM0QtVHKA4CT/download
+2025-01-31 08:52:00-04:00,"BOLIVIA: AFILIADOS A LAS ADMINISTRADORAS DE FONDOS DE PENSIONES POR DEPARTAMENTO, SEGÚN SECTOR, 1998 – 2023",spreadsheet,70.27,https://nube.ine.gob.bo/index.php/s/RHLA447RKA3gWAs/download
 2025-01-31 10:25:50-04:00,"BOLIVIA – SALARIO MÍNIMO NACIONAL, 1991 – 2024",spreadsheet,135.34,https://nube.ine.gob.bo/index.php/s/jdVy7U9sKmWUpre/download
 2025-02-03 11:22:43-04:00,"Bolivia – Indice de Empleo del Sector Privado segun Actividad Economica, 1996 – 2023",spreadsheet,295.95,https://nube.ine.gob.bo/index.php/s/FIWVVljuZY8VNqQ/download
 2025-02-03 11:23:25-04:00,"Bolivia – Indice de Empleo del Sector Privado por Grupo Ocupacional, 1996 – 2023",spreadsheet,3973.70,https://nube.ine.gob.bo/index.php/s/PtZ5soLC1otiWYv/download
@@ -1268,9 +1268,9 @@ modificado,nombre,tipo,kb,link
 2025-02-03 11:39:41-04:00,"Bolivia – Salario Medio Nominal por Genero del Sector Privado segun Actividad Economica, 2004 – 2023",spreadsheet,209.61,https://nube.ine.gob.bo/index.php/s/eBwWFRaVcVYJfAf/download
 2025-02-03 11:40:26-04:00,"Bolivia – Salario Medio Nominal del Sector Privado segun Actividad Economica, 1996 – 2023",spreadsheet,297.12,https://nube.ine.gob.bo/index.php/s/IS4F3p0A3pynX8c/download
 2025-02-03 16:51:02-04:00,"BOLIVIA: LÍNEAS DE POBREZA Y POBREZA EXTREMA EN BOLIVIANOS POR PERSONA AL MES, SEGÚN ÁREA Y CIUDAD 2016 – 2023",spreadsheet,295.12,https://nube.ine.gob.bo/index.php/s/DT1xxsLildqwBq1/download
+2025-02-06 11:47:00-04:00,"BOLIVIA: POBLACIÓN PROTEGIDA EN EL SEGURO SOCIAL DE CORTO PLAZO, POR SEXO, SEGÚN GRUPO DE EDAD, 1998 – 2016",spreadsheet,80.27,https://nube.ine.gob.bo/index.php/s/hdAMqcSPbqLPGpF/download
 2025-02-06 11:47:00-04:00,"BOLIVIA: COBERTURA DE LA SEGURIDAD SOCIAL A CORTO PLAZO, SEGÚN DEPARTAMENTO, 1998 – 2022",spreadsheet,77.73,https://nube.ine.gob.bo/index.php/s/xASD5rBC0WW1GFV/download
 2025-02-06 11:47:00-04:00,"BOLIVIA: POBLACIÓN PROTEGIDA EN LA SEGURIDAD SOCIAL A CORTO PLAZO, SEGÚN SITUACIÓN DE SEGURO, 1997 – 2016",spreadsheet,70.89,https://nube.ine.gob.bo/index.php/s/0ifbJJeNa4QP1R1/download
-2025-02-06 11:47:00-04:00,"BOLIVIA: POBLACIÓN PROTEGIDA EN EL SEGURO SOCIAL DE CORTO PLAZO, POR SEXO, SEGÚN GRUPO DE EDAD, 1998 – 2016",spreadsheet,80.27,https://nube.ine.gob.bo/index.php/s/hdAMqcSPbqLPGpF/download
 2025-02-07 16:40:55-04:00,"Bolivia – Indice de Salario Medio Nominal del Sector Privado por Grupo Ocupacional, 1996 – 2023",spreadsheet,3974.20,https://nube.ine.gob.bo/index.php/s/0cmGQNTrbSWRVxt/download
 2025-02-07 17:50:44-04:00,"BOLIVIA – CONEXIONES AL SERVICIO DE ACCESO A INTERNET POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 2012 – 2024",spreadsheet,63.02,https://nube.ine.gob.bo/index.php/s/5tRDKsQhjgdHyYn/download
 2025-02-07 17:57:10-04:00,"BOLIVIA – CONEXIONES AL SERVICIO DE ACCESO A INTERNET POR TIPO DE TECNOLOGÍA, SEGÚN AÑO Y TRIMESTRE, 2012 – 2024",spreadsheet,59.14,https://nube.ine.gob.bo/index.php/s/Py3xfOWTRDLJPig/download
@@ -1366,8 +1366,8 @@ modificado,nombre,tipo,kb,link
 2025-03-24 10:37:37-04:00,"Bolivia – Área rural: Principales indicadores de empleo por mes, según sexo, 2015 – 2025",spreadsheet,146.42,https://nube.ine.gob.bo/index.php/s/D5nEKnskfQDIvps/download
 2025-03-24 10:38:19-04:00,"Bolivia: Principales indicadores de empleo por mes, según sexo, 2015 – 2025",spreadsheet,143.62,https://nube.ine.gob.bo/index.php/s/MUm3nJ7CcBGERPz/download
 2025-03-24 10:39:41-04:00,"Bolivia – Área urbana: Principales indicadores de empleo por mes, según sexo, 2015 – 2025",spreadsheet,147.10,https://nube.ine.gob.bo/index.php/s/gYrqPEzraaEDirg/download
-2025-03-27 11:00:00-04:00,"BOLIVIA: NÚMERO DE VEHÍCULOS Y AUTOPARTES ROBADOS, SEGÚN DEPARTAMENTO Y TIPO DE VEHÍCULO,  2008 – 2021",spreadsheet,72.93,https://nube.ine.gob.bo/index.php/s/9dT3VOAnKDGD5ze/download
 2025-03-27 11:00:00-04:00,"BOLIVIA: LICENCIAS DE CONDUCCIÓN VEHICULAR NUEVAS OTORGADAS, SEGÚN DEPARTAMENTO Y SEXO, 2009 -2022",spreadsheet,184.52,https://nube.ine.gob.bo/index.php/s/2nknMIVVUmZ88t4/download
+2025-03-27 11:00:00-04:00,"BOLIVIA: NÚMERO DE VEHÍCULOS Y AUTOPARTES ROBADOS, SEGÚN DEPARTAMENTO Y TIPO DE VEHÍCULO,  2008 – 2021",spreadsheet,72.93,https://nube.ine.gob.bo/index.php/s/9dT3VOAnKDGD5ze/download
 2025-04-03 12:53:10-04:00,Ponderaciones  a nivel Productos,spreadsheet,252.08,https://nube.ine.gob.bo/index.php/s/InHuMOH6IwghQiU/download
 2025-04-03 13:07:08-04:00,Ponderación a nivel de Ciudades Capitales y Conurbaciones,spreadsheet,232.80,https://nube.ine.gob.bo/index.php/s/g3y09evGq9CwQdH/download
 2025-04-03 13:11:58-04:00,"Índice General, Variación Mensual, Acumulada y a 12 Meses por Ciudad",spreadsheet,451.91,https://nube.ine.gob.bo/index.php/s/dhjvgd74EOGxnPK/download
@@ -1517,8 +1517,8 @@ modificado,nombre,tipo,kb,link
 2025-04-17 17:08:58-04:00,BOLETÍN ESTADÍSTICO COMEX FEBRERO 2025,pdf,4335.70,https://nube.ine.gob.bo/index.php/s/j79hylAip8QgTHt/download
 2025-04-17 17:28:08-04:00,Bolivia – Número de Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2025,excel,170.50,https://nube.ine.gob.bo/index.php/s/jLb5wFW0JvKCqtR/download
 2025-04-17 17:29:43-04:00,Bolivia – Superficie registrada en Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2025,excel,182.00,https://nube.ine.gob.bo/index.php/s/Ys6tEPQpLWYR4ba/download
-2025-04-19 23:42:08-04:00,EXPORTACIONES ENE – FEB 2025p,spreadsheet,432.78,https://nube.ine.gob.bo/index.php/s/P87m8QfgZVKzWnP/download
 2025-04-19 23:42:08-04:00,IMPORTACIONES RITEX ENE – FEB 2025p,spreadsheet,24.84,https://nube.ine.gob.bo/index.php/s/K1yKsnLesidd66v/download
+2025-04-19 23:42:08-04:00,EXPORTACIONES ENE – FEB 2025p,spreadsheet,432.78,https://nube.ine.gob.bo/index.php/s/P87m8QfgZVKzWnP/download
 2025-04-19 23:42:08-04:00,EXPORTACIONES RITEX ENE – FEB 2025p,spreadsheet,15.63,https://nube.ine.gob.bo/index.php/s/98SSTpZNe7xGp6u/download
 2025-04-19 23:42:12-04:00,IMPORTACIONES ENE – FEB 2025p,spreadsheet,8168.46,https://nube.ine.gob.bo/index.php/s/LCaUL17HIcTLsxr/download
 2025-04-19 23:43:06-04:00,"Bolivia – Exportaciones según Actividad Económica y Producto por Año y Mes, 1992 – 2025",spreadsheet,1290.14,https://nube.ine.gob.bo/index.php/s/yJT9Q8KKyvhG4pi/download
@@ -1528,10 +1528,10 @@ modificado,nombre,tipo,kb,link
 2025-04-19 23:43:08-04:00,"Bolivia – Exportaciones según Grandes Categorías Económicas por Año y Mes, 1992 – 2025",spreadsheet,856.44,https://nube.ine.gob.bo/index.php/s/xwkBkig3lAy9uMr/download
 2025-04-19 23:43:10-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año y Mes, 2017 – 2025",spreadsheet,968.20,https://nube.ine.gob.bo/index.php/s/0ToRunCr9uUpLOH/download
 2025-04-19 23:43:10-04:00,"Bolivia – Exportaciones según País de Destino por Año y Mes, 1992 – 2025",spreadsheet,1482.71,https://nube.ine.gob.bo/index.php/s/S01Wuf1I35GbFDA/download
-2025-04-19 23:43:12-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año, 2010 – 2025",spreadsheet,2569.48,https://nube.ine.gob.bo/index.php/s/UM0CTaUNXnPUSX4/download
 2025-04-19 23:43:12-04:00,"Bolivia- Exportaciones según Productos Tradicionales y No Tradicionales por Año y Mes, 1992 – 2025",spreadsheet,889.57,https://nube.ine.gob.bo/index.php/s/zUQc65wIGkw1KUy/download
-2025-04-19 23:43:14-04:00,Bolivia – Importaciones por Año y Mes 1992 – 2025,spreadsheet,559.56,https://nube.ine.gob.bo/index.php/s/jYn9F8zMaAiAj3C/download
+2025-04-19 23:43:12-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año, 2010 – 2025",spreadsheet,2569.48,https://nube.ine.gob.bo/index.php/s/UM0CTaUNXnPUSX4/download
 2025-04-19 23:43:14-04:00,Bolivia – Importaciones según Clasificación Internacional Industrial Uniforme por Año y Mes 1992 – 2025,spreadsheet,907.80,https://nube.ine.gob.bo/index.php/s/JqbOsowvzhvzt4E/download
+2025-04-19 23:43:14-04:00,Bolivia – Importaciones por Año y Mes 1992 – 2025,spreadsheet,559.56,https://nube.ine.gob.bo/index.php/s/jYn9F8zMaAiAj3C/download
 2025-04-19 23:43:14-04:00,"Bolivia – Importaciones Agregadas según Clasificación Uso o Destino Económico por Año y Mes, 1992 – 2025",spreadsheet,727.84,https://nube.ine.gob.bo/index.php/s/3MDafqtdVNXRwmU/download
 2025-04-19 23:43:16-04:00,Bolivia – Importaciones según Clasificación Uniforme para el Comercio Internacional por Año y Mes 1992 – 2025,spreadsheet,1260.31,https://nube.ine.gob.bo/index.php/s/sK59y78md8YZKSn/download
 2025-04-19 23:43:16-04:00,Bolivia – Importaciones según Clasificación Uso o Destino Económico por Año y Mes 1992 – 2025,spreadsheet,1020.65,https://nube.ine.gob.bo/index.php/s/uVLkFa0Hr1vtlSb/download
@@ -1581,3 +1581,4 @@ modificado,nombre,tipo,kb,link
 2025-04-25 15:45:21-04:00,"Bolivia – Índice De Volumen De Importaciones, Según Grandes Categorías Económicas 2016 – 2025",spreadsheet,153.75,https://nube.ine.gob.bo/index.php/s/5Y6XnHJvrtG89GJ/download
 2025-04-25 15:46:09-04:00,"Bolivia – Índice De Volumen De Importaciones, Según La Clasificación De Uso o Destino Económico (CUODE) 1980 – 2025",spreadsheet,431.75,https://nube.ine.gob.bo/index.php/s/jvXGmBXqvjbUDPE/download
 2025-04-28 14:23:43-04:00,"Bolivia – Índice de Términos de Intercambio, 2016 – 2025",spreadsheet,108.95,https://nube.ine.gob.bo/index.php/s/ja6PWco2LQCZxfl/download
+2025-04-30 08:28:36-04:00,SERVICIO DE PROVISIÓN DE PASAJES AÉREOS NACIONALES PARA LA PRESENTACIÓN DE LOS RESULTADOS DE LA ENCUESTA DE DEMOGRAFÍA Y SALUD,pdf,461.65,https://nube.ine.gob.bo/index.php/s/SmXPo49AO0P2euS/download
