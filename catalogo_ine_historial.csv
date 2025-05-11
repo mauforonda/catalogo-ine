@@ -1169,8 +1169,8 @@ modificado,nombre,tipo,kb,link
 2025-01-31 08:52:00-04:00,"BOLIVIA: BENEFICIARIOS DE LA RENTA DIGNIDAD POR TIPO, SEGÚN DEPARTAMENTO, 2008 – 2023",spreadsheet,68.60,https://nube.ine.gob.bo/index.php/s/tgNcG5H13rOfPFo/download
 2025-01-31 08:52:00-04:00,"BOLIVIA: AFILIADOS REGISTRADOS EN EL SEGURO SOCIAL OBLIGATORIO POR SEXO, SEGÚN GRUPO DE EDAD, 2003 – 2023",spreadsheet,73.11,https://nube.ine.gob.bo/index.php/s/YGuIGunhYNH8vLb/download
 2025-01-31 08:52:00-04:00,"BOLIVIA: CASOS E IMPORTE CANCELADO POR PENSIONES DE INVALIDEZ, MUERTE Y PAGOS GLOBALES DE RIESGO PROFESIONAL DEL SEGURO SOCIAL OBLIGATORIO, SEGÚN DEPARTAMENTO, 1998 – 2015, 2018 – 2022",spreadsheet,70.59,https://nube.ine.gob.bo/index.php/s/Xtcq64Z9VoDnFNO/download
-2025-01-31 08:52:00-04:00,"BOLIVIA: PENSIONES DE JUBILACIÓN DEL SEGURO SOCIAL OBLIGATORIO POR SEXO Y MODALIDAD DE PENSIÓN, SEGÚN DEPARTAMENTO, 2003 – 2023",spreadsheet,102.27,https://nube.ine.gob.bo/index.php/s/M9tAuYzhm1HYxR1/download
 2025-01-31 08:52:00-04:00,"BOLIVIA: PENSIÓN PROMEDIO DE JUBILACIÓN EN EL SSO(1) POR MODALIDAD Y SEXO, SEGÚN DEPARTAMENTO, 2003 – 2023",spreadsheet,114.51,https://nube.ine.gob.bo/index.php/s/H4fsM0QtVHKA4CT/download
+2025-01-31 08:52:00-04:00,"BOLIVIA: PENSIONES DE JUBILACIÓN DEL SEGURO SOCIAL OBLIGATORIO POR SEXO Y MODALIDAD DE PENSIÓN, SEGÚN DEPARTAMENTO, 2003 – 2023",spreadsheet,102.27,https://nube.ine.gob.bo/index.php/s/M9tAuYzhm1HYxR1/download
 2025-01-31 08:52:00-04:00,"BOLIVIA: CASOS E IMPORTES PAGADOS POR PENSIONES DE INVALIDEZ Y MUERTE DE RIESGO COMÚN DEL SEGURO SOCIAL OBLIGATORIO, SEGÚN DEPARTAMENTO, 1998 – 2015, 2018 – 2022",spreadsheet,80.31,https://nube.ine.gob.bo/index.php/s/A54UiXZ8kMDnm0v/download
 2025-01-31 08:52:00-04:00,"BOLIVIA: AFILIADOS A LAS ADMINISTRADORAS DE FONDOS DE PENSIONES POR DEPARTAMENTO, SEGÚN SECTOR, 1998 – 2023",spreadsheet,70.27,https://nube.ine.gob.bo/index.php/s/RHLA447RKA3gWAs/download
 2025-01-31 10:25:50-04:00,"BOLIVIA – SALARIO MÍNIMO NACIONAL, 1991 – 2024",spreadsheet,135.34,https://nube.ine.gob.bo/index.php/s/jdVy7U9sKmWUpre/download
@@ -1201,9 +1201,9 @@ modificado,nombre,tipo,kb,link
 2025-02-03 11:40:26-04:00,"Bolivia – Salario Medio Nominal del Sector Privado segun Actividad Economica, 1996 – 2023",spreadsheet,297.12,https://nube.ine.gob.bo/index.php/s/IS4F3p0A3pynX8c/download
 2025-02-03 16:51:02-04:00,"BOLIVIA: LÍNEAS DE POBREZA Y POBREZA EXTREMA EN BOLIVIANOS POR PERSONA AL MES, SEGÚN ÁREA Y CIUDAD 2016 – 2023",spreadsheet,295.12,https://nube.ine.gob.bo/index.php/s/DT1xxsLildqwBq1/download
 2025-02-04 11:39:18-04:00,Ponderación a nivel de Ciudades Capitales y Conurbaciones,spreadsheet,232.81,https://nube.ine.gob.bo/index.php/s/IUh5ZefyBF0s76Z/download
-2025-02-06 11:47:00-04:00,"BOLIVIA: POBLACIÓN PROTEGIDA EN LA SEGURIDAD SOCIAL A CORTO PLAZO, SEGÚN SITUACIÓN DE SEGURO, 1997 – 2016",spreadsheet,70.89,https://nube.ine.gob.bo/index.php/s/0ifbJJeNa4QP1R1/download
 2025-02-06 11:47:00-04:00,"BOLIVIA: POBLACIÓN PROTEGIDA EN EL SEGURO SOCIAL DE CORTO PLAZO, POR SEXO, SEGÚN GRUPO DE EDAD, 1998 – 2016",spreadsheet,80.27,https://nube.ine.gob.bo/index.php/s/hdAMqcSPbqLPGpF/download
 2025-02-06 11:47:00-04:00,"BOLIVIA: COBERTURA DE LA SEGURIDAD SOCIAL A CORTO PLAZO, SEGÚN DEPARTAMENTO, 1998 – 2022",spreadsheet,77.73,https://nube.ine.gob.bo/index.php/s/xASD5rBC0WW1GFV/download
+2025-02-06 11:47:00-04:00,"BOLIVIA: POBLACIÓN PROTEGIDA EN LA SEGURIDAD SOCIAL A CORTO PLAZO, SEGÚN SITUACIÓN DE SEGURO, 1997 – 2016",spreadsheet,70.89,https://nube.ine.gob.bo/index.php/s/0ifbJJeNa4QP1R1/download
 2025-02-07 16:40:55-04:00,"Bolivia – Indice de Salario Medio Nominal del Sector Privado por Grupo Ocupacional, 1996 – 2023",spreadsheet,3974.20,https://nube.ine.gob.bo/index.php/s/0cmGQNTrbSWRVxt/download
 2025-02-07 17:50:44-04:00,"BOLIVIA – CONEXIONES AL SERVICIO DE ACCESO A INTERNET POR DEPARTAMENTO, SEGÚN AÑO Y TRIMESTRE, 2012 – 2024",spreadsheet,63.02,https://nube.ine.gob.bo/index.php/s/5tRDKsQhjgdHyYn/download
 2025-02-07 17:57:10-04:00,"BOLIVIA – CONEXIONES AL SERVICIO DE ACCESO A INTERNET POR TIPO DE TECNOLOGÍA, SEGÚN AÑO Y TRIMESTRE, 2012 – 2024",spreadsheet,59.14,https://nube.ine.gob.bo/index.php/s/Py3xfOWTRDLJPig/download
@@ -1365,7 +1365,6 @@ modificado,nombre,tipo,kb,link
 2025-04-16 10:43:15-04:00,"Bolivia – Flujo del Transporte Aéreo de Pasajeros por Flujo y Ruta según Año y Mes, 2009 – 2024",spreadsheet,86.34,https://nube.ine.gob.bo/index.php/s/GUwyjrMe1WKDB2f/download
 2025-04-16 10:45:57-04:00,"Oruro – Numero de Pasajeros Transportados por Cable, según Mes, 2018 – 2024",spreadsheet,66.00,https://nube.ine.gob.bo/index.php/s/W2QOGSJ2tYL5CZa/download
 2025-04-16 11:02:43-04:00,"Bolivia- Producción por cultivo campaña verano , por departamento 2013-2024",spreadsheet,847.71,https://nube.ine.gob.bo/index.php/s/qcDXfgLo8KDpB89/download
-2025-04-16 11:08:14-04:00,Bolivia- Producción por cultivo campaña invierno por departamento -2012-2024,spreadsheet,273.29,https://nube.ine.gob.bo/index.php/s/QGxbV6juWj9DjVG/download
 2025-04-16 13:11:37-04:00,"Bolivia- Rendimiento por cultivo campaña invierno, por departamento 2012-2024",spreadsheet,950.76,https://nube.ine.gob.bo/index.php/s/jRM8SZEXbuaKFJ6/download
 2025-04-17 09:20:07-04:00,"Bolivia – Producción Año Agrícola por Departamento, 1984 – 2024",spreadsheet,881.63,https://nube.ine.gob.bo/index.php/s/V7sVhYgtH9GT2fd/download
 2025-04-17 09:29:06-04:00,"Bolivia – Rendimiento Año Agrícola por Departamento, 1984 – 2024",spreadsheet,524.90,https://nube.ine.gob.bo/index.php/s/9Th8JQ7vyccdEO7/download
