@@ -387,21 +387,24 @@ class AsyncUpdater:
         return self.df
 
 def main():
-    webdav_url = 'https://nube.ine.gob.bo/public.php/webdav'
-    download_url = 'https://nube.ine.gob.bo/index.php/s/{}/download'
-    domain = 'https://nube.ine.gob.bo'
+    # webdav_url = 'https://nube.ine.gob.bo/public.php/webdav'
+    # download_url = 'https://nube.ine.gob.bo/index.php/s/{}/download'
+    # domain = 'https://nube.ine.gob.bo'
     data = []
     for url_base in ['www.ine.gob.bo']:
         url = "https://" + url_base + "/wp-json/wp/v2/pages?orderby=modified&per_page={}&offset={}"
         print(url_base)
-        ine_config = UpdaterConfig(
-            url_domain=domain,
-            url_json=url,
-            url_download=download_url,
-            url_webdav=webdav_url,
-            log_level="INFO")
-        ine_files = AsyncUpdater(ine_config, workers=2)
-        data.append(ine_files.run_loop())
+        for nube in ["nube.ine.gob.bo", "nimbus.ine.gob.bo"]:
+            webdav_url = f"https://{nube}/public.php/webdav"
+            download_url = f"https://{nube}/index.php/s/{{}}/download"
+            ine_config = UpdaterConfig(
+                url_domain=f"https://{nube}",
+                url_json=url,
+                url_download=download_url,
+                url_webdav=webdav_url,
+                log_level="INFO")
+            ine_files = AsyncUpdater(ine_config, workers=2)
+            data.append(ine_files.run_loop())
     save_csv(pd.concat(data), "catalogo_ine.csv")
 
 if __name__ == '__main__':
