@@ -1228,21 +1228,7 @@ modificado,nombre,tipo,kb,link
 2025-05-14 12:23:41-04:00,Anexo 8 Documento de plan de tabulados,pdf,895.56,https://nimbus.ine.gob.bo/index.php/s/tcwzSRwaD3nPWBj/download
 2025-05-15 18:04:37-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES ABRIL DE 2025,pdf,4007.91,https://nimbus.ine.gob.bo/index.php/s/w9d7b7xDPgDTiAr/download
 2025-05-16 15:38:53-04:00,"Bolivia-Ingreso de Visitantes a Establecimientos de Hospedaje Por Año Según Ciudad y Tipo de Visitante, 2008 – 2024",excel,169.00,https://nube.ine.gob.bo/index.php/s/vmQ9FryjdamPTHX/download
-2025-05-19 11:41:07-04:00,"Bolivia Parque Automotor, según Departamento y Tipo de Servicio, 2003 – 2024",spreadsheet,70.58,https://nimbus.ine.gob.bo/index.php/s/BwmzJkTjkxfbycs/download
-2025-05-19 12:19:30-04:00,"Bolivia Parque Automotor por Tipo De Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,70.71,https://nimbus.ine.gob.bo/index.php/s/KP4T9pHHczFZyJ7/download
-2025-05-19 12:33:36-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Capacidad de Carga, 2003 – 2024",spreadsheet,112.79,https://nimbus.ine.gob.bo/index.php/s/G8cs6KMzSYiN4PZ/download
-2025-05-19 13:09:28-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Modelo, 2003 – 2024",spreadsheet,141.30,https://nimbus.ine.gob.bo/index.php/s/cfyXPKwgBgMEHnE/download
-2025-05-19 13:12:42-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Cilindrada, 2003 – 2024",spreadsheet,100.40,https://nimbus.ine.gob.bo/index.php/s/ryqyCNkTwwtsXcZ/download
-2025-05-19 13:16:28-04:00,"La Paz Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,74.06,https://nimbus.ine.gob.bo/index.php/s/c96d3y24wsx36Kk/download
-2025-05-19 13:21:48-04:00,"Chuquisaca Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,71.60,https://nimbus.ine.gob.bo/index.php/s/DGXj7MGapkCn6XQ/download
-2025-05-19 13:26:30-04:00,"Cochabamba Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,73.86,https://nimbus.ine.gob.bo/index.php/s/xbo7rZYyDcqtSds/download
-2025-05-19 13:31:39-04:00,"Oruro Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,73.35,https://nimbus.ine.gob.bo/index.php/s/jTB8qkmXRZ2ESH5/download
-2025-05-19 13:34:24-04:00,"Potosí Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,73.28,https://nimbus.ine.gob.bo/index.php/s/NG6bJWQE32SEsB8/download
-2025-05-19 13:39:31-04:00,"Tarija Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,73.17,https://nimbus.ine.gob.bo/index.php/s/sZRHGc5JbkGD2Rn/download
-2025-05-19 13:44:11-04:00,"Santa Cruz Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,74.03,https://nimbus.ine.gob.bo/index.php/s/iKRCA4ad4jYyC4L/download
-2025-05-19 13:47:18-04:00,"Beni Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,72.81,https://nimbus.ine.gob.bo/index.php/s/F9fYF99R8PEZP2e/download
 2025-05-19 17:13:29-04:00,BOLETÍN ESTADÍSTICO COMEX MARZO 2025,pdf,7005.81,https://nimbus.ine.gob.bo/index.php/s/7NrmDcbRaTr6HmG/download
-2025-05-19 17:49:13-04:00,"Pando Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,72.54,https://nimbus.ine.gob.bo/index.php/s/xwSABHEb4MtDJCZ/download
 2025-05-20 17:28:19-04:00,"Bolivia-Llegada de Viajeros Internacionales Vía Aérea, Según Nacionalidad Por Año, 2008-2024",excel,171.50,https://nube.ine.gob.bo/index.php/s/dlvyPOVuIv0Ft2t/download
 2025-05-20 17:28:48-04:00,"Bolivia-Llegada de Viajeros Internacionales Vía Carretera, Según Nacionalidad Por Año, 2008-2024",excel,163.00,https://nube.ine.gob.bo/index.php/s/sPzUe5jaslkrlMD/download
 2025-05-20 17:31:04-04:00,"Bolivia-Salida de Viajeros Internacionales Vía Aérea, Según Aeropuerto y Tipo de Viajero Por Año, 2008-2024",excel,158.50,https://nube.ine.gob.bo/index.php/s/alpVCPhnBQYZhPr/download
@@ -1599,6 +1585,20 @@ modificado,nombre,tipo,kb,link
 2025-07-18 13:07:01-04:00,"Bolivia-Llegada de Visitantes Internacionales, Vía Carretera Por Puesto Fronterizo y Tipo de Visitante Según Año y Mes 2008 – 2025",spreadsheet,171.06,https://nube.ine.gob.bo/index.php/s/prTn3iaHFUknQ1i/download
 2025-07-18 13:12:41-04:00,"Bolivia-Salida de Visitantes Internacionales Vía Aérea, Por Aeropuerto y Tipo de Visitante, Según Año y Mes 2008 – 2025",spreadsheet,124.55,https://nube.ine.gob.bo/index.php/s/nun70BcTN01Df8n/download
 2025-07-18 13:31:41-04:00,Reporte 2025,spreadsheet,170.75,https://nimbus.ine.gob.bo/index.php/s/85yB4enygM3E7zx/download
+2025-07-18 13:38:20-04:00,"Bolivia Parque Automotor por Tipo De Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,70.46,https://nimbus.ine.gob.bo/index.php/s/KP4T9pHHczFZyJ7/download
+2025-07-18 15:23:03-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Modelo, 2003 – 2024",spreadsheet,141.34,https://nimbus.ine.gob.bo/index.php/s/cfyXPKwgBgMEHnE/download
+2025-07-18 16:16:27-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Cilindrada, 2003 – 2024",spreadsheet,100.46,https://nimbus.ine.gob.bo/index.php/s/ryqyCNkTwwtsXcZ/download
+2025-07-18 16:39:48-04:00,"Oruro Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,73.36,https://nimbus.ine.gob.bo/index.php/s/jTB8qkmXRZ2ESH5/download
+2025-07-18 16:44:57-04:00,"Potosí Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,73.27,https://nimbus.ine.gob.bo/index.php/s/NG6bJWQE32SEsB8/download
+2025-07-18 17:57:06-04:00,"Bolivia Parque Automotor, según Departamento y Tipo de Servicio, 2003 – 2024",spreadsheet,70.24,https://nimbus.ine.gob.bo/index.php/s/BwmzJkTjkxfbycs/download
+2025-07-18 17:58:03-04:00,"Bolivia Parque Automotor por Tipo de Servicio, Clase de Vehículo y Capacidad de Carga, 2003 – 2024",spreadsheet,112.80,https://nimbus.ine.gob.bo/index.php/s/G8cs6KMzSYiN4PZ/download
+2025-07-18 17:59:43-04:00,"Chuquisaca Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,71.61,https://nimbus.ine.gob.bo/index.php/s/DGXj7MGapkCn6XQ/download
+2025-07-18 17:59:56-04:00,"La Paz Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,74.08,https://nimbus.ine.gob.bo/index.php/s/c96d3y24wsx36Kk/download
+2025-07-18 18:01:20-04:00,"Cochabamba Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,73.80,https://nimbus.ine.gob.bo/index.php/s/xbo7rZYyDcqtSds/download
+2025-07-18 18:01:53-04:00,"Tarija Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,73.19,https://nimbus.ine.gob.bo/index.php/s/sZRHGc5JbkGD2Rn/download
+2025-07-18 18:02:07-04:00,"Santa Cruz Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,74.06,https://nimbus.ine.gob.bo/index.php/s/iKRCA4ad4jYyC4L/download
+2025-07-18 18:02:20-04:00,"Beni Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,72.81,https://nimbus.ine.gob.bo/index.php/s/F9fYF99R8PEZP2e/download
+2025-07-18 18:02:37-04:00,"Pando Parque Automotor, según Tipo de Servicio y Clase de Vehículo, 2003 – 2024",spreadsheet,72.56,https://nimbus.ine.gob.bo/index.php/s/xwSABHEb4MtDJCZ/download
 2025-07-21 15:57:16-04:00,Bolivia – Número de Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2025,excel,170.50,https://nube.ine.gob.bo/index.php/s/jLb5wFW0JvKCqtR/download
 2025-07-21 16:19:30-04:00,BOLIVIA CONSUMO DE AGUA POTABLE POR CATEGORÍA 2017 – 2025,spreadsheet,139.34,https://nube.ine.gob.bo/index.php/s/kVLBof5FiTKlBjn/download
 2025-07-21 16:24:49-04:00,Bolivia – Superficie registrada en Permisos de Construcción desagregado por Tipo de Trámite según año y mes 2008 – 2025,excel,177.50,https://nube.ine.gob.bo/index.php/s/Ys6tEPQpLWYR4ba/download
