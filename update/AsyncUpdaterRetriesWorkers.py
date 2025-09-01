@@ -15,13 +15,11 @@
 # It took 113.98988858300436s to download with 6 workers
 
 import os
-import random
-import sys
 import time
 import asyncio
 from collections import defaultdict
 from typing import List, Dict, Union, Tuple, Optional, Any, DefaultDict
-from pydantic import BaseModel, HttpUrl
+from pydantic import BaseModel
 import httpx
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -66,10 +64,10 @@ class UpdaterConfig(BaseModel):
     max_connections: int = MAX_CONNECTIONS
     per_page: int = PER_PAGE
     time_zone: str = "America/La_Paz"
-    url_domain: HttpUrl
-    url_download: HttpUrl
-    url_json: HttpUrl
-    url_webdav: HttpUrl
+    url_domain: str
+    url_download: str
+    url_json: str
+    url_webdav: str
 
 def save_csv(df, file: str = None) -> None:
     """
@@ -386,6 +384,14 @@ class AsyncUpdater:
         print(f"It took {t1 - t0}s to download")
         return self.df
 
+def test_webdav(url: str) -> bool:
+    try:
+        with httpx.Client(timeout=10) as client:
+            r = client.request("PROPFIND", url, headers={"Depth": "1"})
+            return r.status_code
+    except Exception:
+        return False
+
 def main():
     # webdav_url = 'https://nube.ine.gob.bo/public.php/webdav'
     # download_url = 'https://nube.ine.gob.bo/index.php/s/{}/download'
@@ -393,18 +399,20 @@ def main():
     data = []
     for url_base in ['www.ine.gob.bo']:
         url = "https://" + url_base + "/wp-json/wp/v2/pages?orderby=modified&per_page={}&offset={}"
-        print(url_base)
+        print(f"buscar en {url_base}")
         for nube in ["nube.ine.gob.bo", "nimbus.ine.gob.bo"]:
+            print(f"enlaces a {nube}")
             webdav_url = f"https://{nube}/public.php/webdav"
-            download_url = f"https://{nube}/index.php/s/{{}}/download"
-            ine_config = UpdaterConfig(
-                url_domain=f"https://{nube}",
-                url_json=url,
-                url_download=download_url,
-                url_webdav=webdav_url,
-                log_level="INFO")
-            ine_files = AsyncUpdater(ine_config, workers=2)
-            data.append(ine_files.run_loop())
+            if test_webdav(webdav_url):
+                download_url = f"https://{nube}/index.php/s/{{}}/download"
+                ine_config = UpdaterConfig(
+                    url_domain=f"https://{nube}",
+                    url_json=url,
+                    url_download=download_url,
+                    url_webdav=webdav_url,
+                    log_level="INFO")
+                ine_files = AsyncUpdater(ine_config, workers=2)
+                data.append(ine_files.run_loop())
     save_csv(pd.concat(data), "catalogo_ine.csv")
 
 if __name__ == '__main__':
