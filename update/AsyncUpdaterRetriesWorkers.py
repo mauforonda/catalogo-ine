@@ -397,7 +397,7 @@ def main():
     # download_url = 'https://nube.ine.gob.bo/index.php/s/{}/download'
     # domain = 'https://nube.ine.gob.bo'
     data = []
-    for url_base in ['www.ine.gob.bo']:
+    for url_base in ['www.ine.gob.bo', 'cpv2024.ine.gob.bo/index.php']:
         url = "https://" + url_base + "/wp-json/wp/v2/pages?orderby=modified&per_page={}&offset={}"
         print(f"buscar en {url_base}")
         for nube in ["nube.ine.gob.bo", "nimbus.ine.gob.bo"]:
