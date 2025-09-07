@@ -378,11 +378,14 @@ class AsyncUpdater:
         workers = asyncio.gather(*self.worker_tasks)
         self.loop.run_until_complete(workers)
         self.loop.run_until_complete(self.close_clients())
-        self.format_catalog()
         t1 = time.monotonic()
-        # self.save_csv()
         print(f"It took {t1 - t0}s to download")
+        if self.catalog:
+            self.format_catalog()
+        else:
+            self.df = pd.DataFrame()
         return self.df
+        # self.save_csv()
 
 def test_webdav(url: str) -> bool:
     try:
@@ -412,7 +415,9 @@ def main():
                     url_webdav=webdav_url,
                     log_level="INFO")
                 ine_files = AsyncUpdater(ine_config, workers=2)
-                data.append(ine_files.run_loop())
+                run_df = ine_files.run_loop()
+                if len(run_df) > 0:
+                    data.append(run_df)
     save_csv(pd.concat(data), "catalogo_ine.csv")
 
 if __name__ == '__main__':
