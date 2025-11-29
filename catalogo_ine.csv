@@ -1730,6 +1730,10 @@ modificado,nombre,tipo,kb,link
 2025-01-07 12:33:00-04:00,Reporte 2024,spreadsheet,92.74,https://nube.ine.gob.bo/index.php/s/3fOhWQmDf8DQlEe/download
 2025-01-07 12:33:00-04:00,Reporte 2024,spreadsheet,92.74,https://nube.ine.gob.bo/index.php/s/3fOhWQmDf8DQlEe/download
 2025-01-15 20:00:00-04:00,BOLETÍN ESTADÍSTICO PRECIOS INTERNACIONALES DICIEMBRE DE 2024,pdf,7829.29,https://nube.ine.gob.bo/index.php/s/ffkjPfPE5LdCxfL/download
+2025-01-21 15:20:57-04:00,"BOLIVIA: INDICADORES DE POBREZA EXTREMA(1), SEGÚN ÁREA, 2005 – 2018",spreadsheet,113.38,https://nube.ine.gob.bo/index.php/s/RkqFdKgwXMq1Jh9/download
+2025-01-21 15:22:57-04:00,"BOLIVIA: INCIDENCIA DE POBREZA EXTREMA, SEGÚN DEPARTAMENTO, 2011-2018",spreadsheet,115.51,https://nube.ine.gob.bo/index.php/s/6ffM4Tt50ILU23N/download
+2025-01-21 15:23:05-04:00,"BOLIVIA: LÍNEAS DE POBREZA Y POBREZA EXTREMA EN BOLIVIANOS POR PERSONA AL MES, SEGÚN ÁREA Y CIUDAD, 1989 – 2018",spreadsheet,118.17,https://nube.ine.gob.bo/index.php/s/9fxl3w1m1sM6hFm/download
+2025-01-21 15:23:11-04:00,"BOLIVIA: INCIDENCIA DE POBREZA, SEGÚN DEPARTAMENTO, 2011-2018",spreadsheet,549.82,https://nube.ine.gob.bo/index.php/s/PL0z2JpMaQtxt6o/download
 2025-01-31 08:52:00-04:00,"BOLIVIA: CASOS E IMPORTES PAGADOS POR PENSIONES DE INVALIDEZ Y MUERTE DE RIESGO COMÚN DEL SEGURO SOCIAL OBLIGATORIO, SEGÚN DEPARTAMENTO, 1998 – 2015, 2018 – 2022",spreadsheet,80.31,https://nube.ine.gob.bo/index.php/s/A54UiXZ8kMDnm0v/download
 2025-01-31 08:52:00-04:00,"BOLIVIA: PENSIÓN PROMEDIO DE JUBILACIÓN EN EL SSO(1) POR MODALIDAD Y SEXO, SEGÚN DEPARTAMENTO, 2003 – 2023",spreadsheet,114.51,https://nube.ine.gob.bo/index.php/s/H4fsM0QtVHKA4CT/download
 2025-01-31 08:52:00-04:00,"BOLIVIA: PENSIONES DE JUBILACIÓN DEL SEGURO SOCIAL OBLIGATORIO POR SEXO Y MODALIDAD DE PENSIÓN, SEGÚN DEPARTAMENTO, 2003 – 2023",spreadsheet,102.27,https://nube.ine.gob.bo/index.php/s/M9tAuYzhm1HYxR1/download
@@ -2128,10 +2132,7 @@ DESCARGA DE BASE DE DATOS CSV 413.1 MB (ZIP)
 2025-09-30 16:52:24-04:00,Santa Cruz – Longitud de Caminos según Red y Rodadura 2000 – 2024,spreadsheet,171.54,https://nube.ine.gob.bo/index.php/s/154MypcF9sggWit/download
 2025-09-30 16:53:54-04:00,Beni – Longitud de Caminos según Red y Rodadura 2000 – 2024,spreadsheet,169.96,https://nube.ine.gob.bo/index.php/s/wYE2eU9lAllOrGc/download
 2025-09-30 16:54:47-04:00,Pando – Longitud de Caminos según Red y Rodadura 2000 – 2024,spreadsheet,170.45,https://nube.ine.gob.bo/index.php/s/MfvfXiE3ogNK1ec/download
-2025-10-03 09:01:53-04:00,LA PAZ NIVEL PROMEDIO DEL LAGO TITICACA ESTACIÓN HUATAJATA 2009 – 2025,spreadsheet,100.80,https://nube.ine.gob.bo/index.php/s/8bZ5b5pHkkaPCw2/download
 2025-10-03 09:03:34-04:00,Documento Metodologico Estadísticas e Indicadores de Salarios Remuneraciones y Empleo Sector Privado,pdf,1963.21,https://nube.ine.gob.bo/index.php/s/3zMnvDNYThWiHUa/download
-2025-10-03 09:14:01-04:00,"BOLIVIA PROMEDIO DE CAUDALES, POR PUNTO DE CONTROL Y RÍO 1998 – 2025",spreadsheet,146.56,https://nube.ine.gob.bo/index.php/s/1yQcqunPWrnLls9/download
-2025-10-03 09:20:11-04:00,"BOLIVIA PROMEDIO DE NIVELES, POR PUNTO DE CONTROL Y RÍO 1998 – 2025",spreadsheet,138.50,https://nube.ine.gob.bo/index.php/s/kq882sx5MALXtVs/download
 2025-10-05 08:15:49-04:00,BOLETÍN ESTADÍSTICO COMEX AGOSTO 2025,pdf,2256.63,https://nimbus.ine.gob.bo/index.php/s/w7koL7PQSBREYfP/download
 2025-10-06 09:12:59-04:00,Documento metodológico Minería,pdf,538.86,https://nube.ine.gob.bo/index.php/s/3kFzyhTvddNocMt/download
 2025-10-06 09:22:39-04:00,Documento metodológico hidrocarburos,pdf,569.29,https://nube.ine.gob.bo/index.php/s/B2s6jiUBjDLqSEY/download
@@ -2214,8 +2215,6 @@ DESCARGA DE BASE DE DATOS CSV 413.1 MB (ZIP)
 2025-10-20 16:42:30-04:00,"Bolivia – Índice de Remuneración Media Nominal del Sector Privado según Grupo ocupacional, 2017-2025",spreadsheet,178.20,https://nube.ine.gob.bo/index.php/s/x9NFAWJ6TdDX9dC/download
 2025-10-20 16:42:31-04:00,"Bolivia – Índice de Remuneración Media Real del Sector Privado según Actividad Económica, 2017-2025",spreadsheet,399.87,https://nube.ine.gob.bo/index.php/s/2RlZyI0ywvsK0ME/download
 2025-10-20 16:42:32-04:00,"Bolivia – Índice de Remuneración Media Real del Sector Privado según Grupo ocupacional, 2017-2025",spreadsheet,178.98,https://nube.ine.gob.bo/index.php/s/GugMEsMNVSANwbK/download
-2025-10-21 08:41:05-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses – Nacional",spreadsheet,504.89,https://nimbus.ine.gob.bo/index.php/s/MMDFrtN5ykmWAe2/download
-2025-10-21 08:41:05-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Grandes Grupos – Nacional",spreadsheet,359.99,https://nimbus.ine.gob.bo/index.php/s/RMLwtb9fsMtoAgX/download
 2025-10-23 15:37:17-04:00,"Bolivia: Índice de volumen de Producción de minerales por subsector de la minería mediana y tipo de mineral según mes, 2017 – 2025",spreadsheet,142.56,https://nube.ine.gob.bo/index.php/s/U561kRx8xpIXQ23/download
 2025-10-23 15:37:17-04:00,"Bolivia – Índice de Salario Medio Nominal del Sector Privado según Grupo ocupacional, 2017-2025",spreadsheet,194.12,https://nube.ine.gob.bo/index.php/s/pMDi8Z3fmpUupQo/download
 2025-10-23 16:16:41-04:00,Descarga el documento 5.7 MB,pdf,5561.60,https://nimbus.ine.gob.bo/index.php/s/c5q3B3bZANwLgFa/download
@@ -2396,7 +2395,7 @@ DESCARGA DE BASE DE DATOS CSV 413.1 MB (ZIP)
 2025-11-03 19:02:49-04:00,"BOLIVIA: POBLACIÓN DE 15 AÑOS O MÁS POR CONDICIÓN DE VÍCTIMA DE ALGÚN HECHO DELICTIVO, SEGÚN CARACTERÍSTICA SELECCIONADA, 2016 – 2024",spreadsheet,86.70,https://nube.ine.gob.bo/index.php/s/8VOyNQbcloG5H11/download
 2025-11-03 19:05:10-04:00,"BOLIVIA: PERCEPCIÓN DE SEGURIDAD DE LA POBLACIÓN DE 15 AÑOS O MÁS, SOBRE CÚANTA CONFIANZA LES INSPIRA LA POLICIA BOLIVIANA, SEGÚN CARACTERÍSTICA SELECCIONADA, 2021 Y 2024",spreadsheet,88.35,https://nube.ine.gob.bo/index.php/s/a4q9WLUjbsIb8MO/download
 2025-11-03 20:24:23-04:00,"SANTA CRUZ: INGRESO PROMEDIO MENSUAL EN LA OCUPACIÓN PRINCIPAL, SEGÚN CARACTERÍSTICAS OCUPACIONALES, 2011 – 2024",spreadsheet,91.95,https://nube.ine.gob.bo/index.php/s/9p2iKeXwgGAmmTb/download
-2025-11-03 20:46:13-04:00,"BOLIVIA: INDICADORES DE POBREZA EXTREMA, SEGÚN ÁREA, 2016 – 2024",spreadsheet,283.41,https://nube.ine.gob.bo/index.php/s/S9q946tPUVX3P8i/download
+2025-11-03 20:46:13-04:00,"BOLIVIA:INDICADORES DE POBREZA EXTREMA(1), SEGÚN ÁREA, 2016-2024",spreadsheet,283.41,https://nube.ine.gob.bo/index.php/s/S9q946tPUVX3P8i/download
 2025-11-04 09:01:22-04:00,"BOLIVIA: LOCALES Y UNIDADES EDUCATIVAS EN LA EDUCACIÓN REGULAR, SEGÚN DEPARTAMENTO, 2011 – 2024",spreadsheet,58.64,https://nube.ine.gob.bo/index.php/s/11XPQlf1OIInZqm/download
 2025-11-04 09:01:22-04:00,"BOLIVIA: DOCENTES EN EJERCICIO EN LA EDUCACIÓN PÚBLICA, SEGÚN NIVEL DE EDUCACIÓN Y DEPARTAMENTO, 2012 – 2024",spreadsheet,60.36,https://nube.ine.gob.bo/index.php/s/3MtwZHa7j4KCyo8/download
 2025-11-04 09:01:22-04:00,"BOLIVIA: PERSONAL ADMINISTRATIVO DE UNIDADES EDUCATIVAS EN LA EDUCACIÓN PÚBLICA, SEGÚN CARGO Y DEPARTAMENTO, 2011 – 2024",spreadsheet,61.76,https://nube.ine.gob.bo/index.php/s/BxpU6xlgtmyFhiJ/download
@@ -2430,10 +2429,9 @@ DESCARGA DE BASE DE DATOS CSV 413.1 MB (ZIP)
 2025-11-04 09:27:21-04:00,"TARIJA: INGRESO PROMEDIO MENSUAL EN LA OCUPACIÓN PRINCIPAL, SEGÚN CARACTERÍSTICAS OCUPACIONALES, 2011 – 2024",spreadsheet,99.69,https://nube.ine.gob.bo/index.php/s/AGOaXWxP3tBn7uu/download
 2025-11-04 09:31:04-04:00,"BENI: INGRESO PROMEDIO MENSUAL EN LA OCUPACIÓN PRINCIPAL, SEGÚN CARACTERÍSTICAS OCUPACIONALES, 2011 – 2024",spreadsheet,93.98,https://nube.ine.gob.bo/index.php/s/fCJgof0XM2BMbEn/download
 2025-11-04 09:35:27-04:00,"PANDO: INGRESO PROMEDIO MENSUAL EN LA OCUPACIÓN PRINCIPAL, SEGÚN CARACTERÍSTICAS OCUPACIONALES, 2011 – 2024",spreadsheet,98.13,https://nube.ine.gob.bo/index.php/s/wEY6RVOxWjmCijW/download
-2025-11-04 09:37:39-04:00,"BOLIVIA: LÍNEAS DE POBREZA Y POBREZA EXTREMA EN BOLIVIANOS POR PERSONA AL MES, SEGÚN ÁREA Y CIUDAD 1989 – 2024",spreadsheet,295.10,https://nube.ine.gob.bo/index.php/s/DT1xxsLildqwBq1/download
-2025-11-04 09:39:57-04:00,"BOLIVIA: INCIDENCIA DE POBREZA EXTREMA, SEGÚN DEPARTAMENTO, 2016-2024",spreadsheet,294.15,https://nube.ine.gob.bo/index.php/s/sXTvYcP5MQeRaU9/download
-2025-11-04 09:41:21-04:00,"BOLIVIA: INDICADORES DE POBREZA, SEGÚN ÁREA, 2016 – 2024",spreadsheet,284.08,https://nube.ine.gob.bo/index.php/s/MwlP5BcDCs1yIg1/download
-2025-11-04 09:41:38-04:00,"BOLIVIA: INCIDENCIA DE POBREZA, SEGÚN DEPARTAMENTO, 2016-2024",spreadsheet,317.32,https://nube.ine.gob.bo/index.php/s/Jwbz9yvOAjt3eFo/download
+2025-11-04 09:37:39-04:00,"BOLIVIA: LÍNEAS DE POBREZA Y POBREZA EXTREMA EN BOLIVIANOS POR PERSONA AL MES, SEGÚN ÁREA Y CIUDAD 2016 – 2024",spreadsheet,295.10,https://nube.ine.gob.bo/index.php/s/DT1xxsLildqwBq1/download
+2025-11-04 09:41:21-04:00,"BOLIVIA: INDICADORES DE POBREZA(1), SEGÚN ÁREA, 2016-2024",spreadsheet,284.08,https://nube.ine.gob.bo/index.php/s/MwlP5BcDCs1yIg1/download
+2025-11-04 09:41:38-04:00,"BOLIVIA: INCIDENCIA DE POBREZA(1), SEGÚN DEPARTAMENTO, 2016-2024",spreadsheet,317.32,https://nube.ine.gob.bo/index.php/s/Jwbz9yvOAjt3eFo/download
 2025-11-04 09:58:32-04:00,"BOLIVIA: RAZÓN DE PERCENTIL PARA EL INGRESO PER CÁPITA MENSUAL, 2005 – 2024",spreadsheet,277.23,https://nube.ine.gob.bo/index.php/s/WwHJTCz1GFtDAvJ/download
 2025-11-04 09:58:48-04:00,"BOLIVIA: ÍNDICE DE GINI PARA EL INGRESO PER CÁPITA MENSUAL, SEGÚN ÁREA, 2005 – 2024",spreadsheet,289.92,https://nube.ine.gob.bo/index.php/s/HUlsrhvWNgm5hvC/download
 2025-11-04 11:19:32-04:00,Precios Promedio,spreadsheet,1771.74,https://nimbus.ine.gob.bo/index.php/s/6X98cbLLRSE9pqz/download
@@ -2724,3 +2722,8 @@ DESCARGA DE BASE DE DATOS CSV 413.1 MB (ZIP)
 
 DESCARGA COMPLETA 140.7 MB (ZIP)
 ",zip,144087.34,https://nube.ine.gob.bo/index.php/s/RqKGYvtj3FbWfVX/download
+2025-11-25 16:41:18-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses – Nacional",spreadsheet,623.89,https://nimbus.ine.gob.bo/index.php/s/NDyyBpiCGW8AAwB/download
+2025-11-25 16:41:18-04:00,"Índice General, Variación Mensual, Acumulada y a 12 meses, Según Grandes Grupos – Nacional",spreadsheet,595.82,https://nimbus.ine.gob.bo/index.php/s/m9mfSjmz4MTpepB/download
+2025-11-28 15:59:35-04:00,"BOLIVIA PROMEDIO DE CAUDALES, POR PUNTO DE CONTROL Y RÍO 1998 – 2025",spreadsheet,147.86,https://nube.ine.gob.bo/index.php/s/1yQcqunPWrnLls9/download
+2025-11-28 15:59:35-04:00,LA PAZ NIVEL PROMEDIO DEL LAGO TITICACA ESTACIÓN HUATAJATA 2009 – 2025,spreadsheet,101.62,https://nube.ine.gob.bo/index.php/s/8bZ5b5pHkkaPCw2/download
+2025-11-28 15:59:35-04:00,"BOLIVIA PROMEDIO DE NIVELES, POR PUNTO DE CONTROL Y RÍO 1998 – 2025",spreadsheet,139.22,https://nube.ine.gob.bo/index.php/s/kq882sx5MALXtVs/download
