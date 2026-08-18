@@ -6,6 +6,7 @@ const catalogue = document.querySelector("#catalogue");
 const searchBox = document.querySelector("#search");
 const clear = document.querySelector("button");
 let rows = [], filtered = [], shown = 0;
+const timestamp = value => Number.isNaN(Date.parse(value)) ? 0 : Date.parse(value);
 
 const icons = {
   file: '<path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z"/><path d="M14 2v5a1 1 0 0 0 1 1h5"/>',
@@ -43,9 +44,19 @@ const render = () => {
   batch.forEach(row => {
     const dataset = document.createElement("div");
     dataset.className = "dataset";
-    const date = new Intl.DateTimeFormat("es-BO", { day: "numeric", month: "long", timeZone: "America/La_Paz" }).format(new Date(row.modificado));
-    dataset.innerHTML = `<a href="${row.link}"><div><span class="name"></span>${icon(row.tipo)}</div><div class="meta"><span>${date}</span><span>${row.kb} KB</span></div></a>`;
+    const modified = timestamp(row.modificado);
+    const cutoff = new Date();
+    cutoff.setMonth(cutoff.getMonth() - 11);
+    const date = modified && new Intl.DateTimeFormat("es-BO", {
+      day: "numeric", month: "long", ...(modified < cutoff ? { year: "numeric" } : {}), timeZone: "America/La_Paz",
+    }).format(modified);
+    const available = row.disponible?.toLowerCase() === "true";
+    dataset.innerHTML = `<a><div class="top"><span class="name"></span><span class="status">${icon(row.tipo)}<span class="availability${available ? " available" : ""}" title="${available ? "Disponible" : "No disponible"}"></span></span></div><div class="page"></div><div class="meta"><span></span><span></span></div></a>`;
+    dataset.querySelector("a").href = row.link;
     dataset.querySelector(".name").textContent = row.nombre;
+    dataset.querySelector(".page").textContent = row.pagina;
+    dataset.querySelector(".meta span").textContent = date || "";
+    dataset.querySelector(".meta span + span").textContent = row.kb ? `${row.kb} KB` : "";
     list.append(dataset);
   });
 };
@@ -65,6 +76,6 @@ input.addEventListener("input", search);
 clear.addEventListener("click", () => { input.value = ""; input.focus(); search(); });
 
 fetch(source).then(response => response.text()).then(text => {
-  rows = csv(text).sort((a, b) => new Date(b.modificado) - new Date(a.modificado) || a.link.localeCompare(b.link));
+  rows = csv(text).sort((a, b) => timestamp(b.modificado) - timestamp(a.modificado) || a.link.localeCompare(b.link));
   search();
 });
