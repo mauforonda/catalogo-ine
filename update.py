@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
-"""Build a resilient catalogue of public INE document metadata.
+"""Build a durable catalogue of public INE document metadata.
 
-The catalogue is a snapshot of the metadata that can be retrieved during this
-run.  A failed WordPress page or WebDAV resource is skipped; it never aborts
-the rest of the build.  The output is replaced atomically only after at least
-one valid record has been collected.
+Each run discovers the current links and merges them with the previous CSV.
+Rows no longer discovered are retained, but marked unavailable.
 """
 
 from __future__ import annotations
@@ -57,6 +55,8 @@ TYPE_MAP = {
     "application/zip": "zip",
     "application/octet-stream": "stream",
 }
+CATALOG_FIELDS = ("modificado", "nombre", "pagina", "tipo", "kb", "link", "disponible")
+CatalogRecord = dict[str, str | float | bool]
 
 
 @dataclass(frozen=True)
@@ -64,6 +64,7 @@ class Document:
     host: str
     token: str
     name: str
+    page: str
 
     @property
     def link(self) -> str:
@@ -144,6 +145,7 @@ def extract_documents(pages: Iterable[dict[str, Any]]) -> dict[tuple[str, str], 
     documents: dict[tuple[str, str], Document] = {}
     for page in pages:
         content = page.get("content", {}).get("rendered", "")
+        page_title = BeautifulSoup(page.get("title", {}).get("rendered", ""), "html.parser").get_text(" ", strip=True)
         for anchor in BeautifulSoup(content, "html.parser").select("a[href]"):
             parsed = urlparse(anchor["href"])
             host = (parsed.hostname or "").lower()
@@ -157,8 +159,8 @@ def extract_documents(pages: Iterable[dict[str, Any]]) -> dict[tuple[str, str], 
             name = anchor.get_text(" ", strip=True) or token
             key = (host, token)
             existing = documents.get(key)
-            if existing is None or len(name) > len(existing.name):
-                documents[key] = Document(host=host, token=token, name=name)
+            if existing is None or (len(name), len(page_title), page_title) > (len(existing.name), len(existing.page), existing.page):
+                documents[key] = Document(host=host, token=token, name=name, page=page_title)
     return documents
 
 
@@ -184,7 +186,7 @@ def find_properties(node: Any) -> dict[str, Any] | None:
     return None
 
 
-def metadata_record(document: Document, xml: str) -> dict[str, str | float] | None:
+def metadata_record(document: Document, xml: str) -> CatalogRecord | None:
     try:
         properties = find_properties(xmltodict.parse(xml))
         if properties is None:
@@ -200,15 +202,17 @@ def metadata_record(document: Document, xml: str) -> dict[str, str | float] | No
     return {
         "modificado": modified.astimezone(TIME_ZONE).isoformat(sep=" ", timespec="seconds"),
         "nombre": document.name,
+        "pagina": document.page,
         "tipo": TYPE_MAP.get(content_type, content_type or "unknown"),
         "kb": round(size / 1024, 2),
         "link": document.link,
+        "disponible": True,
     }
 
 
 async def fetch_metadata(
     client: httpx.AsyncClient, document: Document, semaphore: asyncio.Semaphore
-) -> dict[str, str | float] | None:
+) -> CatalogRecord | None:
     async with semaphore:
         response = await request_with_retries(
             client,
@@ -220,7 +224,55 @@ async def fetch_metadata(
     return None if response is None else metadata_record(document, response.text)
 
 
-def write_catalog(records: list[dict[str, str | float]], output: Path) -> None:
+def load_catalog(source: Path) -> dict[str, CatalogRecord]:
+    """Load the prior index, accepting catalogues from older schema versions."""
+    if not source.exists():
+        return {}
+    with source.open(encoding="utf-8", newline="") as file:
+        return {
+            row["link"]: {
+                "modificado": row.get("modificado", ""),
+                "nombre": row.get("nombre", ""),
+                "pagina": row.get("pagina", ""),
+                "tipo": row.get("tipo", ""),
+                "kb": row.get("kb", ""),
+                "link": row["link"],
+                "disponible": False,
+            }
+            for row in csv.DictReader(file)
+            if row.get("link")
+        }
+
+
+def consolidate_catalog(
+    previous: dict[str, CatalogRecord],
+    documents: Iterable[Document],
+    metadata: Iterable[CatalogRecord],
+) -> list[CatalogRecord]:
+    """Retain every known link and mark this run's discovered links available."""
+    catalog = {link: {**record, "disponible": False} for link, record in previous.items()}
+    available = {str(record["link"]): record for record in metadata}
+
+    for document in documents:
+        record = available.get(document.link)
+        if record is not None:
+            catalog[document.link] = record
+            continue
+        prior = catalog.get(document.link, {})
+        catalog[document.link] = {
+            **prior,
+            "modificado": prior.get("modificado", ""),
+            "nombre": document.name,
+            "pagina": document.page,
+            "tipo": prior.get("tipo", ""),
+            "kb": prior.get("kb", ""),
+            "link": document.link,
+            "disponible": True,
+        }
+    return list(catalog.values())
+
+
+def write_catalog(records: list[CatalogRecord], output: Path) -> None:
     """Atomically replace the final CSV, never exposing a half-written file."""
     output.parent.mkdir(parents=True, exist_ok=True)
     records.sort(
@@ -228,6 +280,7 @@ def write_catalog(records: list[dict[str, str | float]], output: Path) -> None:
             str(row["modificado"]),
             str(row["link"]),
             str(row["nombre"]),
+            str(row["pagina"]),
             str(row["tipo"]),
         )
     )
@@ -236,7 +289,7 @@ def write_catalog(records: list[dict[str, str | float]], output: Path) -> None:
     ) as temporary:
         writer = csv.DictWriter(
             temporary,
-            fieldnames=["modificado", "nombre", "tipo", "kb", "link"],
+            fieldnames=CATALOG_FIELDS,
             lineterminator="\n",
         )
         writer.writeheader()
@@ -245,34 +298,45 @@ def write_catalog(records: list[dict[str, str | float]], output: Path) -> None:
     os.replace(temporary_name, output)
 
 
-async def build_catalog() -> tuple[list[dict[str, str | float]], BuildStats]:
+async def build_catalog() -> tuple[list[CatalogRecord], list[Document], BuildStats]:
     stats = BuildStats()
     limits = httpx.Limits(max_connections=METADATA_CONCURRENCY, max_keepalive_connections=10)
     async with httpx.AsyncClient(timeout=TIMEOUT, limits=limits, follow_redirects=True) as client:
+        print("Páginas: consultando fuentes…", flush=True)
         source_pages = await asyncio.gather(*(fetch_source_pages(client, source) for source in WORDPRESS_SOURCES))
         pages = [page for source in source_pages for page in source]
         stats.pages = len(pages)
         documents = extract_documents(pages)
         stats.documents = len(documents)
+        print(f"Páginas: {stats.pages}; enlaces: {stats.documents}", flush=True)
         semaphores = {host: asyncio.Semaphore(PER_HOST_CONCURRENCY) for host in SUPPORTED_HOSTS}
-        results = await asyncio.gather(
-            *(
-                fetch_metadata(client, document, semaphores[document.host])
-                for _, document in sorted(documents.items())
-            )
-        )
+        tasks = [
+            asyncio.create_task(fetch_metadata(client, document, semaphores[document.host]))
+            for _, document in sorted(documents.items())
+        ]
+        print(f"Metadatos: 0/{len(tasks)}", flush=True)
+        results = []
+        for completed, task in enumerate(asyncio.as_completed(tasks), start=1):
+            results.append(await task)
+            if completed % 100 == 0 or completed == len(tasks):
+                print(f"Metadatos: {completed}/{len(tasks)}", flush=True)
     records = [record for record in results if record is not None]
     stats.metadata = len(records)
-    return records, stats
+    return records, list(documents.values()), stats
 
 
 def main() -> int:
-    records, stats = asyncio.run(build_catalog())
-    if not records:
-        print(f"No se pudo construir un catálogo válido (páginas={stats.pages}, enlaces={stats.documents}).")
+    records, documents, stats = asyncio.run(build_catalog())
+    if not documents:
+        print(f"No se descubrieron enlaces (páginas={stats.pages}); se conserva el catálogo anterior.")
         return 1
-    write_catalog(records, OUTPUT_FILE)
-    print(f"Catálogo actualizado: {stats.metadata}/{stats.documents} enlaces, {stats.pages} páginas.")
+    catalog = consolidate_catalog(load_catalog(OUTPUT_FILE), documents, records)
+    write_catalog(catalog, OUTPUT_FILE)
+    available = sum(record["disponible"] is True for record in catalog)
+    print(
+        f"Catálogo consolidado: {available}/{len(catalog)} disponibles; "
+        f"{stats.metadata} metadatos actualizados; {stats.pages} páginas."
+    )
     return 0
 
 
