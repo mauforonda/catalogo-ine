@@ -63,7 +63,7 @@ const render = () => {
 
 const search = () => {
   const query = input.value.toLocaleLowerCase();
-  filtered = rows.filter(row => row.nombre.toLocaleLowerCase().includes(query));
+  filtered = rows.filter(row => [row.nombre, row.pagina].some(value => value.toLocaleLowerCase().includes(query)));
   shown = 0;
   list.replaceChildren();
   catalogue.scrollTop = 0;
