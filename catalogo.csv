@@ -2578,14 +2578,6 @@ modificado,nombre,pagina,tipo,kb,link,disponible
 2026-08-31 22:38:03-04:00,"Bolivia – Comercio Exterior según Clasificación Uniforme para el Comercio Internacional, 1992 – 2026",Saldo Comercial,spreadsheet,1296.4,https://nube.ine.gob.bo/index.php/s/9Exzmw9AdYipqG9/download,True
 2026-08-31 22:38:03-04:00,"Bolivia – Comercio Exterior según Año y Mes, 1992 – 2026",Saldo Comercial,spreadsheet,103.33,https://nube.ine.gob.bo/index.php/s/YmNagUYOHcty0fZ/download,True
 2026-08-31 22:38:03-04:00,"Bolivia – Comercio Exterior según Grandes Categorías Económicas, 1992 – 2026",Saldo Comercial,spreadsheet,512.83,https://nube.ine.gob.bo/index.php/s/oXl98KJQsspLm0a/download,True
-2026-08-31 22:48:14-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año y Mes, 2017 – 2026",Exportaciones,spreadsheet,936.66,https://nube.ine.gob.bo/index.php/s/0ToRunCr9uUpLOH/download,True
-2026-08-31 22:48:14-04:00,"Bolivia – Exportaciones según Clasificación Uniforme para el Comercio Internacional por Año y Mes, 1992 – 2026",Exportaciones,spreadsheet,900.23,https://nube.ine.gob.bo/index.php/s/CpA4Ifn970h32Wp/download,True
-2026-08-31 22:48:14-04:00,"Bolivia – Exportaciones según País de Destino por Año y Mes, 1992 – 2026",Exportaciones,spreadsheet,1219.42,https://nube.ine.gob.bo/index.php/s/S01Wuf1I35GbFDA/download,True
-2026-08-31 22:48:14-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año, 2010 – 2026",Exportaciones,spreadsheet,334.27,https://nube.ine.gob.bo/index.php/s/UM0CTaUNXnPUSX4/download,True
-2026-08-31 22:48:14-04:00,"Bolivia – Exportaciones según Departamento y Producto por Año, 2010 – 2026",Exportaciones,spreadsheet,117.0,https://nube.ine.gob.bo/index.php/s/WZY6zSwUD3XV1sc/download,True
-2026-08-31 22:48:14-04:00,"Bolivia – Exportaciones según Departamento y Producto por Año y Mes, 2017 – 2026",Exportaciones,spreadsheet,290.68,https://nube.ine.gob.bo/index.php/s/Z2K43QnfeGoT0we/download,True
-2026-08-31 22:48:14-04:00,"Bolivia – Exportaciones según Grandes Categorías Económicas por Año y Mes, 1992 – 2026",Exportaciones,spreadsheet,406.13,https://nube.ine.gob.bo/index.php/s/xwkBkig3lAy9uMr/download,True
-2026-08-31 22:48:14-04:00,"Bolivia – Exportaciones según Actividad Económica y Producto por Año y Mes, 1992 – 2026",Exportaciones,spreadsheet,861.45,https://nube.ine.gob.bo/index.php/s/yJT9Q8KKyvhG4pi/download,True
 2026-08-31 22:58:08-04:00,"Bolivia – Importaciones Agregadas según Clasificación Uso o Destino Económico por Año y Mes, 1992 – 2026",Importaciones,spreadsheet,284.4,https://nube.ine.gob.bo/index.php/s/3MDafqtdVNXRwmU/download,True
 2026-08-31 22:58:08-04:00,Bolivia – Importaciones según Clasificación Internacional Industrial Uniforme por Año y Mes 1992 – 2026,Importaciones,spreadsheet,472.05,https://nube.ine.gob.bo/index.php/s/JqbOsowvzhvzt4E/download,True
 2026-08-31 22:58:08-04:00,Bolivia – Importaciones según País de Origen por Año y Mes 1992 – 2026,Importaciones,spreadsheet,1406.87,https://nube.ine.gob.bo/index.php/s/PIKeAYbOtD47sAY/download,True
@@ -2595,7 +2587,15 @@ modificado,nombre,pagina,tipo,kb,link,disponible
 2026-08-31 22:58:08-04:00,Bolivia – Importaciones según Clasificación Uso o Destino Económico por Año y Mes 1992 – 2026,Importaciones,spreadsheet,589.77,https://nube.ine.gob.bo/index.php/s/uVLkFa0Hr1vtlSb/download,True
 2026-08-31 23:02:20-04:00,IMPORTACIONES RITEX ENE A JUL 2026p,Importaciones,spreadsheet,49.1,https://nube.ine.gob.bo/index.php/s/JerHzMIpMbTWKme/download,True
 2026-08-31 23:02:21-04:00,IMPORTACIONES ENE A JUL 2026p,Importaciones,spreadsheet,32593.12,https://nube.ine.gob.bo/index.php/s/pwR2gXjuI9g9ZD9/download,True
-2026-09-01 11:15:35-04:00,EXPORTACIONES RITEX ENE A JUL 2026p,Exportaciones,spreadsheet,30.75,https://nube.ine.gob.bo/index.php/s/bhNcCZPSlp2z9an/download,True
-2026-09-01 11:15:35-04:00,EXPORTACIONES ENE A JUL 2026p,Exportaciones,spreadsheet,1504.12,https://nube.ine.gob.bo/index.php/s/xaMB9uKDKfEJx9K/download,True
-2026-09-01 11:15:35-04:00,"Bolivia- Exportaciones según Productos Tradicionales y No Tradicionales por Año y Mes, 1992 – 2026",Exportaciones,spreadsheet,596.97,https://nube.ine.gob.bo/index.php/s/zUQc65wIGkw1KUy/download,True
 2026-09-01 13:51:55-04:00,Reporte 2026,Atención al usuario,spreadsheet,141.51,https://nube.ine.gob.bo/index.php/s/9LSGbF9qnUzBWhQ/download,True
+2026-09-02 10:38:50-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año y Mes, 2017 – 2026",Exportaciones,spreadsheet,935.47,https://nube.ine.gob.bo/index.php/s/0ToRunCr9uUpLOH/download,True
+2026-09-02 10:38:50-04:00,"Bolivia – Exportaciones según Clasificación Uniforme para el Comercio Internacional por Año y Mes, 1992 – 2026",Exportaciones,spreadsheet,899.38,https://nube.ine.gob.bo/index.php/s/CpA4Ifn970h32Wp/download,True
+2026-09-02 10:38:50-04:00,"Bolivia – Exportaciones según País de Destino por Año y Mes, 1992 – 2026",Exportaciones,spreadsheet,1217.57,https://nube.ine.gob.bo/index.php/s/S01Wuf1I35GbFDA/download,True
+2026-09-02 10:38:50-04:00,"Bolivia – Exportaciones según País de Destino y Producto por Año, 2010 – 2026",Exportaciones,spreadsheet,333.1,https://nube.ine.gob.bo/index.php/s/UM0CTaUNXnPUSX4/download,True
+2026-09-02 10:38:50-04:00,"Bolivia – Exportaciones según Departamento y Producto por Año, 2010 – 2026",Exportaciones,spreadsheet,117.0,https://nube.ine.gob.bo/index.php/s/WZY6zSwUD3XV1sc/download,True
+2026-09-02 10:38:50-04:00,"Bolivia – Exportaciones según Departamento y Producto por Año y Mes, 2017 – 2026",Exportaciones,spreadsheet,290.0,https://nube.ine.gob.bo/index.php/s/Z2K43QnfeGoT0we/download,True
+2026-09-02 10:38:50-04:00,EXPORTACIONES RITEX ENE A JUL 2026p,Exportaciones,spreadsheet,29.2,https://nube.ine.gob.bo/index.php/s/bhNcCZPSlp2z9an/download,True
+2026-09-02 10:38:50-04:00,EXPORTACIONES ENE A JUL 2026p,Exportaciones,spreadsheet,1504.33,https://nube.ine.gob.bo/index.php/s/xaMB9uKDKfEJx9K/download,True
+2026-09-02 10:38:50-04:00,"Bolivia – Exportaciones según Grandes Categorías Económicas por Año y Mes, 1992 – 2026",Exportaciones,spreadsheet,405.43,https://nube.ine.gob.bo/index.php/s/xwkBkig3lAy9uMr/download,True
+2026-09-02 10:38:50-04:00,"Bolivia – Exportaciones según Actividad Económica y Producto por Año y Mes, 1992 – 2026",Exportaciones,spreadsheet,859.97,https://nube.ine.gob.bo/index.php/s/yJT9Q8KKyvhG4pi/download,True
+2026-09-02 10:38:50-04:00,"Bolivia- Exportaciones según Productos Tradicionales y No Tradicionales por Año y Mes, 1992 – 2026",Exportaciones,spreadsheet,596.92,https://nube.ine.gob.bo/index.php/s/zUQc65wIGkw1KUy/download,True
